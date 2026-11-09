@@ -25,7 +25,7 @@
 <div class="reviews">
   <ul class="reviews__list">
     {% if r["items"] %}
-      {% for it in r["items"] %}<li class="review"><blockquote><p>{{ it.text }}</p></blockquote><p class="review__who">{{ it.name }} · {{ r.label }}</p></li>{% endfor %}
+      {% for it in r["items"] %}<li class="review"><blockquote{% if it.lang %} lang="{{ it.lang }}"{% endif %}>{% for par in it.text.split('\n') %}<p>{{ par }}</p>{% endfor %}</blockquote><p class="review__who">{{ it.name }} · {{ r.label }}</p></li>{% endfor %}
     {% else %}
       {% for n in range(3) %}<li class="review review--pending"><p>[PENDENT] Ressenya {{ n + 1 }} · la tria l'Aleix de la fitxa de Google</p><p class="review__who">[Nom] · {{ r.label }}</p></li>{% endfor %}
     {% endif %}

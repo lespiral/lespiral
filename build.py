@@ -526,6 +526,8 @@ shutil.copytree(SRC / "img", OUT / "assets" / "img", dirs_exist_ok=True)
 # (OAI-SearchBot, ChatGPT-User, Claude-SearchBot, PerplexityBot...: calen perquè les IA puguin citar la web).
 # Els robots que entrenen les IA, segons la decisió 21 (data/site.json, "ai_training": "permet" o "bloqueja").
 AI_TRAINING_BOTS = ["GPTBot", "ClaudeBot", "Google-Extended", "CCBot", "Applebot-Extended", "Meta-ExternalAgent", "Bytespider"]
+BLOCKED_BOTS = ["AhrefsBot", "SemrushBot", "MJ12bot", "DotBot", "Rogerbot", "BLEXBot", "SerpstatBot",
+                "PetalBot", "Bytespider", "Amazonbot", "Baiduspider", "YandexBot", "Sogou"]
 if NOINDEX:
     (OUT / "robots.txt").write_text("User-agent: *\nDisallow: /\n")
 else:
@@ -534,6 +536,10 @@ else:
         print("ATENCIÓ: falta la decisió 21 (data/site.json, \"ai_training\": \"permet\" o \"bloqueja\"). No es publica amb el domini sense decidir-ho.")
         sys.exit(1)
     rb = "User-agent: *\nAllow: /\n"
+    # Els mateixos bloquejos que el robots.txt del WordPress (llegit el 9/11/2026; l'Aleix vol mantenir-los):
+    # eines de SEO, robots agressius i cercadors estrangers.
+    rb += "\n# Eines de SEO, robots agressius i cercadors estrangers (com a la web anterior)\n" + "".join(
+        f"User-agent: {b}\nDisallow: /\n" for b in BLOCKED_BOTS)
     if decision == "bloqueja":
         rb += "\n# Robots que entrenen models d'IA (decisió 21): no\n" + "".join(f"User-agent: {b}\n" for b in AI_TRAINING_BOTS) + "Disallow: /\n"
     rb += f"\nSitemap: {SITE_URL}sitemap_index.xml\n"

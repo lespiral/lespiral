@@ -6,7 +6,7 @@
  "modified": "2026-04-24",
  "seo_title": "Osona - L'Espiral",
  "description": "Transforma els teus",
- "lang": "es",
+ "lang": "ca",
  "h1_inventari": "Psicòlegs, Terapeutes i Mentors a Mindfulness a Osona",
  "og_title": "Osona - L'Espiral",
  "og_image": "/wp-content/uploads/2023/06/Lespiral-terapia-gestalt-4-2.png",
@@ -92,8 +92,7 @@
              "html": "Mindfulness terapèutic"
             },
             {
-             "html": "Mindfulness terapèutic",
-             "href": "Tallers i formacions"
+             "html": "Mindfulness terapèutic"
             }
            ]
           }
@@ -169,7 +168,7 @@
           {
            "t": "h",
            "tag": "h2",
-           "html": "Psicòlegs i terapeutes <br> A<span style=\"background-color: initial;\">mb experiència en línia, i ben aviat, també presencialment ben a prop teu.</span><span style=\"background-color: initial;\"></span><br>"
+           "html": "Psicòlegs i terapeutes <br> A<span>mb experiència en línia, i ben aviat, també presencialment ben a prop teu.</span><span></span><br>"
           }
          ],
          [
@@ -634,5 +633,10 @@
     ]
    ]
   }
- ]
+ ],
+ "project_link": {
+  "text": "Més informació a la web de L'Espiral d'Osona",
+  "href": "https://espiralosona.com/",
+  "label": "espiralosona.com"
+ }
 }

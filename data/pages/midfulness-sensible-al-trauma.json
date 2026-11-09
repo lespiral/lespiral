@@ -298,5 +298,11 @@
    ],
    "tone": "light"
   }
- ]
+ ],
+ "show_title": true,
+ "project_link": {
+  "text": "Más información en la web de Mindfulness Sensible al Trauma",
+  "href": "https://mindfulnesssensiblealtrauma.com/",
+  "label": "mindfulnesssensiblealtrauma.com"
+ }
 }

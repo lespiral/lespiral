@@ -16,7 +16,7 @@
      {
       "t": "h",
       "tag": "h1",
-      "html": "<h4 class=\"elementor-heading-title elementor-size-default elementor-inline-editing pen\" data-elementor-setting-key=\"title\" data-pen-placeholder=\"Type Here...\" style=\"border: 0px; font-size: 117px; font-weight: 400; vertical-align: baseline; clear: both; line-height: 1.2em; font-family: Forum, display; letter-spacing: -3px; text-align: center;\">El trabajo que reconecta</h4>"
+      "html": "El trabajo que reconecta"
      },
      {
       "t": "h",
@@ -26,7 +26,7 @@
      {
       "t": "h",
       "tag": "p",
-      "html": "<span style=\"font-family: &quot;Work Sans&quot;, sans-serif; font-size: 50px; letter-spacing: -3px; text-align: center;\"> Esperanza Activa.</span><span style=\"font-family: &quot;Work Sans&quot;, sans-serif; font-size: 50px; letter-spacing: -3px; text-align: center;\"></span>"
+      "html": "<span> Esperanza Activa.</span><span></span>"
      }
     ]
    ],
@@ -109,5 +109,10 @@
     ]
    ]
   }
- ]
+ ],
+ "project_link": {
+  "text": "Más información en la web de Elara Social",
+  "href": "https://elarasocial.com/",
+  "label": "elarasocial.com"
+ }
 }

@@ -254,7 +254,74 @@ def hidden_desktop(st):
 
 def link_of(st, key="link"):
     l = st.get(key) or {}
-    return local_url(l.get("url")) if isinstance(l, dict) and l.get("url") else None
+    if not (isinstance(l, dict) and l.get("url")):
+        return None
+    u = l["url"].strip()
+    # Enllaços mal escrits a Elementor (a la web d'ara portaven a la portada): «t.me/...» sense https:// es
+    # completa; un text que no és cap adreça («Tallers i formacions») es treu i el text es queda sense enllaç.
+    if not re.match(r"^(https?:|mailto:|tel:|/|#)", u, re.I):
+        if re.match(r"^[\w.-]+\.[a-z]{2,}(/\S*)?$", u, re.I):
+            u = "https://" + u
+        else:
+            return None
+    return local_url(u)
+
+
+# ---------------------------------------------------------------- wptexturize (cometes i guions tipogràfics)
+
+NO_TEXTURIZE = re.compile(r"<(pre|code|kbd|style|script|tt)\b.*?</\1>", re.S | re.I)
+
+
+def _texturize_text(t):
+    t = t.replace("---", "\u2014").replace(" -- ", " \u2014 ").replace("--", "\u2013").replace(" - ", " \u2013 ")
+    t = t.replace("...", "\u2026").replace("``", "\u201c").replace("''", "\u201d")
+    t = re.sub(r"(^|[\s(\[{<\u2014\u2013\-])\"", "\\1\u201c", t)
+    t = t.replace('"', "\u201d")
+    t = re.sub(r"(^|[\s(\[{<\u2014\u2013\-\u201c])'", "\\1\u2018", t)
+    t = t.replace("'", "\u2019")
+    return t
+
+
+def texturize(h):
+    """Com wptexturize() de WordPress (el fa servir als títols i al text de les entrades): “cometes”, apòstrofs ’,
+    punts suspensius … i guions – —. No toca les etiquetes HTML ni el que hi ha dins de <pre>, <code>, <script>..."""
+    if not h:
+        return h
+    keep = {}
+
+    def hold(m):
+        k = f"\x00{len(keep)}\x00"
+        keep[k] = m.group(0)
+        return k
+    h = NO_TEXTURIZE.sub(hold, h)
+    h = re.sub(r"<[^>]*>|\[[^\]]*\]|&#?\w+;", hold, h)
+    h = _texturize_text(h)
+    for k, v in reversed(list(keep.items())):
+        h = h.replace(k, v)
+    return h
+
+
+def clean_heading(h):
+    """Text d'un encapçalament d'Elementor: fora etiquetes de bloc enganxades a dins (p. ex. un <h4> amb estils dins de
+    l'H1 de /eltqr/, que feia que la pàgina no tingués H1) i els atributs d'estil."""
+    h = re.sub(r"</?(h[1-6]|div|p)\b[^>]*>", "", h, flags=re.I)
+    h = re.sub(r'\s(style|class|data-[\w-]+)="[^"]*"', "", h)
+    return h.strip()
+
+
+CTX = {"title": "", "links": {}}   # títol de la pàgina i adreces per id (etiquetes dinàmiques d'Elementor)
+
+
+def dynamic(st, key):
+    """Etiquetes dinàmiques d'Elementor: títol de la pàgina i enllaç intern a una altra pàgina."""
+    d = (st.get("__dynamic__") or {}).get(key) or ""
+    if "page-title" in d or "post-title" in d:
+        return ("text", CTX["title"])
+    if "internal-url" in d:
+        m = re.search(r"post_id%22%3A%22(\d+)", d)
+        if m and int(m.group(1)) in CTX["links"]:
+            return ("link", CTX["links"][int(m.group(1))])
+    return (None, None)
 
 
 def conv_widget(e, media, out):
@@ -263,7 +330,10 @@ def conv_widget(e, media, out):
         return  # duplicats: a la web d'ara hi ha la versió d'ordinador i la del mòbil amb el mateix text
     w = e.get("widgetType")
     if w == "heading":
-        txt = tidy(st.get("title"))
+        txt = clean_heading(tidy(st.get("title")))
+        kind, val = dynamic(st, "title")
+        if kind == "text":
+            txt = html.escape(val, quote=False)
         if txt:
             b = {"t": "h", "tag": st.get("header_size") or "h2", "html": fix_links(txt)}
             if link_of(st):
@@ -287,7 +357,8 @@ def conv_widget(e, media, out):
                 b["caption"] = tidy(st["caption"])
             out.append(b)
     elif w == "button":
-        out.append({"t": "btn", "text": tidy(st.get("text")) or "Click here", "href": link_of(st)})
+        kind, val = dynamic(st, "link")
+        out.append({"t": "btn", "text": tidy(st.get("text")) or "Click here", "href": val if kind == "link" else link_of(st)})
     elif w == "icon-list":
         items = []
         for it in st.get("icon_list") or []:
@@ -470,6 +541,54 @@ def correccions(path, p):
             s["cols"] = [drop(c, {"2023/05/Vector-1.png", "2023/05/Vector-2.png"}) for c in s["cols"]]
 
 
+# Idioma de les pàgines barrejades (l'inventari diu «mixt»): el que té més text (decisió 1)
+LANG_FIX = {"atencio-plena": "ca", "osona": "ca"}
+
+# Decisió 3: enllaç ben visible a la web de cada projecte, a la mateixa pàgina
+PROJECT_LINKS = {
+    "osona": {"text": "Més informació a la web de L'Espiral d'Osona", "href": "https://espiralosona.com/", "label": "espiralosona.com"},
+    "eltqr": {"text": "Más información en la web de Elara Social", "href": "https://elarasocial.com/", "label": "elarasocial.com"},
+    "midfulness-sensible-al-trauma": {"text": "Más información en la web de Mindfulness Sensible al Trauma", "href": "https://mindfulnesssensiblealtrauma.com/", "label": "mindfulnesssensiblealtrauma.com"},
+}
+
+# Les pàgines del plugin Adapta RGPD portaven <meta name="robots" content="noindex,follow">: es manté
+LEGAL_NOINDEX = {"aviso-legal", "politica-de-privacidad", "politica-de-cookies", "personalizar-cookies"}
+
+# Textos que el WordPress generava amb el plugin Adapta RGPD (no són a l'exportació).
+# L'Avís legal i la Política de privacitat: data/legal/<adreça>.html, la plantilla del plugin amb les dades del
+# WordPress, comprovada paraula per paraula amb el text de la web d'ara (9/11/2026).
+# Les dues de galetes: espai buit fins que l'Aleix aprovi el text nou (decisió 8).
+LEGAL_PENDING = {
+    "politica-de-cookies": "<p>[PENDENT] Text nou de la Política de Cookies (decisió 8: la web nova no fa servir galetes de seguiment ni té avís de galetes). L'aprova l'Aleix.</p>",
+    "personalizar-cookies": "<p>[PENDENT] Text senzill per a aquesta pàgina (decisió 8: ja no hi ha galetes per configurar). L'aprova l'Aleix.</p>",
+}
+
+# Enllaços mal escrits dins dels articles (a la web d'ara portaven a la portada): es corregeix només l'adreça
+LINK_FIX = {
+    "encuentro-con-los-demonios": [('href="/miedo-al-fracaso/)"', 'href="/miedo-al-fracaso/"')],
+    "que-hace-tan-dificil-estar-presentes": [('href="/el-yo-del-traje-espacial/)"', 'href="/el-yo-del-traje-espacial/"')],
+    "meditacion-sobre-la-culpa-con-r-a-i-n": [('href="/como-funciona-el-perdon/https://lespiral.cat/como-funciona-el-perdon/https://lespiral.cat/como-funciona-el-perdon/https://lespiral.cat/como-funciona-el-perdon/"', 'href="/como-funciona-el-perdon/"')],
+}
+
+
+def correccions_finals(path, p):
+    if path in LANG_FIX:
+        p["lang"] = LANG_FIX[path]
+    if path in PROJECT_LINKS:
+        p["project_link"] = PROJECT_LINKS[path]
+    if path in LEGAL_NOINDEX:
+        p["robots"] = "noindex, follow"
+    legal = DATA / "legal" / (path + ".html")
+    if legal.exists():
+        p["html"] = legal.read_text(encoding="utf-8")
+    elif path in LEGAL_PENDING:
+        p["html"] = LEGAL_PENDING[path]
+    for old, new in LINK_FIX.get(path, []):
+        if old not in p.get("html", ""):
+            print(f"Avís: no trobo l'enllaç a corregir a /{path}/")
+        p["html"] = p["html"].replace(old, new)
+
+
 def iso(d):
     return (d or "")[:10]
 
@@ -484,6 +603,7 @@ def main():
     inv, seo = load_inventory(inv_path)
     media = build_media(items)
     by_id = {i["id"]: i for i in items}
+    links = {i["id"]: local_url(i["link"]) for i in items if i["type"] in ("page", "post") and i["status"] == "publish"}
     (DATA / "pages").mkdir(parents=True, exist_ok=True)
     (DATA / "articles").mkdir(parents=True, exist_ok=True)
     (DATA / "media.json").write_text(json.dumps(media, ensure_ascii=False, indent=0, sort_keys=True), encoding="utf-8")
@@ -495,7 +615,9 @@ def main():
         path = unquote(it["link"].replace(SITE, "")).strip("/")
         if only is not None and path not in only:
             continue
-        p = {"path": path, "wp_id": it["id"], "title": html.unescape(it["title"]),
+        CTX["title"] = html.unescape(it["title"])
+        CTX["links"] = links
+        p = {"path": path, "wp_id": it["id"], "title": texturize(html.unescape(it["title"])),
              "published": iso(it["date"]), "modified": iso(it["modified"])}
         p.update(seo_fields(it["link"], inv, seo))
         if it["meta"].get("rank_math_canonical_url"):
@@ -507,6 +629,11 @@ def main():
             el = it["meta"].get("_elementor_data")
             if el and it["meta"].get("_elementor_edit_mode") == "builder":
                 p["sections"] = conv_sections(json.loads(el), media)
+                # Amb la plantilla per defecte, el tema escrivia el títol de la pàgina en un H1 a sobre del contingut,
+                # tret que la pàgina tingués «Amaga el títol» (hide_title)
+                ps = it["meta"].get("_elementor_page_settings") or ""
+                if it["meta"].get("_wp_page_template") == "default" and not re.search(r'hide_title";s:3:"yes', ps) and path:
+                    p["show_title"] = True
                 correccions(path, p)
             elif it["content"].strip():
                 p["html"] = clean_post_html(it["content"])
@@ -515,11 +642,12 @@ def main():
             dest = DATA / "pages" / ((path or "index") + ".json")
             n_pages += 1
         else:
-            p["html"] = clean_post_html(it["content"])
+            p["html"] = texturize(clean_post_html(it["content"]))
             p["categories"] = [c[1] for c in it["cats"] if c[0] == "category"]
             p["tags"] = [c[1] for c in it["cats"] if c[0] == "post_tag"]
             dest = DATA / "articles" / (path + ".json")
             n_posts += 1
+        correccions_finals(path, p)
         dest.parent.mkdir(parents=True, exist_ok=True)
         dest.write_text(json.dumps(p, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"Importades {n_pages} pàgines i {n_posts} entrades; {len(media)} fitxers a la biblioteca.")

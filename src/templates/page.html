@@ -1,13 +1,16 @@
 {% extends "base.html" %}
-{% from "parts.html" import section, blocks with context %}
+{% from "parts.html" import section, blocks, project_link with context %}
 {% block content %}
 {# Una pàgina de data/pages/: o seccions (les pàgines fetes amb Elementor) o "html" (textos legals) #}
 {% if page.sections %}
-  {% for s in page.sections %}{{ section(s, page, paged) }}{% endfor %}
+  {# Plantilla per defecte del WordPress: el títol de la pàgina en un H1 a sobre del contingut #}
+  {% if page.show_title %}<section class="pagehead"><div class="wrap pagehead__in reveal"><h1 class="b-h b-h1">{{ page.title }}</h1></div></section>{% endif %}
+  {% for s in page.sections %}{{ section(s, page, paged) }}{% if loop.first and page.project_link %}{{ project_link(page.project_link) }}{% endif %}{% endfor %}
 {% else %}
 <section class="pagehead">
   <div class="wrap pagehead__in reveal"><h1 class="b-h b-h1">{{ page.title }}</h1></div>
 </section>
+{% if page.project_link %}{{ project_link(page.project_link) }}{% endif %}
 <section class="band band--white">
   <div class="wrap wrap--narrow"><div class="entry">{{ page.html|fix|with_reviews }}</div></div>
 </section>

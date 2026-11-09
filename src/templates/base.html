@@ -7,7 +7,7 @@
   <script>document.documentElement.classList.add("js");setTimeout(function(){if(!window.espiralMoviment)document.documentElement.classList.remove("js")},4000)</script>
   <title>{{ page_title }}</title>
   {% if description %}<meta name="description" content="{{ description }}">{% endif %}
-  {% if noindex %}<meta name="robots" content="noindex, nofollow">{% else %}<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">{% endif %}
+  {% if noindex %}<meta name="robots" content="noindex, nofollow">{% elif page and page.robots %}<meta name="robots" content="{{ page.robots }}">{% else %}<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">{% endif %}
   {% if canonical %}<link rel="canonical" href="{{ canonical }}">{% endif %}
   {% if path == "" and site.verification.google and "PENDENT" not in site.verification.google %}<meta name="google-site-verification" content="{{ site.verification.google }}">{% endif %}
   <meta property="og:locale" content="{{ 'ca_ES' if lang == 'ca' else site.locale }}">

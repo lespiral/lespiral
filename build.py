@@ -274,11 +274,28 @@ def group_buttons(blocks):
     return out
 
 
+def split_head(p):
+    """Si la capçalera (primera franja amb l'H1) porta també contingut (com el llistat d'articles de /articulos/),
+    a la capçalera només hi van els títols i els botons del principi; la resta passa a la franja següent."""
+    secs = p.get("sections") or []
+    if not secs or p.get("show_title") or not first_section_is_head(p) or len(secs[0]["cols"]) != 1:
+        return
+    col = secs[0]["cols"][0]
+    n = 0
+    while n < len(col) and col[n]["t"] in ("h", "btn"):
+        n += 1
+    if 0 < n < len(col):
+        rest = {"cols": [col[n:]]}
+        secs[0] = dict(secs[0], cols=[col[:n]])
+        secs.insert(1, rest)
+
+
 def assign_bands(p):
     """Color de cada franja: capçalera, foto de fons, fosca, o blanc i blau clar alternats."""
+    split_head(p)
     alt = 0
     for i, s in enumerate(p.get("sections") or []):
-        if i == 0 and first_section_is_head(p):
+        if i == 0 and first_section_is_head(p) and not p.get("show_title"):
             s["_band"] = "head"
         elif s.get("bg"):
             s["_band"] = "photo"

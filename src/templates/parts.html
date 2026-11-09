@@ -58,6 +58,16 @@
 </div>
 {%- endmacro %}
 
+{# Decisió 3: enllaç ben visible a la web pròpia del projecte (/osona/, /eltqr/, /midfulness-sensible-al-trauma/) #}
+{% macro project_link(l) -%}
+<aside class="project-link">
+  <div class="wrap project-link__in">
+    <p>{{ l.text }}</p>
+    <a class="btn btn--primary" href="{{ l.href }}" rel="noopener">{{ l.label }} {{ icon('arrow') }}</a>
+  </div>
+</aside>
+{%- endmacro %}
+
 {# Tarja d'article (llistats i portada) #}
 {% macro post_card(a, excerpt=none) -%}
 <li class="post reveal">

@@ -1,7 +1,7 @@
 {
  "path": "terapia-congnitivo-conductual",
  "wp_id": 2867,
- "title": "Psicoterapia - Terapia Congnitivo Conductual",
+ "title": "Psicoterapia – Terapia Congnitivo Conductual",
  "published": "2024-09-16",
  "modified": "2024-09-16",
  "seo_title": "Terapia Cognitivo Conductual",
@@ -164,7 +164,7 @@
      {
       "t": "h",
       "tag": "p",
-      "html": "<p style=\"color: white;\">La TCC ha demostrado ser efectiva para una amplia gama de problemas, tanto emocionales como conductuales. Algunas de las áreas en las que puede ser especialmente útil incluyen:</p> <ul style=\"color: white;\"> <li><strong>Depresión:</strong> Ayuda a romper los ciclos de pensamientos negativos y conductas que mantienen la depresión, proporcionando herramientas para desarrollar una perspectiva más positiva.</li> <li><strong>Ansiedad:</strong> Enseña técnicas para identificar y desafiar los pensamientos ansiosos, reduciendo la respuesta de miedo y el malestar asociado.</li> <li><strong>Estrés:</strong> Desarrolla habilidades para manejar situaciones estresantes y mejorar la capacidad de afrontamiento.</li> <li><strong>Trastornos de pánico:</strong> Proporciona estrategias para enfrentar y reducir los ataques de pánico, promoviendo una mayor sensación de control.</li> <li><strong>Fobias:</strong> Incluye técnicas como la exposición gradual para reducir el miedo irracional y evitar que las fobias limiten la vida diaria.</li> <li><strong>Trastornos alimentarios:</strong> Trabaja en cambiar patrones de pensamiento y comportamientos poco saludables relacionados con la alimentación.</li> <li><strong>Problemas de autoestima:</strong> Ayuda a identificar y desafiar creencias negativas sobre uno mismo, fomentando una autoestima más saludable.</li> <li><strong>Estrés postraumático:</strong> Ofrece un enfoque estructurado para abordar los pensamientos y recuerdos traumáticos, facilitando la recuperación.</li> </ul>"
+      "html": "La TCC ha demostrado ser efectiva para una amplia gama de problemas, tanto emocionales como conductuales. Algunas de las áreas en las que puede ser especialmente útil incluyen: <ul> <li><strong>Depresión:</strong> Ayuda a romper los ciclos de pensamientos negativos y conductas que mantienen la depresión, proporcionando herramientas para desarrollar una perspectiva más positiva.</li> <li><strong>Ansiedad:</strong> Enseña técnicas para identificar y desafiar los pensamientos ansiosos, reduciendo la respuesta de miedo y el malestar asociado.</li> <li><strong>Estrés:</strong> Desarrolla habilidades para manejar situaciones estresantes y mejorar la capacidad de afrontamiento.</li> <li><strong>Trastornos de pánico:</strong> Proporciona estrategias para enfrentar y reducir los ataques de pánico, promoviendo una mayor sensación de control.</li> <li><strong>Fobias:</strong> Incluye técnicas como la exposición gradual para reducir el miedo irracional y evitar que las fobias limiten la vida diaria.</li> <li><strong>Trastornos alimentarios:</strong> Trabaja en cambiar patrones de pensamiento y comportamientos poco saludables relacionados con la alimentación.</li> <li><strong>Problemas de autoestima:</strong> Ayuda a identificar y desafiar creencias negativas sobre uno mismo, fomentando una autoestima más saludable.</li> <li><strong>Estrés postraumático:</strong> Ofrece un enfoque estructurado para abordar los pensamientos y recuerdos traumáticos, facilitando la recuperación.</li> </ul>"
      }
     ]
    ],
@@ -180,12 +180,12 @@
        {
         "t": "h",
         "tag": "h3",
-        "html": "<h2 style=\"color: white;\">¿Cómo Funciona la Terapia Cognitivo-Conductual?</h2>"
+        "html": "¿Cómo Funciona la Terapia Cognitivo-Conductual?"
        },
        {
         "t": "h",
         "tag": "p",
-        "html": "<p style=\"color: white;\">La TCC se desarrolla a través de un proceso estructurado y orientado a objetivos, que generalmente incluye los siguientes pasos:</p> <ul style=\"color: white;\"> <li><strong>Evaluación Inicial:</strong> Durante las primeras sesiones, se realiza una evaluación exhaustiva para entender tu situación, tus preocupaciones y tus objetivos. Se establece una relación de confianza con el terapeuta, lo que facilita un ambiente seguro y abierto para explorar tus pensamientos y emociones.</li> <li><strong>Intervención:</strong> A medida que avanzamos, trabajamos en identificar pensamientos automáticos negativos y distorsiones cognitivas que influyen en tu comportamiento y estado de ánimo. Se introducen técnicas como la reestructuración cognitiva, que te ayuda a desafiar y modificar estos pensamientos de manera realista y equilibrada.</li> <li><strong>Prácticas y Ejercicios:</strong> La TCC incluye tareas entre sesiones para aplicar lo aprendido en la vida diaria. Esto puede incluir ejercicios de respiración, exposición a situaciones temidas, o la práctica de habilidades sociales. Estos ejercicios son esenciales para reforzar las nuevas formas de pensar y comportarse.</li> <li><strong>Seguimiento y Mantenimiento:</strong> Una vez alcanzadas las metas terapéuticas, se desarrolla un plan de mantenimiento para prevenir recaídas. Esto incluye estrategias de afrontamiento a largo plazo y recursos para ayudarte a continuar tu progreso más allá de la terapia.</li> </ul>"
+        "html": "La TCC se desarrolla a través de un proceso estructurado y orientado a objetivos, que generalmente incluye los siguientes pasos: <ul> <li><strong>Evaluación Inicial:</strong> Durante las primeras sesiones, se realiza una evaluación exhaustiva para entender tu situación, tus preocupaciones y tus objetivos. Se establece una relación de confianza con el terapeuta, lo que facilita un ambiente seguro y abierto para explorar tus pensamientos y emociones.</li> <li><strong>Intervención:</strong> A medida que avanzamos, trabajamos en identificar pensamientos automáticos negativos y distorsiones cognitivas que influyen en tu comportamiento y estado de ánimo. Se introducen técnicas como la reestructuración cognitiva, que te ayuda a desafiar y modificar estos pensamientos de manera realista y equilibrada.</li> <li><strong>Prácticas y Ejercicios:</strong> La TCC incluye tareas entre sesiones para aplicar lo aprendido en la vida diaria. Esto puede incluir ejercicios de respiración, exposición a situaciones temidas, o la práctica de habilidades sociales. Estos ejercicios son esenciales para reforzar las nuevas formas de pensar y comportarse.</li> <li><strong>Seguimiento y Mantenimiento:</strong> Una vez alcanzadas las metas terapéuticas, se desarrolla un plan de mantenimiento para prevenir recaídas. Esto incluye estrategias de afrontamiento a largo plazo y recursos para ayudarte a continuar tu progreso más allá de la terapia.</li> </ul>"
        }
       ]
      }
@@ -222,12 +222,12 @@
      {
       "t": "h",
       "tag": "h3",
-      "html": "<h3 style=\"color: black;\">Preguntas Frecuentes</h3>"
+      "html": "Preguntas Frecuentes"
      },
      {
       "t": "h",
       "tag": "p",
-      "html": "<h4 style=\"color: black;\">¿Cuánto dura una terapia TCC?</h4> <p style=\"color: black;\"> La duración de la terapia varía según las necesidades individuales y los objetivos establecidos. Por lo general, la TCC es una terapia a corto o medio plazo, con una duración promedio de 10 a 20 sesiones. Sin embargo, algunos problemas pueden requerir un tratamiento más prolongado. </p> <h4 style=\"color: black;\">¿Es efectiva la TCC para problemas graves?</h4> <p style=\"color: black;\"> Sí, la TCC ha demostrado ser eficaz tanto para problemas leves como graves, incluidos trastornos de larga duración como la depresión mayor y el trastorno de estrés postraumático. Los terapeutas adaptan las técnicas de la TCC a la gravedad y complejidad del problema de cada persona. </p> <h4 style=\"color: black;\">¿Necesito estar en crisis para iniciar una terapia TCC?</h4> <p style=\"color: black;\"> No necesariamente. La TCC es útil para una variedad de situaciones, ya sea que estés experimentando una crisis o simplemente quieras mejorar tu bienestar general y desarrollar herramientas para afrontar mejor las situaciones cotidianas. </p>"
+      "html": "¿Cuánto dura una terapia TCC?  La duración de la terapia varía según las necesidades individuales y los objetivos establecidos. Por lo general, la TCC es una terapia a corto o medio plazo, con una duración promedio de 10 a 20 sesiones. Sin embargo, algunos problemas pueden requerir un tratamiento más prolongado.  ¿Es efectiva la TCC para problemas graves?  Sí, la TCC ha demostrado ser eficaz tanto para problemas leves como graves, incluidos trastornos de larga duración como la depresión mayor y el trastorno de estrés postraumático. Los terapeutas adaptan las técnicas de la TCC a la gravedad y complejidad del problema de cada persona.  ¿Necesito estar en crisis para iniciar una terapia TCC?  No necesariamente. La TCC es útil para una variedad de situaciones, ya sea que estés experimentando una crisis o simplemente quieras mejorar tu bienestar general y desarrollar herramientas para afrontar mejor las situaciones cotidianas."
      }
     ]
    ]

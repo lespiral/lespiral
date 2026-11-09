@@ -1,7 +1,7 @@
 {
  "path": "40-dies-de-mindfulness-atencio-plena",
  "wp_id": 1602,
- "title": "40 dies de Mindfulness - Atenció Plena",
+ "title": "40 dies de Mindfulness – Atenció Plena",
  "published": "2023-06-08",
  "modified": "2023-09-04",
  "seo_title": "40 dies de Mindfulness - Atenció Plena - L'Espiral",
@@ -34,7 +34,7 @@
      {
       "t": "btn",
       "text": "COMENÇA AQUÍ",
-      "href": "t.me/lespiral_cat"
+      "href": "https://t.me/lespiral_cat"
      }
     ]
    ],
@@ -197,7 +197,7 @@
      {
       "t": "h",
       "tag": "h3",
-      "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Accedeix al </font></font><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">formulari</font></font>"
+      "html": "<font><font>Accedeix al </font></font><font><font>formulari</font></font>"
      },
      {
       "t": "text",
@@ -239,7 +239,7 @@
      {
       "t": "h",
       "tag": "h2",
-      "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\" class=\"VIpgJd-yAWNEb-VIpgJd-fmcmS-sn54Q\">Que diuen els que han fet ja el curs </font></font><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\" class=\"VIpgJd-yAWNEb-VIpgJd-fmcmS-sn54Q\">?</font></font>"
+      "html": "<font><font>Que diuen els que han fet ja el curs </font></font><font><font>?</font></font>"
      },
      {
       "t": "row",
@@ -458,7 +458,7 @@
      {
       "t": "h",
       "tag": "h3",
-      "html": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Més opinions de Google de Psicòlegs </font></font><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">L´Espiral.cat</font></font>"
+      "html": "<font><font>Més opinions de Google de Psicòlegs </font></font><font><font>L´Espiral.cat</font></font>"
      },
      {
       "t": "ressenyes"

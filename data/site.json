@@ -69,7 +69,7 @@
     "telephone": "+34 626 627 124",
     "email": "lespiral@lespiral.cat",
     "logo": "wp-content/uploads/2023/05/Lespiral-terapia-gestalt-favicon.jpg",
-    "same_as": []
+    "same_as": ["https://www.facebook.com/Lespiral.cat/", "https://twitter.com/lespiralcat"]
   },
   "author": {"name": "Aleix Boronat", "id": "aleix-boronat"},
   "reviews": {
@@ -139,6 +139,11 @@
     "curar-el-trauma-como-el-almacena-nuestras-experiencias-y-como-sanar-a-traves-de-la-compasion": "/curar-el-trauma-como-el-cuerpo-almacena-nuestras-experiencias-y-como-sanar-a-traves-de-la-compasion/",
     "que-relacion-hay-entre-la-ansiedad-y-la-exitacion-emocional": "/que-relacion-hay-entre-la-ansiedad-y-la-excitacion-emocional/",
     "una-actitud-amable-apuntes-mindfulness-gestalt-4": "/una-actitud-amable-apuntes-de-mindfulness-y-gestalt-4/",
-    "contacto-pedir-cida": "/contacto-3/"
+    "contacto-pedir-cida": "/contacto-3/",
+    "otros/la-confianza-y-la-seguridad-como-pilares-del-apoyo-en-la-terapia": "/la-confianza-y-la-seguridad-como-pilares-del-apoyo-en-la-terapia/",
+    "otros/como-saber-si-has-sido-abusado": "/como-saber-si-has-sido-abusado/",
+    "articulos/soten-emocional-interno": "/soten-emocional-interno/",
+    "gestion-de-la-ansiedad-3": "/ansiedad/gestion-de-la-ansiedad-3/",
+    "el-deseo-en-en-la-terapia-apuntes-lacanianos-5": "/el-deseo-en-en-la-terapia-apuntes-lacanianos/"
   }
 }

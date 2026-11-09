@@ -5,9 +5,9 @@ Web estàtica de L'Espiral, el centre de psicoteràpia del Prat de Llobregat. Su
 `lespiral/espiralosona` i `lespiral/elarasocial`): dades en JSON, plantilles i un sol full d'estils.
 Es publica amb GitHub Pages des de la carpeta `docs/` de la branca `main`.
 
-Estat (9/11/2026, fase 3): sistema muntat i contingut importat del WordPress. Generades per revisar la portada,
-/psicoterapias/psicoterapia-adultos/, /contacto-3/ i un article. La resta, quan l'Aleix doni l'OK.
-Les decisions de la fase 2 (D1–D20) són al pla de treball del projecte de Claude i a l'inventari d'adreces.
+Estat (9/11/2026, fase 3): web sencera generada a l'adreça de proves (226 pàgines, 35 adreces antigues
+redirigides). Pendents, marcats amb `[PENDENT]`: les ressenyes (decisió 7) i els textos de les pàgines de galetes
+(decisió 8). Les decisions de la fase 2 (D1–D20) són al pla de treball del projecte de Claude i a l'inventari.
 
 ## On és cada cosa
 
@@ -18,6 +18,9 @@ Les decisions de la fase 2 (D1–D20) són al pla de treball del projecte de Cla
   `/psicoterapias/psicoterapia-adultos/`; la portada és `data/pages/index.json`.
 - `data/articles/<adreça>.json`: les 143 entrades (articles), amb el seu HTML.
 - `data/media.json`: la biblioteca de mitjans del WordPress (mides i text alternatiu de cada imatge).
+- `data/legal/`: l'Avís legal i la Política de privacitat. Els feia el plugin Adapta RGPD (no eren a l'exportació):
+  és la plantilla del plugin amb les dades del WordPress, comprovada paraula per paraula amb el text de la web
+  d'ara. Aquestes pàgines i les de galetes porten `noindex, follow`, com abans.
 - `static/`: es copia tal qual. `static/wp-content/uploads/` són les imatges i els PDF **originals** a la mateixa
   ruta que al WordPress (decisió 19; no s'han de recomprimir: 121 porten coordenades GPS); `google8d37b0a77b34efe5.html`
   i `googlebb28148fcce2edc7.html` (verificació de Search Console, decisió 12) i `llms.txt`.
@@ -30,7 +33,9 @@ Les decisions de la fase 2 (D1–D20) són al pla de treball del projecte de Cla
 
 1. Canvia el text al fitxer de `data/`.
 2. Genera la web: `python3 build.py`. Diu quantes marques `[PENDENT]` queden i quins enllaços interns no porten enlloc.
-3. Desa i puja els canvis. GitHub Pages la publica sola.
+3. Prova-la: `python3 tools/proves.py` (mòbil i ordinador: errors, scroll lateral, imatges i enllaços) i
+   `python3 tools/comprova.py inventari.xlsx` (cada adreça de l'inventari, títols, descripcions, H1 i H2).
+4. Desa i puja els canvis. GitHub Pages la publica sola.
 
 No s'han d'inventar dades: el que falta es deixa marcat amb `[PENDENT]`.
 

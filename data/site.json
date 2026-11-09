@@ -5,7 +5,7 @@
   "publish": {"url": "https://lespiral.github.io/lespiral/", "index": false},
   "lang": "es",
   "locale": "es_ES",
-  "ai_training": "[PENDENT] decisió 21",
+  "ai_training": "permet",
   "verification": {"google": "Ep0ZUoQIusbO8l4XUTURMD8eEvjWSrNRhGXQrV3fZtg"},
   "cta": {"text": "Pide una cita", "href": "/contacto-3/"},
   "nav": [

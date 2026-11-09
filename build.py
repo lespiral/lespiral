@@ -505,6 +505,8 @@ for f in OUT.rglob("index.html"):
                 broken.add((f.parent.relative_to(OUT).as_posix(), "/" + tgt))
             continue
         t = "/" + tgt if tgt else "/"
+        if not t.endswith("/") and "." not in t.rsplit("/", 1)[-1]:
+            t += "/"          # GitHub Pages porta /adreça a /adreça/ tot sol
         t = re.sub(r"/page/\d+/$", "/", t)
         if t not in known:
             broken.add((f.parent.relative_to(OUT).as_posix(), t))

@@ -33,7 +33,7 @@ L'Espiral combina el rigor clínico de la psicología con la profundidad humanis
 
 - [Inicio](https://lespiral.cat/): Página principal del centro. Presenta equipo, servicios, talleres, informes periciales y reseñas de pacientes.
 - [El Equipo de Profesionales](https://lespiral.cat/el-equipo-de-profesionales/): Presentación del equipo de psicólogos y terapeutas de l'Espiral.
-- [Contacto](https://lespiral.cat/contacto-3/): Formulario de contacto y datos del centro para pedir cita presencial u online.
+- [Contacto](https://lespiral.cat/contacto-3/): Teléfono, WhatsApp y correo del centro, dirección y mapa para pedir cita presencial u online.
 
 ## Psicoterapias
 

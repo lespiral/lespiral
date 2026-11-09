@@ -1,0 +1,281 @@
+{
+ "path": "taller-mascaras-que-nos-ponemos",
+ "wp_id": 901,
+ "title": "Máscaras que nos ponemos para salir al mundo",
+ "published": "2023-05-25",
+ "modified": "2026-04-24",
+ "seo_title": "Taller \"Máscaras que nos ponemos para salir al mundo\" - Espiral.cat",
+ "description": "Taller terapéutico para conocernos a nosotros mismos y reconocer los autoengaños. Inscríbete a nuestro taller en El Prat de Llobregat ¡Quítate la máscara!",
+ "lang": "es",
+ "keyword": "máscaras",
+ "h1_inventari": "MÁSCARAS QUE NOS PONEMOS PARA SALIR AL MUNDO",
+ "og_title": "Taller \"Máscaras que nos ponemos para salir al mundo\" - Espiral.cat",
+ "og_image": "/wp-content/uploads/2023/05/mascares-01-psicologos-el-prat-de-llobregat.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Taller en el Prat de Llobregat"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "MÁSCARAS QUE NOS PONEMOS PARA SALIR AL MUNDO"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/mascares-01-psicologos-el-prat-de-llobregat.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Si necesitas ayuda estamos a tu lado."
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626 62 71 24",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Máscaras que nos ponemos para salir al mundo"
+     },
+     {
+      "t": "text",
+      "html": "<p><span class=\"tlid-translation translation\" lang=\"es\">«<strong>Máscaras que nos ponemos para salir al mundo</strong>» es un taller práctico y experiencial que utiliza las técnicas gestálticas y corporales integrativas para hacer <strong>un trabajo de autoconocimiento en interacción grupal</strong>.</span></p>\n<p><span class=\"tlid-translation translation\" lang=\"es\">El objetivo de este taller es <strong>reconocer los auto-engaños que usamos para no estar en contacto real</strong> con nosotros ni con la vida.</span></p>\n<p><span class=\"tlid-translation translation\" lang=\"es\">Experimentaremos otros lugares más que también forman parte de nosotros.</span></p>"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/mascares-01-psicologos-el-prat-de-llobregat.jpg",
+      "alt": "mascares-01-psicologos-el-prat-de-llobregat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/mascares-02-psicologos-el-prat-de-llobregat.jpg",
+      "alt": "mascares-02-psicologos-el-prat-de-llobregat"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "¿En qué consiste el taller?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Taller máscaras que nos ponemos para salir al mundo"
+     },
+     {
+      "t": "text",
+      "html": "<p>La palabra \"personaje\" se asocia al papel que representa un actor en el escenario.</p>\n<p>Así, <b>a cada situación social del individuo representa \"personajes\"</b> diferentes; utiliza diferentes máscaras: es amables y sonríe como un \"niño bueno\"; es agresivo con quien le llama en el tráfico; actúa con indiferencia con algunos contextos o intenta pasar inadvertido en otros...</p>\n<p>Así, <b>la máscara sirve para cubrir la vida íntima del individuo</b> hacia los demás, y, sin embargo, le permite adaptarse al entorno en los términos que más le convienen.</p>\n<p>Para ello, se tienen que sacrificar muchos factores humanos individuales (instintos, formas de pensar y sentir) a favor de la \"imagen ideal\" que necesita reflejar el individuo.</p>\n<p>En su mejor expresión, la máscara constituye la \"buena impresión\" que todos queremos dar al colectivo.</p>\n<p>En su peor manifestación puede confundirse incluso con nosotros mismos/as, es decir, <b>muchas veces llegamos a creer que realmente somos lo que pretendemos ser o lo que los demás esperan que seamos</b>, generando conflictos y contradicciones internas.</p>"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Beneficios del taller"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Taller máscaras que nos ponemos para salir al mundo"
+       },
+       {
+        "t": "text",
+        "html": "<p>Ampliar y potenciar las capacidades personales para experimentar <b>un contacto más real con nosotros y con la vida</b>.</p>"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/mascares-03-psicologos-el-prat-de-llobregat.jpg",
+      "alt": "mascares-03-psicologos-el-prat-de-llobregat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "A todas aquellas personas que deseen profundizar en su trabajo de crecimiento personal y que quieran experimentar la vida desde las aportaciones de la gestalt y la terapia corporal integrativa."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Consúltanos para saber las fechas, horarios y precios del próximo taller."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Impartido por"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Montse Molina Vilaneuva: Licenciada en Psicopedagogía. Master en psicología infantil y juvenil. Terapeuta Gestalt. Terapeuta Corporal Integrativa. Máster en conductas adictivas - Modelo Minessota. Formación permanente de la Generalitat de Catalunya en Educación Emocional, Pedagogía Sitèmica y Yoga para pequeños y grandes."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-pedir-cida/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

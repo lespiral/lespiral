@@ -1,0 +1,166 @@
+{# Peces de les pàgines. El contingut ve del WordPress (data/pages/*.json): seccions → columnes → blocs.
+   Blocs: h (encapçalament: h1–h6 o p), text (HTML), img, btn, list, panel (requadre), row (fila de columnes),
+   ressenyes, articles, contacte, mapa. Els textos i les etiquetes (h1, h2, p...) són els de la web d'ara. #}
+
+{# Una imatge de la biblioteca ("2023/05/x.jpg"), amb les mides reduïdes perquè el mòbil no baixi l'original #}
+{% macro image(path, alt='', sizes='(max-width: 800px) 100vw, 800px', cls='', eager=false) -%}
+{% set im = img_info(path) %}
+<img{% if cls %} class="{{ cls }}"{% endif %} src="{{ im.src }}"{% if im.srcset %} srcset="{{ im.srcset }}" sizes="{{ sizes }}"{% endif %}{% if im.width %} width="{{ im.width }}" height="{{ im.height }}"{% endif %} alt="{{ alt }}"{% if not eager %} loading="lazy"{% endif %} decoding="async">
+{%- endmacro %}
+
+{% macro btn(b, cls='btn--primary') -%}
+{% if b.href %}<a class="btn {{ cls }}" href="{{ b.href|u }}"{% if b.href.startswith('http') %} rel="noopener"{% endif %}>{{ b.text }}</a>
+{% else %}<span class="btn btn--disabled" aria-disabled="true">{{ b.text }}</span>{% endif %}
+{%- endmacro %}
+
+{% macro heading(b, extra='') -%}
+{% set tag = b.tag if b.tag in ('h1','h2','h3','h4','h5','h6') else 'p' %}
+{% set short = tag == 'p' and (b.html|plain|length) <= 70 %}
+<{{ tag }} class="b-h b-{{ tag }}{% if short %} b-p--short{% endif %}{% if extra %} {{ extra }}{% endif %}">{% if b.href %}<a href="{{ b.href|u }}"{% if b.href.startswith('http') %} rel="noopener"{% endif %}>{{ b.html|fix }}</a>{% else %}{{ b.html|fix }}{% endif %}</{{ tag }}>
+{%- endmacro %}
+
+{# Espai de les ressenyes (decisió 7): 3 o 4 ressenyes reals de la fitxa de Google, que tria l'Aleix, i un botó a la fitxa #}
+{% macro reviews() -%}
+{% set r = site.reviews %}
+<div class="reviews">
+  <ul class="reviews__list">
+    {% if r["items"] %}
+      {% for it in r["items"] %}<li class="review"><blockquote><p>{{ it.text }}</p></blockquote><p class="review__who">{{ it.name }} · {{ r.label }}</p></li>{% endfor %}
+    {% else %}
+      {% for n in range(3) %}<li class="review review--pending"><p>[PENDENT] Ressenya {{ n + 1 }} · la tria l'Aleix de la fitxa de Google</p><p class="review__who">[Nom] · {{ r.label }}</p></li>{% endfor %}
+    {% endif %}
+  </ul>
+  <p class="actions"><a class="btn btn--outline" href="{{ site.geo.maps_url }}" rel="noopener">{{ r.button }}</a></p>
+</div>
+{%- endmacro %}
+
+{# Contacte (decisió 5): sense formulari; telèfon, WhatsApp i correu #}
+{% macro contact_box() -%}
+{% set c = site.contact %}
+<div class="contact-box">
+  <p class="actions actions--left">
+    <a class="btn btn--primary" href="tel:{{ c.phone_tel }}">{{ icon('phone') }}Llamar · {{ c.phone }}</a>
+    <a class="btn btn--wa" href="{{ c.whatsapp }}" rel="noopener">{{ icon('whatsapp') }}WhatsApp</a>
+    <a class="btn btn--outline" href="mailto:{{ c.email }}">{{ icon('mail') }}{{ c.email }}</a>
+  </p>
+</div>
+{%- endmacro %}
+
+{# Mapa de la fitxa de Google. No es carrega fins que es clica (sense galetes de Google en entrar a la pàgina) #}
+{% macro map_box() -%}
+{% set g = site.geo %}{% set c = site.contact %}
+<div class="mapbox">
+  <div class="mapbox__frame" data-map="https://maps.google.com/maps?q={{ (g.google_name ~ ', ' ~ c.address ~ ', ' ~ c.postal_code ~ ' ' ~ c.city)|urlencode }}&amp;t=m&amp;z=16&amp;output=embed&amp;iwloc=near">
+    <button class="btn btn--outline mapbox__btn" type="button">{{ icon('map') }}Mostrar el mapa de Google</button>
+    <p class="mapbox__addr">{{ icon('pin') }}<span>{{ c.address }} · {{ c.postal_code }} {{ c.city }}</span></p>
+  </div>
+  <p class="mapbox__link"><a href="{{ g.maps_url }}" rel="noopener">{{ icon('nav') }}Cómo llegar (Google Maps)</a></p>
+</div>
+{%- endmacro %}
+
+{# Tarja d'article (llistats i portada) #}
+{% macro post_card(a, excerpt=none) -%}
+<li class="post reveal">
+  <a class="post__link" href="{{ a.url|u }}">
+    {% if a.image %}<span class="post__img">{{ image(a.image, '', '(max-width: 700px) 100vw, 400px') }}</span>{% endif %}
+    <span class="post__body">
+      <time class="post__date" datetime="{{ a.published }}">{{ a.date_text }}</time>
+      <span class="post__title">{{ a.title }}</span>
+      <span class="post__summary">{{ (a.html|plain(excerpt)) if excerpt else a.summary }}</span>
+      <span class="post__more">{{ 'Llegeix més' if a.lang == 'ca' else 'Leer más' }} {{ icon('arrow') }}</span>
+    </span>
+  </a>
+</li>
+{%- endmacro %}
+
+{% macro pagination(base_path, k, total) -%}
+{% if total > 1 %}
+<nav class="pager" aria-label="Paginación">
+  {% if k > 1 %}<a class="pager__prev" href="{{ ('/' ~ base_path ~ '/' ~ ('page/' ~ (k - 1) ~ '/' if k > 2 else ''))|u }}">« Anterior</a>{% endif %}
+  {% for n in range(1, total + 1) %}
+    {% if n == k %}<span class="pager__n" aria-current="page">{{ n }}</span>
+    {% else %}<a class="pager__n" href="{{ ('/' ~ base_path ~ '/' ~ ('page/' ~ n ~ '/' if n > 1 else ''))|u }}">{{ n }}</a>{% endif %}
+  {% endfor %}
+  {% if k < total %}<a class="pager__next" href="{{ ('/' ~ base_path ~ '/page/' ~ (k + 1) ~ '/')|u }}">Siguiente »</a>{% endif %}
+</nav>
+{% endif %}
+{%- endmacro %}
+
+{% macro articles_block(b, page, paged) -%}
+{% if b.paginated %}
+  {% set n = b.n %}{% set k = paged or 1 %}{% set total = ((articles|length) / n)|round(0, 'ceil')|int %}
+  <ul class="posts">{% for a in articles[(k - 1) * n:k * n] %}{{ post_card(a, b.excerpt) }}{% endfor %}</ul>
+  {{ pagination(page.path, k, total) }}
+{% else %}
+  <ul class="posts">{% for a in articles[:b.n] %}{{ post_card(a) }}{% endfor %}</ul>
+{% endif %}
+{%- endmacro %}
+
+{# Una llista de blocs. Els botons seguits van junts. «card»: dins d'una targeta (els botons són enllaços «més»). #}
+{% macro blocks(list, page=none, paged=none, card=false, dark=false) -%}
+{% for b in list|group_buttons %}
+  {% if b.t == 'h' %}{{ heading(b, 'card__title' if card and b.tag in ('h2','h3','h4') else '') }}
+  {% elif b.t == 'text' %}<div class="b-text">{{ b.html|fix }}</div>
+  {% elif b.t == 'img' %}
+    <figure class="b-img">{% if b.href %}<a href="{{ b.href|u }}"{% if b.href.startswith('http') %} rel="noopener"{% endif %}>{% endif %}{{ image(b.src, b.alt) }}{% if b.href %}</a>{% endif %}{% if b.caption %}<figcaption>{{ b.caption }}</figcaption>{% endif %}</figure>
+  {% elif b.t == 'btns' %}
+    {% if card %}{% for x in b["items"] %}{% if x.href %}<a class="more" href="{{ x.href|u }}"{% if x.href.startswith('http') %} rel="noopener"{% endif %}>{{ x.text }} {{ icon('arrow') }}</a>{% else %}<span class="more more--off">{{ x.text }}</span>{% endif %}{% endfor %}
+    {% else %}<p class="actions">{% for x in b["items"] %}{{ btn(x, ('btn--light' if loop.first else 'btn--ghost-light') if dark else ('btn--primary' if loop.first else 'btn--outline')) }}{% endfor %}</p>{% endif %}
+  {% elif b.t == 'list' %}
+    <ul class="b-list">
+      {% for it in b["items"] %}
+        {% if it.icon == 'phone' %}<li class="b-list__phone"><a class="phone-big" href="tel:{{ site.contact.phone_tel }}">{{ icon('phone') }}{{ it.html|fix }}</a></li>
+        {% elif it.href %}<li><a href="{{ it.href|u }}">{{ it.html|fix }}</a></li>
+        {% else %}<li>{{ it.html|fix }}</li>{% endif %}
+      {% endfor %}
+    </ul>
+  {% elif b.t == 'panel' %}<div class="panel panel--{{ b.tone }}">{{ blocks(b.blocks, page, paged, false, dark or b.tone == 'dark') }}</div>
+  {% elif b.t == 'row' %}{{ row(b.cols, page, paged, dark) }}
+  {% elif b.t == 'ressenyes' %}{{ reviews() }}
+  {% elif b.t == 'articles' %}{{ articles_block(b, page, paged) }}
+  {% elif b.t == 'contacte' %}{{ contact_box() }}
+  {% elif b.t == 'mapa' %}{{ map_box() }}
+  {% endif %}
+{% endfor %}
+{%- endmacro %}
+
+{# Una fila de columnes: targetes (imatge + títol), text amb imatge al costat, o columnes iguals #}
+{% macro row(cols, page=none, paged=none, dark=false) -%}
+{% set kind = cols|row_kind %}
+{% if kind == 'single' %}<div class="single">{{ blocks(cols[0], page, paged, false, dark) }}</div>
+{% elif kind == 'cards' %}
+  <ul class="cards cards--{{ [cols|length, 4]|min }}">
+    {% for c in cols %}
+    {% set im = c|selectattr('t', 'equalto', 'img')|first %}
+    <li class="card reveal">
+      <div class="card__media">{% if im.href %}<a href="{{ im.href|u }}" tabindex="-1"{% if im.href.startswith('http') %} rel="noopener"{% endif %}>{% endif %}{{ image(im.src, im.alt, '(max-width: 700px) 100vw, 400px') }}{% if im.href %}</a>{% endif %}</div>
+      <div class="card__body">{{ blocks(c|reject('sameas', im)|list, page, paged, true) }}</div>
+    </li>
+    {% endfor %}
+  </ul>
+{% elif kind.startswith('split') %}
+  {% set left = kind == 'split-img-left' %}
+  <div class="split{% if left %} split--img-left{% endif %}">
+    {% for c in cols %}<div class="{{ 'split__media' if c|selectattr('t', 'ne', 'img')|list|length == 0 else 'split__text' }} reveal">{{ blocks(c, page, paged, false, dark) }}</div>{% endfor %}
+  </div>
+{% else %}
+  <div class="cols cols--{{ [cols|length, 4]|min }}">{% for c in cols %}<div class="col reveal">{{ blocks(c, page, paged, false, dark) }}</div>{% endfor %}</div>
+{% endif %}
+{%- endmacro %}
+
+{# Una secció de la pàgina. s._band: head (capçalera), photo (foto de fons), dark, white o soft #}
+{% macro section(s, page, paged=none, hero=false) -%}
+{% if s._band in ('head', 'photo') and s.bg %}{% set bgi = img_info(s.bg) %}{% endif %}
+{% if s._band == 'head' %}
+<section class="pagehead{% if bgi %} pagehead--photo{% endif %}{% if hero %} hero{% endif %}"{% if bgi %} style="background-image:url('{{ bgi.src }}')"{% endif %}>
+  <div class="wrap pagehead__in reveal">{{ row(s.cols, page, paged, true) }}</div>
+</section>
+{% else %}
+<section class="band band--{{ s._band }}{% if bgi %} band--photo-img{% endif %}"{% if bgi %} style="background-image:url('{{ bgi.src }}')"{% endif %}>
+  <div class="wrap">
+    {% if s.head %}<div class="band__head reveal">{{ blocks(s.head, page, paged, false, s._band in ('dark', 'photo')) }}</div>{% endif %}
+    {{ row(s.cols, page, paged, s._band in ('dark', 'photo')) }}
+  </div>
+</section>
+{% endif %}
+{%- endmacro %}

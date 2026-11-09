@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% from "parts.html" import post_card, contact_box with context %}
+{% block content %}
+{# Adreces que no existeixen (decisió 11): disseny de la web, enllaços principals, articles i contacte #}
+<section class="pagehead">
+  <div class="wrap pagehead__in">
+    <h1 class="b-h b-h1">Esta página no existe</h1>
+    <p class="pagehead__lead">Puede que la dirección haya cambiado. Aquí tienes las secciones principales de la web.</p>
+    <p class="actions">
+      <a class="btn btn--light" href="{{ '/'|u }}">Inicio</a>
+      <a class="btn btn--ghost-light" href="{{ '/psicoterapias/'|u }}">Psicoterapias</a>
+      <a class="btn btn--ghost-light" href="{{ '/talleres-y-formaciones/'|u }}">Talleres y formaciones</a>
+      <a class="btn btn--ghost-light" href="{{ '/articulos/'|u }}">Artículos</a>
+    </p>
+  </div>
+</section>
+<section class="band band--white">
+  <div class="wrap">
+    <div class="band__head"><p class="band__title">Últimos artículos</p></div>
+    <ul class="posts">{% for a in articles[:3] %}{{ post_card(a) }}{% endfor %}</ul>
+  </div>
+</section>
+<section class="band band--soft">
+  <div class="wrap wrap--narrow">
+    <div class="band__head"><p class="band__title">¿Hablamos?</p></div>
+    {{ contact_box() }}
+  </div>
+</section>
+{% endblock %}

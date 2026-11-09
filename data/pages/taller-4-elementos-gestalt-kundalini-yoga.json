@@ -1,0 +1,282 @@
+{
+ "path": "taller-4-elementos-gestalt-kundalini-yoga",
+ "wp_id": 889,
+ "title": "Taller \"Los 4 Elementos: Cuerpo y Conciencia\"",
+ "published": "2023-05-25",
+ "modified": "2023-08-01",
+ "seo_title": "Taller \"Los 4 Elementos: Cuerpo y Conciencia\" - L'Espiral",
+ "description": "¡Taller con muy buenas energías! Trabajamos los chakras mediante Terapia Gestalt combinada con Kundalini Yoga. Armoniza y conecta con tu energía.",
+ "lang": "es",
+ "keyword": "taller",
+ "h1_inventari": "Los 4 elementos: cuerpo y conciencia",
+ "og_title": "Taller \"Los 4 Elementos: Cuerpo y Conciencia\" - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/soltar-02-psicologo-el-prat-de-llobregat.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en el Prat de Llobregat"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "Los 4 elementos: cuerpo y conciencia"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/soltar-02-psicologo-el-prat-de-llobregat.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Los 4 elementos: cuerpo y conciencia"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La toma de contacto con el cuerpo, con los sentidos, las sensaciones, … la toma de conciencia de las emociones que nos invaden en cada momento, los estados de ánimo, me permiten entablar un diálogo permanente conmigo mismo, me permiten escucharme y aprender a reconocer y a respetar mis deseos y necesidades."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/soltar-02-psicologo-el-prat-de-llobregat.jpg",
+      "alt": "soltar-02-psicologo-el-prat-de-llobregat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Mindfulness-psicologo-en-el-prat-1.jpg",
+      "alt": "Mindfulness-psicologo-en-el-prat-1"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿En qué consiste el taller?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Taller Los 4 Elementos: Cuerpo y Conciencia"
+     },
+     {
+      "t": "text",
+      "html": "<p>En estos talleres se combina el <a href=\"https://es.wikipedia.org/wiki/Kundalini_yoga\" target=\"_blank\" rel=\"noopener\">kundalini Yoga</a> y dinámicas de terapia Gestalt para trabajar los cuatro primeros chakras o centros de energía asociados a los cuatro elementos de la naturaleza.</p>\n<p>Tierra-1er chakra: Raíz física, <b>instinto, seguridad y confianza</b>.<br />Agua- 2º chakra: Centro de movimiento, <b>placer y creatividad</b>.<br />Fuego-3er chakra: Identidad, <b>voluntad y vitalidad</b>.<br />Aire-4º chakra: <b>armonía y amor</b>.</p>"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "Beneficios del taller"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Taller Los 4 Elementos: Cuerpo y Conciencia"
+       },
+       {
+        "t": "text",
+        "html": "<p>Conectar con la energía de cada elemento para reconocerlo en nosotros.</p>\n<p>Desbloquear y liberar posibles estancamientos en los centros energéticos de nuestro cuerpo.</p>\n<p>Tomar conciencia de cómo vivimos los aspectos y emociones asociados a cada chakra.</p>"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/ansiedad-2-psicologo-en-el-prat-1.jpg",
+      "alt": "ansiedad-2-psicologo-en-el-prat (1)"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "A aquellas personas que quieran trabajar desde el cuerpo a través del yoga y la Gestalt, para abrir y armonizar los centros de energía."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Consúltanos para saber las fechas, horarios y precios del próximo taller."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Taller impartido por"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Anna Ortiz Termes: Psicóloga. Terapeuta Gestalt. Formadora en diversos talleres en relación con las competencias personales y la gestión emocional. Acompañante y tallerista en adicción a las pantallas en adolescentes y sus familias. Formada en Practitioner P.N.L y Coaching para terapeutas Gestalt. Profesora de Kundalini Yoga."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-pedir-cida/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

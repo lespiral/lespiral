@@ -1,0 +1,146 @@
+{
+ "path": "telegram",
+ "wp_id": 1647,
+ "title": "Telegram",
+ "published": "2023-06-08",
+ "modified": "2023-06-08",
+ "seo_title": "Telegram - L'Espiral",
+ "description": "Únete a nuestro canal",
+ "lang": "es",
+ "h1_inventari": "TELEGRAM",
+ "og_title": "Telegram - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/06/meditaciones-guiadas-mindfulness-psicologo-el-prat-de-llobregat.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Únete a nuestro canal"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "TELEGRAM"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "ME UNO!",
+      "href": "http://t.me/lespiral_cat"
+     }
+    ]
+   ],
+   "bg": "2023/06/contacto-telegram.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "text",
+      "html": "<h3>Recibe directamente en tu móvil todo tipo de información y recursos útiles para tu bienestar.</h3>\n</p>\n<ul>\n<li>Meditaciones guiadas y ejercicios de Mindfulness.</li>\n<li>Artículos propios de psicoterapia y gestión emocional.</li>\n<li>Promociones especiales para cursos y talleres.</li>\n</ul>"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/06/meditaciones-guiadas-mindfulness-psicologo-el-prat-de-llobregat.jpg",
+      "alt": "meditaciones-guiadas-mindfulness-psicologo-el-prat-de-llobregat"
+     },
+     {
+      "t": "text",
+      "html": "<h3>Prácticas de Mindfulness guiadas</h3>\n<p>Ofrecemos grabaciones de prácticas de Mindfulness para que puedas practicar cómodamente desde casa o allá donde estés.</p>\n<p>Si te unes en nuestro canal de Telegram las podrás recibir directamente tu móvil.</p>"
+     },
+     {
+      "t": "btn",
+      "text": "TELEGRAM",
+      "href": "https://t.me/lespiral_cat"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/06/hojas-de-trabajo-mindfulness-psicologo-el-prat-de-llobregat.jpg.jpg",
+      "alt": "hojas-de-trabajo-mindfulness-psicologo-el-prat-de-llobregat.jpg"
+     },
+     {
+      "t": "text",
+      "html": "<h3>Hojas de trabajo de Mindfulness</h3>\n<p>Conjuntamente con las meditaciones guiadas, también podrás acceder a las hojas de trabajo que te permitirán profundizar en tu autoconocimiento.</p>\n<p>Poner palabras a lo que experimentas y observas durante la práctica de Mindfulness ayuda a que la experiencia se adentre y provoque cambios en todas las áreas de tu vida.</p>"
+     },
+     {
+      "t": "btn",
+      "text": "TELEGRAM",
+      "href": "https://t.me/lespiral_cat"
+     }
+    ]
+   ],
+   "head": [
+    {
+     "t": "h",
+     "tag": "h2",
+     "html": "DIRECTAMENTE A TU MÓVIL"
+    }
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/06/articulos-psicologia.jpg",
+      "alt": "Artículos psicología"
+     },
+     {
+      "t": "text",
+      "html": "<h3>Artículos de psicología</h3>\n<p>Cada semana subimos artículos que te permitirán conocer con mayor profundidad la psicoterapia humanista que practicamos en l'Espiral.</p>\n<p>Un adentrarse en los entresijos de un proceso psicoterapéutico, así como profundizar en temas claves de la salud psico-emocional.</p>"
+     },
+     {
+      "t": "btn",
+      "text": "TELEGRAM",
+      "href": "https://t.me/lespiral_cat"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/06/articulos-mindfulness.jpg",
+      "alt": "articulos-mindfulness"
+     },
+     {
+      "t": "text",
+      "html": "<h3>Artículos de Mindfulness</h3>\n<p>Cada semana subimos artículos que te permitirán conocer con mayor profundidad el Mindfulness y como aplicarlo en tu vida para una salud mental y emocional más plena.</p>\n<p>Estos artículos te permitirán profundizar en tu práctica meditativa y encarar los ejercicios con mayor seguridad y precisión.</p></p>"
+     },
+     {
+      "t": "btn",
+      "text": "TELEGRAM",
+      "href": "https://t.me/lespiral_cat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

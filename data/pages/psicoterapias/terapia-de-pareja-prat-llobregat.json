@@ -1,0 +1,304 @@
+{
+ "path": "psicoterapias/terapia-de-pareja-prat-llobregat",
+ "wp_id": 282,
+ "title": "Terapia de Pareja El Prat de Llobregat",
+ "published": "2023-05-23",
+ "modified": "2024-07-16",
+ "seo_title": "Terapia de Pareja El Prat de Llobregat - L’Espiral",
+ "description": "Terapia de Pareja en el Prat de Llobregat (Barcelona) ¿Problemas de Pareja? ✓ L'Espiral somos psicólogos expertos en terapia de pareja y terapia sexual.",
+ "lang": "es",
+ "keyword": "terapia de pareja",
+ "h1_inventari": "Terapia de pareja en el prat de llobregat",
+ "og_title": "Terapia de Pareja El Prat de Llobregat - L’Espiral",
+ "og_image": "/wp-content/uploads/2023/05/Terapia-de-Parella-a-El-Melic-El-Prat-de-Llobregat.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "Terapia de pareja en el prat de llobregat"
+     },
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "TERAPIA DE PAREJA"
+     },
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/Terapia-de-pareja.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Terapia de pareja"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La terapia de pareja es un espacio seguro e íntimo donde las parejas pueden explorar sus patrones de relación y encontrar maneras más saludables de gestionar sus vidas."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Uno de los objetivos de la terapia de pareja en el Prat de Llobregat es conseguir que la pareja sea consciente de lo que hacen para identificar y cambiar los patrones (o pautas neuróticas) en los que ha caído la relación."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Terapia-de-Parella-a-El-Melic-El-Prat-de-Llobregat.jpg",
+      "alt": "Terapia-de-Parella-a-El-Melic-El-Prat-de-Llobregat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Terapia-de-Parella-b-El-Melic-El-Prat-de-Llobregat.jpg",
+      "alt": "Terapia de pareja"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿Cómo funciona la terapia de pareja?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Terapia de Pareja en el Prat de Llobregat"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "En las sesiones destacaremos que la pareja aprenda nuevas formas de relacionarse, comunicarse, expresarse y resolver conflictos. <br><br> El objetivo final es encontrar las formas adecuadas y crear las herramientas necesarias para vivir una relación más saludable."
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "¿Cuándo es aconsejable hacer terapia en pareja?"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Psicólogos y Terapeutas de Pareja en El Prat"
+       },
+       {
+        "t": "text",
+        "html": "<p class=\"elementor-image-box-description\">Cuando se experimentan <b>una o más</b> de las situaciones comunes que dificultan la relación de las parejas:</p>\n<ul>\n<li>Dificultades en la comunicación</li>\n<li>Adquisición de hábitos que interfieren con la relación</li>\n<li>Luchas por el poder y el control, y la tendencia a avanzar cada miembro de la pareja en una dirección diferente en lugar de hacerlo conjuntamente</li>\n<li>Celos</li>\n<li>Infidelidades</li>\n<li>Dificultades en la expresión de la afectividad y la intimidad</li>\n<li>Relaciones inapropiadas con las respectivas familias de origen que no permiten la convivencia de la pareja</li>\n<li>Dificultad para respetar y aceptar que el hijo o hija se ha unido a otra persona formando su propia familia</li>\n<li>Problemas sexuales</li>\n<li>Falta de compromiso y apego en la relación</li>\n<li>Diferentes tipos de violencia</li>\n<li>Separaciones recurrentes</li>\n<li>Separación definitiva</li>\n</ul>"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/terapia-pareja-el-prat.jpg",
+      "alt": "terapia-pareja-el-prat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Terapia-de-Parella-b-El-Melic-El-Prat-de-Llobregat.jpg",
+      "alt": "Terapia de pareja"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Beneficios de la terapia de pareja"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas de Pareja en El Prat"
+     },
+     {
+      "t": "text",
+      "html": "<ul>\n<li>Generar un <b>cambio positivo</b> en la relación de pareja</li>\n<li>Descubrir las <b>intervenciones adecuadas</b> para que la pareja se de cuenta de cómo está funcionando</li>\n<li>Descubrir qué opciones tiene la pareja para <b>resolver conflictos y experimentar experiencias nuevas</b> y saludables en sus formas de relacionarse</li>\n<li>La terapia de pareja permitirá que cada componente de la pareja se vea a sí mismo como realmente es, y también ver cómo es la persona está a su lado, conociéndolo de una manera <strong>más real y completa</strong></li>\n<li>Establecer un tipo de contacto entre los miembros de la pareja que sea <b>más saludable</b> para ambos</li>\n</ul>"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h4",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "A las parejas que sientan que un apoyo profesional puede traer cambios positivos en sus vidas. La terapia de pareja en El Prat de Llobregat os ayudará a salir de esa situación y a ver la vida en pareja de otro modo más sano y"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h4",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "a duración, frecuencia, horarios y precio de las sesiones de terapia de pareja en El Prat de Llobregat se acuerdan con el terapeuta al comienzo de la terapia. <br><br> Ponte en contacto con nosotros para saber qué terapeutas pueden acompañarte y sus condiciones de trabajo."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-pedir-cida/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h4",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "path": "contacto-3",
+ "wp_id": 22,
+ "title": "Contacto",
+ "published": "2023-05-21",
+ "modified": "2026-05-06",
+ "seo_title": "Contacto - L'Espiral",
+ "description": "Contacta con nosotros para una atención personalizada online o en El Prat de Llobregat.",
+ "lang": "es",
+ "keyword": "contacto",
+ "h1_inventari": "Contacta con",
+ "og_title": "Contacto - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/espi.png",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "Contacta con"
+     },
+     {
+      "t": "img",
+      "src": "2023/05/espi.png",
+      "alt": "L'Espiral"
+     },
+     {
+      "t": "contacte"
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "DIRECCIÓN <br> L'Espiral Jaume Casanovas 177, Local 2 08820 El Prat de Llobregat"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Email : lespiral@lespiral.cat",
+        "href": "mailto:lespiral@lespiral.cat"
+       }
+      ]
+     },
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Si necesitas ayuda estamos a tu lado."
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "mapa"
+     }
+    ]
+   ]
+  }
+ ]
+}

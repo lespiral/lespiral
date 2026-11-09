@@ -1,0 +1,277 @@
+{
+ "path": "psicoterapias/psicoterapia-adultos",
+ "wp_id": 274,
+ "title": "Psicoterapia Adultos - Terapia para Adultos El Prat",
+ "published": "2023-05-23",
+ "modified": "2023-06-19",
+ "seo_title": "Psicoterapia Adultos - Terapia para Adultos El Prat",
+ "description": "Psicoterapia para adultos en el Prat de Llobregat. Terapia para adultos para encontrarte y encontrar la solución a tus problemas. Cámbiate para cambiar tu vida.",
+ "lang": "es",
+ "keyword": "psicoterapia adultos",
+ "h1_inventari": "PSICOTERAPIA ADULTOS",
+ "og_title": "Psicoterapia Adultos - Terapia para Adultos El Prat",
+ "og_image": "/wp-content/uploads/2023/05/ansiedad-psicologo-en-el-prat.png",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas para terapias individuales"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "PSICOTERAPIA ADULTOS"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/06/Terapia-Individual-El-Melic-El-Prat-de-Llobregat.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "La Psicoterapia"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La psicoterapia es un espacio donde encontrar soluciones a tus problemas de pareja, familia, trabajo, emocionales, relación, autovaloración, duelos, angustia, hijos… Es un espacio íntimo y seguro donde puedes descubrir nuevas formas de relacionarte contigo mismo y con los que te rodean."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/ansiedad-psicologo-en-el-prat.png",
+      "alt": "ansiedad-psicologo-en-el-prat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/06/Terapia-en-adultos.png",
+      "alt": "Terapia-en-adultos"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Terapia en adultos ¿Qué es?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Nuestra forma de hacer la terapia en adultos es parte de las psicoterapias humanistas y xistenciales que nacieron como una alternativa al psicoanálisis por un lado y las corrientes conductuales por el otro. Ha sido considerado este movimiento humanista-existencial como la «Tercera fuerza de la psicología«. <br><br> En esta tendencia, nuestra mirada es la de la Terapia Gestalt. <br><br> Entendemos la terapia para adultos como un encuentro existencial entre dos personas, donde como terapeutas ponemos nuestra experiencia y estamos presentes a su servicio. <br><br> Nuestro papel es acompañarte en el proceso de descubrir las formas más óptimas de vivir tu vida. Para que puedas vivir en el aquí y ahora: vivir y sentir el presente y la realidad, actuando de acuerdo a ella, en lugar de guiarte por pensamientos, miedos o suposiciones. Para hacerte consciente: Para darte cuenta de lo que estás viviendo; Tienes que ser consciente de cómo te sientes, lo que estás haciendo, lo que necesitas; Para cambiar (si quieres) lo que eliges, lo que haces. <br> Y también que puedes aceptar lo que eres: ser responsable de tus propios actos,para que puedas decidir sobre tu propia vida."
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "Beneficios de la terapia en adultos"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "La Terapia Gestalt es una psicoterapia basada en la toma de consciencia de lo que sucede en tu presente y promueve el darse cuenta y la responsabilidad para que puedas ver y entender lo que está sucediendo y, de esta manera, integrarlo en la propia experiencia de vida."
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Si tu objetivo de venir a la terapia es trabajar un problema o un objetivo en particular, o iniciar un proceso de crecimiento personal, entender cómo te relacionas contigo y tu entorno produce una integración de todas las tendencias e inclinaciones, subpersonalidades y voces internas."
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Al aceptarlos y darles el espacio, los integras en una vida bien orientada y valiosa."
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Con la Terapia Gestalt te vives más completamente,y por lo tanto los resultados obtenidos tienden a ser permanentes y globales. Afectan a todo tu ser y a todas las áreas de tu vida."
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Beneficios-de-la-terapia-en-adultos.png",
+      "alt": "Beneficios de la terapia en adultos"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "A todos los adultos que sienten que un apoyo profesional puede traer cambios en sus vidas."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La duración, frecuencia, horarios y precio de las sesiones se acuerdan con el terapeuta al comienzo de la terapia. Ponte en contacto con nosotros para saber qué terapeutas pueden acompañarte y sus condiciones de trabajo."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-pedir-cida/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

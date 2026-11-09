@@ -1,0 +1,638 @@
+{
+ "path": "osona",
+ "wp_id": 3230,
+ "title": "Osona",
+ "published": "2025-10-15",
+ "modified": "2026-04-24",
+ "seo_title": "Osona - L'Espiral",
+ "description": "Transforma els teus",
+ "lang": "es",
+ "h1_inventari": "Psicòlegs, Terapeutes i Mentors a Mindfulness a Osona",
+ "og_title": "Osona - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/06/Lespiral-terapia-gestalt-4-2.png",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Transforma els teus"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Pensaments i Limitacions"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "I viu al ..."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "AQUÍ I ARA"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "Psicòlegs, Terapeutes i Mentors a Mindfulness a Osona"
+     },
+     {
+      "t": "btn",
+      "text": "Demana una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosaltres",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/lespiral-1.png"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necessites ajuda estem al teu costat. En línia, i ben aviat, també presencialment."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Truca'ns, centenars de pacients ens avalen."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoteràpia per a adults"
+            },
+            {
+             "html": "Teràpia de parella"
+            },
+            {
+             "html": "Psicoteràpia online"
+            },
+            {
+             "html": "Mindfulness terapèutic"
+            },
+            {
+             "html": "Mindfulness terapèutic",
+             "href": "Tallers i formacions"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Truca'ns o envia'ns un WhatsApp sense compromís"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentaràs un canvi, no únicament a l'àrea de conflicte que et porti a nosaltres, sinó a totes les esferes de la teva vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Els psicòlegs i terapeutes que treballem a L’espiral tenim com a objectiu principal promoure el benestar de les persones, els grups i la societat en general dins de la relació terapèutica."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Ho fem a través de les actituds, els principis i les tècniques que són pròpies de la nostra manera de treballar. Amb elles, t'ajudem a ampliar la consciència de les teves dificultats i els teus recursos."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Perquè tu mateix puguis arribar a proposar-te les meves pròpies metes ia donar lliure, creativa i responsablement resposta als teus conflictes amb tu mateix i amb l'entorn."
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "img",
+           "src": "2023/06/Lespiral-terapia-gestalt-4-2.png",
+           "alt": "Lespiral-terapia-gestalt-4-2"
+          },
+          {
+           "t": "h",
+           "tag": "h2",
+           "html": "Psicòlegs i terapeutes <br> A<span style=\"background-color: initial;\">mb experiència en línia, i ben aviat, també presencialment ben a prop teu.</span><span style=\"background-color: initial;\"></span><br>"
+          }
+         ],
+         [
+          {
+           "t": "img",
+           "src": "2023/05/lespiral-33.png",
+           "alt": "l'Espiral"
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/06/Terapia-Individual-El-Melic-El-Prat-de-Llobregat.jpg",
+      "alt": "Terapia individual",
+      "href": "/psicoterapias/psicoterapia-adultos/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Teràpia individual",
+      "href": "/psicoterapias/psicoterapia-adultos/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Treballem per ajudar-te a trobar solucions als teus problemes de parella, família, feina, emocionals, relació, autovaloració, duels, angoixa, fills…",
+      "href": "/psicoterapias/psicoterapia-adultos/"
+     },
+     {
+      "t": "btn",
+      "text": "Més informació",
+      "href": "https://gestaltmindfulness.lespiral.cat/psicoterapia-adults/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Terapia-de-Parella-b-El-Melic-El-Prat-de-Llobregat.jpg",
+      "alt": "Terapia de pareja",
+      "href": "/psicoterapias/terapia-de-pareja-prat-llobregat/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Teràpia de parella",
+      "href": "/psicoterapias/terapia-de-pareja-prat-llobregat/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Un espai on les parelles, amb l'ajuda del psicòleg i/o Terapeuta Gestalt, poden explorar els patrons de relació i trobar maneres més saludables de manejar les vides.",
+      "href": "/psicoterapias/terapia-de-pareja-prat-llobregat/"
+     },
+     {
+      "t": "btn",
+      "text": "Més informació",
+      "href": "https://gestaltmindfulness.lespiral.cat/terapia-de-parella/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/08/Mindfulness-psicologo-en-el-prat-2-2.jpg",
+      "alt": "Mindfulness psicologo",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Mindfulness terapèutic",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "L'Atenció o Consciència Plena [Mindfulness] ens permet optar a una millor capacitat de reacció davant dels problemes que la vida ens planteja aconseguint trobar una manera més sana i eficaç de resoldre els nostres problemes.",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     },
+     {
+      "t": "btn",
+      "text": "Més informació",
+      "href": "https://gestaltmindfulness.lespiral.cat/mentoria-en-mindfulness/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "La Psicoteràpia"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "«Conegui totes les teories. Domini totes les tècniques, però en tocar una ànima humana sigui, en prou feines, una altra ànima humana»"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Carls Gustav Jung"
+     }
+    ]
+   ],
+   "bg": "2023/05/La-Psicoterapia.png"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h2",
+        "html": "Què aconseguiràs amb les teràpies psicològiques de L´Espiral?"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "Ser més conscient de les teves emocions i pensaments."
+         },
+         {
+          "html": "Sabràs reconèixer que pots fer, quan i com actuar per solucionar, no només els teus problemes actuals, sinó també els futurs."
+         },
+         {
+          "html": "Milloraràs la comunicació amb tu mateix, amb menys crítica interna, més acceptació i comprensió de la teva realitat."
+         },
+         {
+          "html": "Canviaràs la manera de comunicar-te amb el teu entorn, sent més empàtic, assertiu i compassiu."
+         },
+         {
+          "html": "Experimentaràs un canvi, no únicament a l'àrea de conflicte que et porti a nosaltres, sinó a totes les esferes de la teva vida."
+         },
+         {
+          "html": "Sentiràs que la teva vida té més sentit, que és més plena."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h4",
+      "html": "Últims articles"
+     },
+     {
+      "t": "articles",
+      "n": 3
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/ansiedad-psicologo-en-el-prat.png",
+      "alt": "ansiedad-psicologo-en-el-prat",
+      "href": "/ansiedad/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Ansietat",
+      "href": "/ansiedad/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "T'acompanyem perquè l'ansietat no et limiti i puguis tornar a confiar en tu. T'ajudem a desenvolupar recursos psicològics, emocionals i corporals per guarir l'ansietat.",
+      "href": "/ansiedad/"
+     },
+     {
+      "t": "btn",
+      "text": "Més informació",
+      "href": "/ansiedad/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/09/Grup-de-crianca-a-El-Melic-El-Prat-de-Llobregat-1024x683-1.jpg",
+      "alt": "Grup-de-criança-a-El-Melic-El-Prat-de-Llobregat-1024x683",
+      "href": "http://www.elmelic.com/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Maternitat i criança",
+      "href": "https://creixer.cat/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "El Melic és l'espai que hem creat on poder atendre els problemes que poden aparèixer durant la gestació i la criança. Psicologia Infantil, Psicoteràpia Perinatal, etc.",
+      "href": "https://creixer.cat/"
+     },
+     {
+      "t": "btn",
+      "text": "Més informació",
+      "href": "https://creixer.cat/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/06/mindfulness-el-prat-llobregat.jpg",
+      "alt": "Atenció Plena",
+      "href": "/servicios-mindfulness-el-prat/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Mindfulness",
+      "href": "/servicios-mindfulness-el-prat/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Som especialistes en Atenció Plena [Mindfulness] pel creixement personal. Oferim tallers en grup, presencials i online, com a acompanyament individualitzat...",
+      "href": "/servicios-mindfulness-el-prat/"
+     },
+     {
+      "t": "btn",
+      "text": "MásMés informacióinformación",
+      "href": "/servicios-mindfulness-el-prat/"
+     }
+    ]
+   ],
+   "head": [
+    {
+     "t": "h",
+     "tag": "h4",
+     "html": "Som especialistes en :"
+    }
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Elaboració de contrapericials i informes pericials psicològics judicials i extrajudicials",
+      "href": "/contrapericiales-e-informes-periciales-psicologicos/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "CIVIL, PENAL, LABORAL I FAMILIAR.",
+      "href": "/contrapericiales-e-informes-periciales-psicologicos/"
+     },
+     {
+      "t": "btn",
+      "text": "Més informació",
+      "href": "/contrapericiales-e-informes-periciales-psicologicos/"
+     }
+    ]
+   ],
+   "bg": "2024/11/informes-psicologicos-psicologo-el-prat-1.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Informes psicològics"
+     },
+     {
+      "t": "text",
+      "html": "<p>Els informes pericials psicològics són eines fonamentals en diferents procediments judicials i extrajudicials.</p>\n<p>Aquests informes tenen com a objectiu oferir una anàlisi rigorosa i objectiu de l‟estat psicològic i emocional d‟una persona, aportant proves i arguments clars i detallats que poden ser decisius en els casos judicials.</p>\n<p>El procés pericial es duu a terme amb un enfocament centrat en el benestar emocional del pacient, fent que lexperiència sigui el més còmoda i amena possible.</p>"
+     },
+     {
+      "t": "btn",
+      "text": "Més informació",
+      "href": "/contrapericiales-e-informes-periciales-psicologicos/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2024/08/miedo-ansiedad-mindfulness-taller.jpg",
+      "alt": "miedo-ansiedad-mindfulness-taller.jpg",
+      "href": "/talleres-y-formaciones/taller-miedo-ansiedad-mindfulness/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Por, ansietat i Mindfulness",
+      "href": "https://gestaltmindfulness.lespiral.cat/por-ansietat-i-atencio-plena-mindfulness/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Un curs, en línia i gratuït, per desenvolupar recursos interns de seguretat, força i connexió. Per mantenir-nos presents quan sorgeix la por i l'angoixa. I poder afrontar la situació amb valentia, saviesa, interès i cura. <br><br> Aprendrem a respondre, en comptes de reaccionar. <br><br>",
+      "href": "https://gestaltmindfulness.lespiral.cat/por-ansietat-i-atencio-plena-mindfulness/"
+     },
+     {
+      "t": "btn",
+      "text": "Més informació",
+      "href": "https://gestaltmindfulness.lespiral.cat/por-ansietat-i-atencio-plena-mindfulness/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2024/08/sanar-la-ansiedad.jpg",
+      "alt": "sanar-la-ansiedad.jpg",
+      "href": "/gestion-de-la-ansiedad-3/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Alliberar-se de creences i patrons de pensaments negatius",
+      "href": "https://gestaltmindfulness.lespiral.cat/deslliurar-se-de-creences-i-patrons-de-pensament-negatius/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Aquest curs, en línia i gratuït, mostra com pots observar i adonar-te de quines són les creences limitants que et fan patir. <br><br> Realitzar aquest curs permet assaborir la llibertat que és possible quan deixes anar aquestes creences.<br><br>",
+      "href": "https://gestaltmindfulness.lespiral.cat/deslliurar-se-de-creences-i-patrons-de-pensament-negatius/"
+     },
+     {
+      "t": "btn",
+      "text": "Més informació",
+      "href": "https://gestaltmindfulness.lespiral.cat/deslliurar-se-de-creences-i-patrons-de-pensament-negatius/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2024/08/grupo-terapeutico-psicologo-en-el-prat-1.jpg",
+      "alt": "grupo-terapeutico-psicologo-en-el-prat-1.jpg",
+      "href": "/talleres-y-formaciones/trabajo-psicoterapeutico-con-suenos/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Transformar el patiment amb Mindfulness",
+      "href": "https://gestaltmindfulness.lespiral.cat/transformar-el-patiment/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Amb aquest curs, en línia i gratuït, tindreu l'oportunitat d'aprendre a gestionar les situacions difícils amb Mindfulness. <br><br> Aprofundirem en una de les tècniques més completes de Mindfulness i més efectives per transitar les dificultats de la vida: La meditació R.A.I.N. <br><br>",
+      "href": "https://gestaltmindfulness.lespiral.cat/transformar-el-patiment/"
+     },
+     {
+      "t": "btn",
+      "text": "Més informació",
+      "href": "https://gestaltmindfulness.lespiral.cat/transformar-el-patiment/"
+     }
+    ]
+   ],
+   "head": [
+    {
+     "t": "h",
+     "tag": "h2",
+     "html": "Tallers en línia, gratuïts."
+    }
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Recursos"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "RECURSOS",
+      "href": "/contrapericiales-e-informes-periciales-psicologicos/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicoteràpia i Mindfulness",
+      "href": "/recursos/"
+     }
+    ]
+   ],
+   "bg": "2025/01/recursos-lespiral-psicologo-el-prat.webp"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Videos, Meditacions Guiades, Contes terapèutics, Articles i molt més...",
+      "href": "/recursos/"
+     },
+     {
+      "t": "text",
+      "html": "<h4>Explora el teu creixement personal amb recursos dedicats al Mindfulness i la psicologia.</h4>\n<h4>Aprofundeix la teva pràctica a través de contes inspiradors, vídeos enriquidors, articles detallats i materials descarregables dissenyats per fomentar la consciència i la transformació personal.</h4>"
+     },
+     {
+      "t": "btn",
+      "text": "Més informació",
+      "href": "/recursos/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "text",
+      "html": "<h2 dir=\"ltr\">Com m'acompanya un psicòleg o terapeuta Gestalt durant les sessions de psicoteràpia?</h2>\n<p>Em “curaré” en poques sessions? És una de les preguntes més habituals. Quan algú comença un procés terapèutic té l'esperança que en poques sessions podrà solucionar allò que l'angoixa o preocupa. I és normal, qui no es vol treure de sobre el més aviat possible allò que no el deixa viure en pau? I davant d'aquesta comprensible demanda, hi ha corrents psicològics que prometen canvis en molt poques sessions. Cures gairebé màgiques, solucions instantànies per a problemes que, en la majoria dels casos, porten anys amb nosaltres i que només una agudització extrema fa que sol·licitem ajuda a un psicòleg o terapeuta Gestalt.</p>\n<details><canvas class=\"lt-highlighter__canvas\" style=\"display: none; top: 3px !important; left: 13px !important;\" width=\"34\" height=\"20\"></canvas></p>\n<summary spellcheck=\"false\" data-lt-tmp-id=\"lt-986907\" data-gramm=\"false\">Llegir més</summary>\n<p dir=\"ltr\">En nuestra consulta de psicología, vemos cada semana la angustia, la desesperanza o el estado de letargo que produce en las personas los problemas que la vida le plantea. Queremos salir rápidamente de allí. Y es importante hacerlo, pero lo más importante es saber cómo nos hemos metido en el problema y cómo lo hemos hecho para salir de él.</p>\n<p dir=\"ltr\">No es el psicólogo el que cura. No somos médicos que inyectamos “<em>Autoestiminia Fortex</em>” o “<em>Eliminadepresión 550mg</em>” o “<em>Ponlimitesentuvidadól 2000</em>”. Es el paciente que, gracias a la toma de consciencia, <strong>aprende a desarrollar los recursos que necesita para vivir</strong>. Porque la vida siempre nos pondrá a prueba, y es mejor si, al acabar un proceso de psicoterapia, hemos aprendido algo por nosotros mismos.</p>\n<p dir=\"ltr\">Naturalmente, el psicólogo o terapeuta Gestalt que trabaja en nuestra consulta hace algo (por algo nos pagáis!), y hoy os voy a desvelar un poquito el arte de nuestro trabajo.</p>\n<h2 dir=\"ltr\">¿Qué nos ocurre en la vida, que llega un día en el que necesitamos ir a terapia?</h2>\n<p dir=\"ltr\">Desde que nacemos y hasta la edad adulta vamos pasando por diferentes etapas en nuestro desarrollo. Cada una de ellas tiene sus características y sus necesidades, y el no atender adecuadamente las necesidades de cada etapa puede generar dificultades de relación en el futuro adulto debido a la <em>rigidización</em> de sus respuestas motoras, cognitivas y emocionales.</p>\n<p dir=\"ltr\">Según<strong> James Kepner</strong>, psicólogo gestáltico y autor del libro “<a href=\"http://www.gestaltpress.com/healing-tasks/\">Healing Tasks</a>”, un proceso terapéutico tiene ciertas similitudes con el proceso de desarrollo humano. El camino emprendido con la terapia, hará que el paciente pase también por una serie de etapas donde tendrá la oportunidad de ir reestructurando lo que se creó.</p>\n<p dir=\"ltr\">Al igual que en cada etapa del desarrollo lo que se atenderá en el niño van cambiando, también durante el proceso terapéutico será necesario que el foco de las intervenciones por parte del terapeuta cambien dependiendo de la etapa en que se encuentre.</p>\n<h2 dir=\"ltr\">¿Qué me puede proponer el psicólogo o terapeuta Gestalt durante la terapia?</h2>\n<p dir=\"ltr\">Por ejemplo, si durante el proceso emerge la emoción de la rabia. No será el mismo trabajo que se realice para acompañarla si ésta se hace presente en la fase de <a href=\"/soten-emocional-interno/\">\"Apoyo\"</a>, donde la función del terapeuta puede ser simplemente validar la emoción y ayudar al cliente a sentir que “puede sentir rabia” aunque no se sepa claramente que la provoca. O si aparece en la fase de las \"<a href=\"/de-verdad-eres-asi/\">Funciones del Yo\" </a>donde se puede experimentar más activamente con la gestión emocional de la rabia mediante experimentos y ejercicios. En la de “<strong>Deshacer, rehacer y doler</strong>” se puede ayudar a encaminar esta rabia hacia las personas apropiadas. Y en la de \"<strong>Consolidación</strong>\", aprovechar la energía creativa de esta emoción para generar nuevas relaciones o proyectos.</p>\n<p dir=\"ltr\">El hecho de hacer propuestas que no se adecuen al momento del proceso terapéutico que se esté desarrollando puede ser contraproducente, (y es aquí dónde las curas mágicas y la soluciones en pocas sesiones tropiezan), transportando al cliente a situaciones o experiencias que quizás todavía no está preparado para sostener.</p>\n<h2 dir=\"ltr\">¿Por qué fases se pasan en un proceso terapéutico?</h2>\n<p dir=\"ltr\">Naturalmente, este no es un proceso lineal, y aunque en cada fase tendrá más sentido desarrollar un cierto tipo de acompañamiento por parte del terapeuta, el resto de fases y posibles propuestas también estarán presentes, ayudando a tener una visión global de la situación que permitirá ver qué elementos de otras fases pueden estar fallando en una parte determinada del proceso.</p>\n<p dir=\"ltr\">Como terapeutas, saber en qué fase del proceso terapéutico se encuentra el paciente ayuda a guiar el trabajo terapéutico, haciendo las propuestas oportunas y acompañando el proceso con el ritmo y la intensidad adecuados para que se puedan desarrollar las habilidades y capacidades necesarias para ir evolucionando en el proceso terapéutico.</p>\n<h2 dir=\"ltr\">Foco en los recuerdos</h2>\n<h3 id=\"#fase-apoyo\" dir=\"ltr\">Fase de Apoyo</h3>\n<ul>\n<li dir=\"ltr\">Tolerancia.</li>\n<li dir=\"ltr\">Validar que algo puede haber pasado.</li>\n<li dir=\"ltr\">Sólo experimentarlos, en lugar de ir a Abreacción.</li>\n<li dir=\"ltr\">Usar el contacto presente con el terapeuta como soporte para experimentar los recuerdos.</li>\n</ul>\n<h3 dir=\"ltr\">Fase de Funciones del Yo</h3>\n<ul>\n<li dir=\"ltr\">Recuperar las Funciones del Yo interrumpidas o dejadas atrás.</li>\n<li dir=\"ltr\">Identificar las Funciones del Yo a trabajar y desarrollarlas en el momento presente.</li>\n</ul>\n<h3 dir=\"ltr\">Fase de Deshacer, rehacer y doler</h3>\n<ul>\n<li dir=\"ltr\">Trabajar en duelos inacabados.</li>\n<li dir=\"ltr\">Desarrollar nuevas Funciones del Yo para hacer frente a recuerdos traumáticos.</li>\n<li dir=\"ltr\">Confrontar al abusador (simbólicamente o realmente) desde una posición adulta.</li>\n<li dir=\"ltr\">Reclamar para el presente lo que necesitábamos en el pasado.</li>\n<li dir=\"ltr\">Vivir el duelo de las pérdidas que ahora son recordadas.</li>\n</ul>\n<h3 dir=\"ltr\">Fase de Consolidación</h3>\n<ul>\n<li dir=\"ltr\">Hechos traumáticos vividos ahora como hechos pasados.</li>\n<li dir=\"ltr\">Recordar los hechos menos inquietantemente; sensación de ser absorbidos por un sentimiento de un yo más cohesionado.</li>\n<li dir=\"ltr\">‘La vida vivida’ como contexto de los recuerdos a ser asimilados.</li>\n<li dir=\"ltr\">Presente y futuro como contexto para vivir y recordar.</li>\n</ul>\n<h3 dir=\"ltr\">Foco en los sentimientos</h3>\n<h3 dir=\"ltr\">Fase de Apoyo</h3>\n<ul>\n<li dir=\"ltr\">Acompañar la intensidad mediante el apoyo y el arraigo.</li>\n<li dir=\"ltr\">Validar y legitimar con relación a la seriedad del abuso.</li>\n<li dir=\"ltr\">Validar que está bien tener sentimientos aunque no sabemos por qué.</li>\n</ul>\n<h3 dir=\"ltr\">Fase de Funciones del Yo</h3>\n<ul>\n<li dir=\"ltr\">Tolerar un incremento en la intensidad y la variedad de sentimientos.</li>\n<li dir=\"ltr\">Ordenar los sentimientos del pasado respecto a los del presente.</li>\n<li dir=\"ltr\">Encontrar sentimientos apropiados para las situaciones presentes.</li>\n</ul>\n<h3 dir=\"ltr\">Fase de Deshacer, rehacer y doler</h3>\n<ul>\n<li dir=\"ltr\">Expresión de los sentimientos.</li>\n<li dir=\"ltr\">Encaminarlos hacia las personas apropiadas del pasado.</li>\n<li dir=\"ltr\">Permitir que los sentimientos se expresen completamente.</li>\n</ul>\n<h3 dir=\"ltr\">Fase de Consolidación</h3>\n<ul>\n<li dir=\"ltr\">Amplitud de sentimientos disponibles para experimentar y asimilar.</li>\n<li dir=\"ltr\">Diferenciar qué se debe al abuso y que los factores.</li>\n</ul>\n<h3 dir=\"ltr\">Foco en el terapeuta</h3>\n<h3 dir=\"ltr\">Fase de Apoyo</h3>\n<ul>\n<li dir=\"ltr\">Entorno activo de apoyo.</li>\n<li dir=\"ltr\">Validación de la realidad emergente.</li>\n<li dir=\"ltr\">Establecer límites seguros.</li>\n<li dir=\"ltr\">Ayudar al cliente a mirar activamente los problemas de confianza.</li>\n</ul>\n<h3> </h3>\n<h3 dir=\"ltr\">Fase de Funciones del Yo</h3>\n<ul>\n<li dir=\"ltr\">Enseñanza activa de capacidades.</li>\n<li dir=\"ltr\">Creación de experimentos y ejercicios para desarrollar las capacidades.</li>\n<li dir=\"ltr\">Modelado de límites sanos.</li>\n<li dir=\"ltr\">Uso del terapeuta como objeto de contacto para la práctica.</li>\n<li dir=\"ltr\">Modelo de graduación y ritmo.</li>\n</ul>\n<h2> </h2>\n<h3 dir=\"ltr\">Fase de Deshacer, rehacer y doler</h3>\n<ul>\n<li dir=\"ltr\">Apoyo activo para recordar.</li>\n<li dir=\"ltr\">Evitación del contacto con los recuerdos y fomento de la elección.</li>\n<li dir=\"ltr\">Entrenamiento en la expresión de alta intensidad y trabajo ‘a través de’.</li>\n<li dir=\"ltr\">Confrontación activa de distorsiones y proyecciones.</li>\n</ul>\n<h3 dir=\"ltr\">Fase de Consolidación</h3>\n<ul>\n<li dir=\"ltr\">Fomentar la independencia.</li>\n<li dir=\"ltr\">Aportar perspectiva.</li>\n<li dir=\"ltr\">Reconocer y afirmar la sabiduría trascendente del cliente.</li>\n</ul>\n</details>"
+     }
+    ]
+   ]
+  }
+ ]
+}

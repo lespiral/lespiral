@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+	<title>{{ title }}</title>
+	<atom:link href="{{ self_url }}" rel="self" type="application/rss+xml" />
+	<link>{{ link }}</link>
+	<description>Psicólogos y Terapeutas El Prat de Llobregat</description>
+	<lastBuildDate>{{ now }}</lastBuildDate>
+	<language>es</language>
+	{% for a in items %}
+	<item>
+		<title>{{ a.title }}</title>
+		<link>{{ site.site_url.rstrip('/') ~ a.url }}</link>
+		<dc:creator><![CDATA[{{ site.author.name }}]]></dc:creator>
+		<pubDate>{{ pubdate(a.published) }}</pubDate>
+		<category><![CDATA[Artículos]]></category>
+		<guid isPermaLink="true">{{ site.site_url.rstrip('/') ~ a.url }}</guid>
+		<description><![CDATA[{{ a.summary|safe }}]]></description>
+		<content:encoded><![CDATA[{{ absolute(a.html|replace('<div data-ressenyes></div>', '')|replace(']]>', ']]&gt;')) }}]]></content:encoded>
+	</item>
+	{% endfor %}
+</channel>
+</rss>

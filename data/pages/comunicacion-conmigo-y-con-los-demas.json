@@ -1,0 +1,287 @@
+{
+ "path": "comunicacion-conmigo-y-con-los-demas",
+ "wp_id": 938,
+ "title": "Comunicación conmigo y con los demás",
+ "published": "2023-05-25",
+ "modified": "2024-07-16",
+ "seo_title": "Taller de Comunicación Conmigo y con los Demás - L'Espiral",
+ "description": "Aprende a comunicarte y relacionarte con los demás de una manera más auténtica, real y saludable. Taller de comunicación y autoconocimiento ¡Inscríbete!",
+ "lang": "es",
+ "keyword": "comunicación,taller",
+ "h1_inventari": "Comunicación conmigo y con los demás",
+ "og_title": "Taller de Comunicación Conmigo y con los Demás - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/comunicacion-01-psicologos-en-el-prat.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en el Prat de Llobregat"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "Comunicación conmigo y con los demás"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/comunicacion-01-psicologos-en-el-prat.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Comunicación conmigo y con los demás"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Es un taller práctico y experiencial que utiliza las técnicas terapéuticas gestálticas y corporales integrativas para hacer un trabajo de autoconocimiento en interacción grupal."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "El objetivo de este taller es reconocer las fantasías sobre mí que he creado y me he creído, así como los conflictos internos que crean una barrera con el mundo y condicionan la forma en que me comunico y relaciono con los demás."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/comunicacion-01-psicologos-en-el-prat.jpg",
+      "alt": "comunicacion-01-psicologos-en-el-prat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/comunicacion-02-psicologos-en-el-prat.jpg",
+      "alt": "comunicacion-02-psicologos-en-el-prat"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿En qué consiste el taller?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Taller Comunicación conmigo y con los demás"
+     },
+     {
+      "t": "text",
+      "html": "<p>Hay problemas reales en el mundo que puedo enfrentar sólo <b>cuando tengo claro lo que siento y lo que quiero hacer</b>.</p>\n<p>Cuando me encuentro en medio de un conflicto, me identifico, por un lado, con mis propios sentimientos y deseos, y, de otra, con fantasías que entran en conflicto con estos \"darme cuenta\" de ello: ideas sobre \"lo que debería ser\", expectativas catastróficas, por lo que pensarán y / o harán los demás, etc.</p>\n<p>Estas fantasías <b>impiden que mis comunicaciones y actividades se dirijan al mundo</b>.</p>\n<p>En la medida que hago eso me aíslo de los demás. Mi energía se divide y entra en oposición, por lo que hay muy poca disponible para enfrentarme con el mundo real.</p>\n<p>Cuando participo en conflictos externos antes de haber solucionado los conflictos conmigo mismo / a, sólo estoy creando más conflictos, tanto dentro como fuera de mí.</p>"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "Beneficios del taller"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Taller Comunicación conmigo y con los demás​"
+       },
+       {
+        "t": "text",
+        "html": "<p>Ampliar y potenciar las capacidades personales para <b>aprender a comunicarme y relacionarme con los demás de una manera más auténtica, real y saludable</b>.</p>"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Terapia-de-Parella-b-El-Melic-El-Prat-de-Llobregat.jpg",
+      "alt": "Terapia de pareja"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Nuestro taller va dirigido a todas aquellas personas que deseen profundizar en su trabajo de crecimiento personal y que quieran experimentar la vida desde las aportaciones de la Gestalt y la terapia corporal integrativa."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Consúltanos para saber las fechas, horarios y precios del próximo taller."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Taller impartido por"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Montse Molina Vilaneuva: Licenciada en Psicopedagogía. Master en psicología infantil y juvenil. Terapeuta Gestalt. Terapeuta Corporal Integrativa. Máster en conductas adictivas - Modelo Minessota. Formación permanente de la Generalitat de Catalunya en Educación Emocional, Pedagogía Sitèmica y Yoga para pequeños y grandes."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-pedir-cida/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

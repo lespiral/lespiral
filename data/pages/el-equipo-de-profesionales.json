@@ -1,0 +1,392 @@
+{
+ "path": "el-equipo-de-profesionales",
+ "wp_id": 14,
+ "title": "El Equipo de Profesionales",
+ "published": "2023-05-21",
+ "modified": "2026-09-11",
+ "seo_title": "Nuestro equipo - L'Espiral",
+ "description": "Descubre el Equipo que conformamos l'Espiral.cat",
+ "lang": "es",
+ "keyword": "equipo",
+ "h1_inventari": "EL EQUIPO DE PROFESIONALES",
+ "og_title": "Nuestro equipo - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/Aleix-Boronat.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "EL EQUIPO DE PROFESIONALES"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/09/introduccion-terapia-gestalt-psicologo-en-el-prat-2.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626 62 71 24",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Aleix-Boronat.jpg",
+      "alt": "Aleix Boronat"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Aleix Boronat"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Director L’Espiral.<br><br> Terapeuta Gestalt, Mentor en Mindfulness y Miembro adherente de la AETG. Formación en Psicoterapia Integrativa (programa SAT). Formado en técnicas psicocorporales (Movimiento Auténtico, Shiatsu y Movimiento, Yoga, Bioenergetica). <br><br><br>"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2024/06/Elvira-psicologa-lespiral-el-prat-de-llobregat-2.jpg",
+      "alt": "Elvira psicologa lespiral el prat de llobregat"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Elvira Abad Mondelo"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicóloga Sanitaria Col. 13460, Terapeuta Gestalt, Máster en Psicogerontología y Neurociencias Aplicadas. Coordinadora Grup de Treball Gent Gran al COPC Área Intervención Social. Docente Atención a la Dependencia SAD. Formada en Practitioner P.N.L., Risoterapia, Constelaciones Familiares, Acompañamiento a la Muerte y Movimiento Espontáneo SEITAI. En Formación Psicología Integrativa Transpersonal y Programa SAT Eneagrama de Claudio Naranjo."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/chiara-leoni-psicologo-en-el-prat.jpg",
+      "alt": "chiara-leoni-psicologo-en-el-prat"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Chiara Leoni"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicóloga gestaltista infantil, familiar y perinatal. Formada en Terapia Gestalt (Escuela del Taller de Gestalt, Barcelona), Psicoterapia Humanista Integradora Infantil (Centro Besa, Barcelona) y Psicología Perinatal y de la crianza. Mediadora familiar sistémica. Graduada en Trabajo Social. Instructora de yoga perinatal. Formada en meditación con Xavier Puigdevall Oliver."
+     }
+    ]
+   ],
+   "head": [
+    {
+     "t": "h",
+     "tag": "h2",
+     "html": "Nuestro equipo"
+    }
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/09/montse-molina.jpg",
+      "alt": "montse-molina"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Montse Molina Villanueva"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicopedagoga. Máster en Psicología Infanto-juvenil. Formada en Terapia Gestalt aplicada a la Infancia y Adolescencia y en Terapia Sistémica Relacional. Terapeuta Gestalt y Terapeuta Corporal Integrativa. Especialista en Adicciones: Máster en Conductas Adictivas. Formada en Psicoterapia Integrativa: Programa SAT. Formadora en el ámbito de la educación humanista."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Psicologo-El-Prat-lEspiral.jpg",
+      "alt": "Psicologo-El-Prat-lEspiral"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "John Tula Vidal"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogo y Terapeuta Gestalt. Formado en Terapia Sistémica y Psicoterapia Integrativa. Practicante de varias disciplinas corporales (movimiento auténtico, movimiento correctivo, meditación). Especializado en acompañamiento a adolescentes, adultos y familias."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/anna-vinas-psicologo-en-el-prat.jpg",
+      "alt": "anna-viñas-psicologo-en-el-prat"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Anna Viñas"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Terapeuta Gestalt. Miembro adherente de la AETG. Formación en Psicoterapia Integrativa (programa SAT). Formada en psicología y psicopatología del posparto. Formada en Yoga y Meditación para el Embarazo y el Post Parto con Happy Yoga. Formada en Educación Viva. Licenciada en Humanidades y Periodismo."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Anna-Ortiz-psicologo-el-prat.jpg",
+      "alt": "Anna-Ortiz-psicologo-el-prat"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Anna Ortiz Termes"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicóloga. Terapeuta Gestalt. Formadora en diversos talleres en relación con las competencias personales y la gestión emocional. Acompañante y tallerista en adicción a las pantallas en adolescentes y sus familias. Formada en Practitioner P.N.L y Coaching para terapeutas Gestalt. Profesora de Kundalini Yoga. <br><br><br>"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2024/06/Cecilia-Cristaldi.jpeg",
+      "alt": "Cecilia Cristaldi"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Cecilia Cristaldi"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicóloga formada en terapia sistémica, Gestalt y Coaching. Mi enfoque actual combina la psicología y el coaching, tanto en abordajes individuales como grupales. Acompaño a mis pacientes a que puedan reconocer su potencial e ir hacia la búsqueda de sus objetivos."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/psicologo-el-prat-de-llobregat-equipo-768x1024-1.jpg",
+      "alt": "psicologo-el-prat-de-llobregat-equipo-768x1024"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Núria Martí"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicóloga colegiada 23418. Especialista en adolescentes, adultos y perinatal. Acompañamiento en embarazo, parto, posparto y crianza respetuosa. Máster Oficial en Psicopedagogía. Educadora de Porteo y Asesora de lactancia materna. Formación en Terapia Corporal Integrativa y Danza Movimiento Terapia. Practitioner en Programación Neurolingüística. Bailarina titulada."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2024/11/Mireia-Rodriguez-Monge.png",
+      "alt": "Mireia Rodríguez Monge"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Mireia Rodríguez Monge"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicóloga Jurídico-Forense Colegiada COPC nº 30.977. Licenciada en el Grado de Psicología en la Universitat Abat Oliba. Máster jurídico-forense en el Instituto Superior de Estudios Psicológicos (ISEP). Técnica Superior Anatomía Patológica y Citodiagnóstico."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2024/06/Sol-Gomez.jpg",
+      "alt": "Sol Gomez"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Sol Gómez"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicóloga (licenciada en Argentina) y terapeuta Gestalt (AETG). Formada en Terapia Gestalt aplicada a la infancia y Adolescencia (Oaklander Institute), Teatro y Gestalt (Institut Integratiu) y CFT -terapia centrada en la compasión. Certificada en disciplina positiva. Actualmente formándome en Somatic experiencing (tratamiento del trauma a través del cuerpo) ."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2024/07/carol.jpg",
+      "alt": "carol"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Carol Sanchez"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Terapeuta Gestalt. Miembro adherente de la AETG. Certificada en Life Coaching por la CEFOC. Pratitioner PNL con Vicens Oliver en Institut Gestalt. Formada como Terapeuta Corporal Correctivo con Agata Asensi y transformada por la espiritualidad. En formación de Psicoterapia integradora delTrauma por el metodo ALECEIA y acompañamiento en el duelo y las pérdidas por Associació AVES. Creadora de círculos de mujeres. Formadora en Habilidades psicosociales para PYMES. Colaboradora del Master de Final de Vida de la Fundació Àmbit. Voluntaria en acompañamiento de paliativos en la Fundació Paliaclínics. Practicante de meditación y Atención Plena."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Terapia-en-adultos.png",
+      "alt": "Terapia en adultos"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Nuestra manera de hacer Terapia"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en el Prat"
+     },
+     {
+      "t": "text",
+      "html": "<p>Los psicólogos y terapeutas que trabajamos en l'Espiral tenemos como objetivo principal promover el bienestar de las personas, los grupos y la sociedad en general dentro de la relación terapéutica.</p>\n<p>Lo hacemos a través de las actitudes, principios y técnicas que son propias de nuestra manera de trabajar. Con ellas, te ayudamos a amplia la consciencia de tus dificultades y tus recursos.</p>\n<p>Para que tu mismo puedas llegar a proponerte tus propias metas y a dar libre, creativa y responsablemente respuesta a tus conflictos contigo mismo y con el entorno.</p>"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

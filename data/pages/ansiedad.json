@@ -1,0 +1,276 @@
+{
+ "path": "ansiedad",
+ "wp_id": 326,
+ "title": "Ansiedad",
+ "published": "2023-05-23",
+ "modified": "2026-10-21",
+ "seo_title": "Psicólogo Ansiedad en El Prat de Llobregat - Terapeuta Ansiedad",
+ "description": "Psicólogos y Terapeutas especializados en Ansiedad en el Prat de Llobregat. Servicios online y en nuestra clínica.",
+ "lang": "es",
+ "keyword": "psicologo Ansiedad el Prat de Llobregat",
+ "h1_inventari": "ANSIEDAD",
+ "og_title": "Psicólogo Ansiedad en El Prat de Llobregat - Terapeuta Ansiedad",
+ "og_image": "/wp-content/uploads/2023/05/Terapia-individual-1.png",
+ "canonical_wp": "https://lespiral.cat/ansiedad/",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y terapeutas gestalt en el prat"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "ANSIEDAD"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/ansiedad-psicologo-en-el-prat.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "h2",
+           "html": "¿Ansiedad? Estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia onlime"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "Ansiedad: llámanos o envíanos un WhatsApp"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626 62 71 24",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Terapia-individual-1.png",
+      "alt": "Terapia individual 1",
+      "href": "/psicoterapias/psicoterapia-adultos/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Terapia individual",
+      "href": "/psicoterapias/psicoterapia-adultos/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Trabajamos para ayudarte a encontrar soluciones a tus problemas de pareja, familia, trabajo,",
+      "href": "/psicoterapias/psicoterapia-adultos/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/psicoterapias/psicoterapia-adultos/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/ansiedad-4-psicologo-en-el-prat.jpg",
+      "alt": "ansiedad-4-psicologo-en-el-prat",
+      "href": "/ansiedad/gestion-de-la-ansiedad-3/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Taller de gestión de la ansiedad",
+      "href": "/ansiedad/gestion-de-la-ansiedad-3/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Un taller de 10 sesiones dónde aprendas que es la ansiedad, nuevas maneras de gestionarla y el apoyo necesario para superarla.",
+      "href": "/ansiedad/gestion-de-la-ansiedad-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/ansiedad/gestion-de-la-ansiedad-3/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/ansiedad-3-psicologo-en-el-prat.jpg",
+      "alt": "ansiedad-3-psicologo-en-el-prat",
+      "href": "/ansiedad-recursos-corporales/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Recursos corporales",
+      "href": "/ansiedad-recursos-corporales/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Para Sanar la Ansiedad, centrar la atención en el cuerpo permite una regulación consciente de las necesidades fisiológicas y nos ancla en el presente, el único lugar dónde podemos empezar a cambiar nuestra vida.",
+      "href": "/ansiedad-recursos-corporales/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/ansiedad-recursos-corporales/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Mindfulness-psicologo-en-el-prat-1-1.jpg",
+      "alt": "Mindfulness-psicologo-en-el-prat-1",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Mindfulness",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Somos especialistas en Atención Plena [Mindfulness] para el crecimiento personal.",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2024/03/miedo-ansiedad-mindfulness-taller.jpg",
+      "alt": "Miedo, Ansiedad Mindfulness",
+      "href": "/talleres-y-formaciones/introduccion-a-la-terapia-gestalt/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Miedo, ansiedad y Mindfulness",
+      "href": "/talleres-y-formaciones/introduccion-a-la-terapia-gestalt/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Un taller gratis, online y a tu ritmo. Para aprender a gestionar el miedo y la ansiedad con Mindfulness.",
+      "href": "/talleres-y-formaciones/taller-miedo-ansiedad-mindfulness/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/talleres-y-formaciones/introduccion-a-la-terapia-gestalt/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

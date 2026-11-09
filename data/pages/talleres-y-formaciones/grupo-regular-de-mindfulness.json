@@ -1,0 +1,287 @@
+{
+ "path": "talleres-y-formaciones/grupo-regular-de-mindfulness",
+ "wp_id": 865,
+ "title": "Grupo regular de Mindfulness",
+ "published": "2023-05-25",
+ "modified": "2024-07-16",
+ "seo_title": "Grupo de Mindfulness en El Prat de Llobregat - Grupo regular",
+ "description": "Únete a nuestro grupo de Mindfulness en El Prat de Llobregat. Grupo regular de Mindfulness en l'Espiral.cat",
+ "lang": "es",
+ "keyword": "grupo mindfulness",
+ "h1_inventari": "Grupo regular de mindfulness",
+ "og_title": "Grupo de Mindfulness en El Prat de Llobregat - Grupo regular",
+ "og_image": "/wp-content/uploads/2023/05/Mindfulness-psicologo-en-el-prat-1.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en el Prat"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "Grupo regular de mindfulness"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/Mindfulness-psicologo-en-el-prat-1.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Grupo regular de mindfulness"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La meditación se puede ver desde diferentes ángulos. Algunos lo abordarán como una práctica milenaria que permite dominar la mente y al mismo tiempo lograr un estado de conciencia plena. Para otros, será vista como una técnica que reduce el estrés y aumenta el bienestar general."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "En cualquier caso, con su práctica se logrará tener la capacidad de estar en el momento presente, de darmos cuenta de que, notamos, que sentimos y que pensamos y ser capaza de observarlo sin juicios ni dejándose guiar sin conciencia por estos estímulos."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Mindfulness-psicologo-en-el-prat-1.jpg",
+      "alt": "Mindfulness-psicologo-en-el-prat-1"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Mindfulness-3-psicologo-en-el-prat.jpg",
+      "alt": "Mindfulness-3-psicologo-en-el-prat"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿En qué consiste? Grupo regular de mindfulness"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat"
+     },
+     {
+      "t": "text",
+      "html": "<p>Este es un <b>grupo abierto</b> a aquellas personas que quieren comenzar en la práctica del Mindfulness, así como para aquellas personas que ya lo practican habitualmente.</p>\n<p><b>Un espacio para parar y mirar tu vida</b> y conocerte.</p>\n<p>Practicaremos el <b>minfulness formal y el informal así como dinámicas experienciales</b> que te ayudarán a conocerte mejor.</p>"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "Beneficios"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Psicólogos y Terapeutas Gestalt en El Prat"
+       },
+       {
+        "t": "text",
+        "html": "<p>- Aprender a <b>controlar el estrés y la ansiedad</b></p>\n<p>- Aprender a <b>calmar y silenciar la mente</b></p>\n<p>- <b>Estar presente</b> en el aquí y ahora</p>\n<p>- Mejorar la <b>concentración</b></p>\n<p>- <b>Desarrollar la compasión</b> hacia uno mismo y hacia los demás, sin juicios</p>\n<p>- Reducir la reacción mental automática y <b>aumentar los niveles conscientes de respuesta</b></p>\n<p>- Mejora la <b>estabilidad emocional</b></p>\n<p>- <b>Relaja la tensión</b> muscular</p>\n<p>- <b>Aprender técnicas</b> de relajación</p>"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Mindfulness-2-psicologo-en-el-prat.jpg",
+      "alt": "Mindfulness-2-psicologo-en-el-prat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Cualquier persona interesada enacercarse o profundizar en la meditación."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Consúltanos para saber las fechas, horarios y precios del próximo encuentro."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Impartido por"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Aleix Boronat Monfort: Director y cofundador de l’Espiral. Terapeuta Gestalt, Mentor en Mindfulness y Miembro adherente de la AETG. Formación en Psicoterapia Integrativa (programa SAT). Formado en técnicas psicocorporales (Shiatsu y Movimiento, Seitai, Yoga, Bioenergetica)."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": null
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

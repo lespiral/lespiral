@@ -1,0 +1,280 @@
+{
+ "path": "taller-soltar-viejo-abrazar-nuevo",
+ "wp_id": 874,
+ "title": "Taller Soltar lo viejo y abrazar lo nuevo",
+ "published": "2023-05-25",
+ "modified": "2024-07-16",
+ "seo_title": "Taller Soltar lo viejo y abrazar lo nuevo - L'Espiral",
+ "description": "Taller en el Prat de Llobregat",
+ "lang": "es",
+ "h1_inventari": "Soltar lo viejo y abrazar lo nuevo",
+ "og_title": "Taller Soltar lo viejo y abrazar lo nuevo - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/soltar-03-psicologo-el-prat-de-llobregat.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Taller en el Prat de Llobregat"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "Soltar lo viejo y abrazar lo nuevo"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/soltar-03-psicologo-el-prat-de-llobregat.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Soltar lo viejo y abrazar lo nuevo"
+     },
+     {
+      "t": "text",
+      "html": "<p><span class=\"tlid-translation translation\" lang=\"es\">«<strong>Soltar lo viejo y abrazar lo nuevo</strong>» es un taller práctico y experiencial que utiliza las técnicas terapéuticas gestálticas y corporales integrativas para hacer un trabajo de autoconocimiento en interacción grupal.</span></p>\n<p><span class=\"tlid-translation translation\" lang=\"es\">El objetivo de este taller es <strong>reconocer nuestras afecciones</strong> para con personas, lugares y cosas que nos distancian de nosotros, así como nuestras resistencias para <strong>adentrarnos en lugares desconocidos y seguramente más saludables</strong>.</span></p>"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/soltar-03-psicologo-el-prat-de-llobregat.jpg",
+      "alt": "soltar-03-psicologo-el-prat-de-llobregat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/soltar-01-psicologo-el-prat-de-llobregat.jpg",
+      "alt": "soltar-01-psicologo-el-prat-de-llobregat"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿En qué consiste el taller?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Taller \"Soltar Lo Viejo y Abrazar Lo Nuevo\""
+     },
+     {
+      "t": "text",
+      "html": "<p>El ser humano se liga más a \"lo malo que es conocido que a lo bueno por conocer\".</p>\n<p>¿Por qué? Porque somos seres multi-complejos, porque somos biología, recuerdos, miedos, resistencias, mecanismos de evitación y todo ello funcionando en automático.</p>\n<p><b>Para abrazar a lo nuevo, hay que estar dispuesto a aceptar lo que es incómodo</b>.</p>\n<p>Somos seres completos.</p>\n<p>No se puede jugar la partida de la vida poniendo condiciones como cuando éramos niños.</p>"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "Beneficios del taller"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Taller \"Soltar Lo Viejo y Abrazar Lo Nuevo\""
+       },
+       {
+        "t": "text",
+        "html": "<p>Ampliar y potenciar las capacidades personales para <b>atravesar nuestros miedos</b> y atrevernos a soltar lo que nos limita y adentrarnos en lugares \"desconocidos\" que nos abren <b>nuevas posibilidades de expansión personal.</b></p>"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/soltar-02-psicologo-el-prat-de-llobregat.jpg",
+      "alt": "soltar-02-psicologo-el-prat-de-llobregat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "A todas aquellas personas que deseen profundizar en su trabajo de crecimiento personal y que quieran experimentar la vida desde las aportaciones de la gestalt y la terapia corporal integrativa."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Consúltanos para saber las fechas, horarios y precios del próximo taller."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Impartido por"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Montse Molina Vilaneuva: Licenciada en Psicopedagogía. Master en psicología infantil y juvenil. Terapeuta Gestalt. Terapeuta Corporal Integrativa. Máster en conductas adictivas - Modelo Minessota. Formación permanente de la Generalitat de Catalunya en Educación Emocional, Pedagogía Sitèmica y Yoga para pequeños y grandes."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-pedir-cida/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

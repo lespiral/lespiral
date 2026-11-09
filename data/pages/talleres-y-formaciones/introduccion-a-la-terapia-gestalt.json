@@ -1,0 +1,275 @@
+{
+ "path": "talleres-y-formaciones/introduccion-a-la-terapia-gestalt",
+ "wp_id": 341,
+ "title": "Introducción a la Terapia Gestalt",
+ "published": "2023-05-23",
+ "modified": "2024-07-16",
+ "seo_title": "Introducción a la terapia Gestalt en l'Espiral.cat",
+ "description": "¿Quieres descubrir la terapia Gestalt? En l'Espiral te ofrecemos un taller de introducción a la terapia Gestalt. Consulta en nuestra web.",
+ "lang": "es",
+ "keyword": "introduccion terapia gestalt",
+ "h1_inventari": "INTRODUCCIÓN A LA TERAPIA GESTALT",
+ "og_title": "Introducción a la terapia Gestalt en l'Espiral.cat",
+ "og_image": "/wp-content/uploads/2023/05/introduccion-terapia-gestalt-2-psicologo-en-el-prat-1.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en el Prat"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "INTRODUCCIÓN A LA TERAPIA GESTALT"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/introduccion-terapia-gestalt-2-psicologo-en-el-prat-1.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Introducción a la Terapia Gestalt"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "En este taller te ofrecemos una aproximación a diferentes aspectos y principios de la Terapia Gestalt."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "A nivel general, los módulos serán de tipo experiencial, esto es, dinámicas y ejercicios prácticos vinculados a cada tema y también habrá un breve apoyo teórico cuando sea adecuado y según cual sea el tema a tratar."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/introduccion-terapia-gestalt-2-psicologo-en-el-prat-1.jpg",
+      "alt": "introduccion-terapia-gestalt-2-psicologo-en-el-prat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Mindfulness-3-psicologo-en-el-prat.jpg",
+      "alt": "Mindfulness-3-psicologo-en-el-prat"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿En qué consiste este taller?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat"
+     },
+     {
+      "t": "text",
+      "html": "<p>A lo largo de los módulos que integran el taller, llegarás a <b>conocer los beneficios que aporta la gestalt a través de diferentes dinámicas</b>, viviendo desde la propia experiencia algunos de los conceptos básicos de la Terapia Gestalt.</p>\n<p>Podrás, a través de dinámicas de relajación y visualización que se utilizarán a lo largo del taller, hacer <b>ejercicios de introspección</b> contigo mismo, <b>clarificar y actualizar tus valores y prioridades</b>.</p>\n<p>Y lo podrás hacer <b>en un espacio de respeto y confianza, dedicado a ti</b>, dándote la posibilidad de ser y poder ser con lo que haya, sin juicios ni pretensiones.</p>"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "¿A quién va dirigido?"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Psicólogos y Terapeutas Gestalt en El Prat"
+       },
+       {
+        "t": "text",
+        "html": "<p>A personas con <b>ganas de conocer la Terapia Gestalt</b> y sus principios básicos.</p>\n<p>A personas con ganas de conectar con ellas mismas, interesadas en <b>vivir en el presente</b>, en el aquí y ahora, a <b>tomar conciencia de su cuerpo</b>, de sus <b>emociones</b> y de sus <b>pensamientos</b> y con ganas de <b>aprender y disfrutar</b> de las técnicas de relajación que utilizaremos.</p>"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/ansiedad-2-psicologo-en-el-prat-1.jpg",
+      "alt": "ansiedad-2-psicologo-en-el-prat (1)"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Consúltanos para saber las fechas, horarios y precios del próximo taller."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Impartido por"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Imma Reig: Diplomada en Ciencias Empresariales por la Universidad Rovira i Virgili de Tarragona, titulada en EFA (European Financial Adviser), en Terapia Gestalt por el Instituto Gestalt de Barcelona y miembro de la Asociación Española de Terapia Gestalt."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-pedir-cida/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

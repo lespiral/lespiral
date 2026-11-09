@@ -1,0 +1,325 @@
+{
+ "path": "curso-mindfulness-la-presencia-encarnada",
+ "wp_id": 852,
+ "title": "Curso La presencia encarnada",
+ "published": "2023-05-25",
+ "modified": "2024-07-16",
+ "seo_title": "Curso \"La Presencia Encarnada\" - Curso en L'Espiral",
+ "description": "Toma consciencia de tu cuerpo con nuestro curso de Mindfulness LA PRESENCIA ENCARNADA. Aumenta tu seguridad, aceptación y autoconfianza.",
+ "lang": "es",
+ "keyword": "presencia encarnada",
+ "h1_inventari": "LA PRESENCIA ENCARNADA",
+ "og_title": "Curso \"La Presencia Encarnada\" - Curso en L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/curso-la-presencia-encarnada.jpeg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Curso en L'Espiral"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "LA PRESENCIA ENCARNADA"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/curso-la-presencia-encarnada.jpeg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "La presencia encarnada"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Cuando perdemos la presencia encarnada, perdemos el contacto con nuestro cuerpo, con nuestra mente sabia."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Las prácticas de Mindfulness que realizarás en este curso te ayudarán a tomar conciencia de tu cuerpo."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "El cuerpo será una guía para afrontar emociones difíciles, con el cuidado de una presencia atenta y amable."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Este curso es una oportunidad para hacernos un regalo: experimentar todo nuestro potencial de vitalidad, claridad y amor."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/curso-la-presencia-encarnada.jpeg",
+      "alt": "La presencia encarnada"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/curso-presencia-encarnada.jpg",
+      "alt": "curso-presencia-encarnada"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿En qué consiste el curso?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Curso la presencia encarnada"
+     },
+     {
+      "t": "text",
+      "html": "<p>En este curso aprenderás cómo es tu día a día cuando funcionas en piloto automático. Desconectado de la presencia de las señales que tu cuerpo te envía.</p>\n<p>Aprenderás como puedes <strong>recuperar una presencia más vital</strong>: para ti, para tus seres queridos, para la comunidad y el mundo que tanto lo necesita.</p>\n<p>Descubrirás como puedes utilizar tu mente pensadora como un “buen sirviente” para tu bienestar, en lugar de un juez crítico, exigente y saboteador.</p>\n<p>Se realizarán ejercicios vivenciales que te ayudarán a poner en práctica las ideas compartidas durante las clases.</p>\n<p>Estos ejercicios son esencialmente meditaciones guiadas que te ayudarán a integrar más plenamente las lecciones en tu vida real, encarnada y relacional.</p>"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "Beneficios del curso"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Curso la presencia encaranada"
+       },
+       {
+        "t": "text",
+        "html": "<ul>\n<li>Volverás a ser amigo de tu cuerpo.</li>\n<li>Estarás más presente con lo que te está pasando, tanto adentro tuyo como a tu alrededor.</li>\n<li>Identificarás y aprovecharás mejor tus recursos para hacer frente a emociones intensas.</li>\n<li>Mejorarás la sensación de pertenencia.</li>\n<li>Aumentarás tu seguridad, aceptación y autoconfianza.</li>\n<li>Te descubrirás a ti mismo a través del movimiento y la atención en el cuerpo.</li>\n<li>Mejorarás las capacidades de relación, expresión y creatividad.</li>\n</ul>"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/la-presencia-encarnada.jpg",
+      "alt": "la-presencia-encarnada"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Cualquier persona que quiera recuperar la vida que creía haber perdido. Cualquier persona que se sienta desconectada de la vida y del amor. Cualquier persona que quiera cultivar un coro más tierno y compasivo."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Índice del curso"
+     },
+     {
+      "t": "text",
+      "html": "<ul>\n<li>\n<p>Módulo 1. Introducción</p>\n<ol>\n<li>La conciencia encarnada.</li>\n</ol>\n<p>Módulo 2. El trance. La vida no vivida.</p>\n<ol>\n<li>Nuestros momentos más preciosos están encarnados</li>\n<li>Estar en la naturaleza</li>\n<li>La vida no vivida: ¿qué es realmente?</li>\n<li>Reconocimiento de las señales del trance: exceso de velocidad, juzgar…</li>\n<li>El trance se origina y vuelve a aparecer en las relaciones</li>\n<li>Nuestros sentidos cinestésicos</li>\n</ol>\n</p>\n<p>Módulo 3. Entrar al desierto.</p>\n<ol>\n<li>Signos y síntomas de la vida no vivida</li>\n<li>La práctica liberadora</li>\n<li>La experiencia de una persona</li>\n<li>Practicar el cuerpo</li>\n</ol>\n</p>\n<p>Módulo 4. Hacer frente en los programas que nos limitan</p>\n<ol>\n<li>El cuerpo es la “puerta de entrada” a la realidad</li>\n<li>Nuestra programación neurológica y cultural</li>\n<li>Los altos costes de la desconexión</li>\n<li>Reencarnándose</li>\n<li>Profundizar la presencia encarnada</li>\n</ol>\n</p>\n<p>Módulo 5. El camino de volver a casa</p>\n<ol>\n<li>El cuerpo presentará su proyecto</li>\n<li>Conseguir recursos cuando el miedo es intenso</li>\n<li>Primer fruto de la reencarnación: vivir más plenamente</li>\n<li>Segundo fruto: Abriéndonos en nuestro corazón bondadoso</li>\n<li>Tercer fruto: Realización de la libertad</li>\n<li>Probar los frutos de la presencia encarnada</li>\n</ol>\n</li>\n</ul>"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿Cómo funciona?"
+     },
+     {
+      "t": "text",
+      "html": "<p>Para cada sección del módulo recibirás un audio con una explicación teórica del contenido (22 en total).</p>\n<p>También <strong>incluirá una práctica de Mindfulness para cada sección</strong> de los módulos (22 en total).</p>\n<p>Asimismo recibirás una hoja de trabajo para que puedas reflexionar sobre el que has escuchado y observado durante cada una de las 23 prácticas de Mindfulness (22 en total)</p>\n<p>Y finalmente una<strong> sesión individual o en grupo para cada módulo</strong>. (5 sesiones en total)</p>"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Precios, Duración, Horarios…"
+     },
+     {
+      "t": "text",
+      "html": "<p>Este curso tiene una longitud de <strong>5 módulos</strong>.  Se pueden realizar semanalmente o quincenalmente.</p>\n<p>Tendrá una duración de 10 semanas si se hace un módulo cada 2 semanas o de 5 semanas si se hace un módulo por semana.</p>\n<p>Se puede hacer individualmente o en grupo.</p>\n<ul>\n<li><strong>En grupo</strong>: Son sesiones semanales, de 2,5 horas de duración, con un grupo de máximo 12 personas.</li>\n</ul>\n<ul>\n<li><strong>Individualmente:</strong> Son sesiones semanales o quincenales, de 1,5 horas de duración.</li>\n</ul>\n<h3>Horarios</h3>\n<ul>\n<li>En grupo: Son 5 sesiones semanales, de 2,5 horas de duración cada sesión.</li>\n</ul>\n<p>Consúltanos para saber el próximo curso.</p>\n<ul>\n<li>Individualmente: Son sesiones semanales o quincenales, de 1,5 horas de duración. <strong>Los días y las horas se acuerdan con el profesor antes de empezar el curso</strong>.</li>\n</ul>"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Curso impartido por"
+     },
+     {
+      "t": "text",
+      "html": "<p><b>Aleix Boronat Monfort</b> Director y cofundador de l’Espiral. <a href=\"/\">Terapeuta Gestalt</a>, Mentor en Mindfulness y Miembro adherente de la AETG. Formación en Psicoterapia Integrativa (programa SAT). Formado en técnicas psicocorporales (Shiatsu y Movimiento, Seitai, Yoga, Bioenergetica).</p>"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-pedir-cida/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

@@ -1,0 +1,537 @@
+{
+ "path": "talleres-y-formaciones",
+ "wp_id": 18,
+ "title": "Talleres y formaciones",
+ "published": "2023-05-21",
+ "modified": "2024-07-16",
+ "seo_title": "Talleres y Formaciones psicología",
+ "description": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat",
+ "lang": "es",
+ "keyword": "talleres",
+ "h1_inventari": "TALLERES Y FORMACIONES",
+ "og_title": "Talleres y Formaciones psicología",
+ "og_image": "/wp-content/uploads/2023/08/Mindfulness-psicologo-en-el-prat-2-2.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en el Prat"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "TALLERES Y FORMACIONES"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/psicoterapia-psicologo-en-el-prat.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/08/Mindfulness-psicologo-en-el-prat-2-2.jpg",
+      "alt": "Mindfulness psicologo",
+      "href": "/sesiones-grupo-yoga-el-prat-llobregat/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Mindfulness, Yoga & Psique",
+      "href": "/sesiones-grupo-yoga-el-prat-llobregat/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Nuestras sesiones en grupo de Yoga, mindfulness y crecimiento personal te ayudarán a controlar el estrés y la ansiedad, a concentrarte y relajarte y también a desarrollar la empatía.",
+      "href": "/sesiones-grupo-yoga-el-prat-llobregat/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/sesiones-grupo-yoga-el-prat-llobregat/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/11/la-presencia-encarnada.jpg",
+      "alt": "la-presencia-encarnada",
+      "href": "/curso-mindfulness-la-presencia-encarnada/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "La presencia encarnada",
+      "href": "/curso-mindfulness-la-presencia-encarnada/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Cuando perdemos la presencia encarnada, perdemos el contacto con nuestro cuerpo, con nuestra mente sabia.Las prácticas de Mindfulness que realizarás en este curso te ayudarán a tomar conciencia de tu cuerpo.",
+      "href": "/curso-mindfulness-la-presencia-encarnada/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/curso-mindfulness-la-presencia-encarnada/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/11/Grupo-regular-de-mindfulness.jpg",
+      "alt": "Grupo-regular-de-mindfulness",
+      "href": "/talleres-y-formaciones/grupo-regular-de-mindfulness/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Grupo regular de Mindfulness",
+      "href": "/talleres-y-formaciones/grupo-regular-de-mindfulness/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La meditación se puede ver desde diferentes ángulos. Algunos lo abordarán como una práctica milenaria que permite dominar la mente y al mismo tiempo lograr un estado de conciencia plena. Para otros, será vista como una técnica que reduce el estrés y aumenta el bienestar general.",
+      "href": "/talleres-y-formaciones/grupo-regular-de-mindfulness/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/talleres-y-formaciones/grupo-regular-de-mindfulness/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/11/gestion-de-la-ansiedad.jpg",
+      "alt": "gestion-de-la-ansiedad",
+      "href": "/ansiedad/gestion-de-la-ansiedad-3/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Gestión de la Ansiedad",
+      "href": "/ansiedad/gestion-de-la-ansiedad-3/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Un taller dónde aprender a identificar claramente que nos pasa cuando nos ponemos ansiosos. 10 sesiones para poder encontrar alternativas más saludables en nuestro día a día.",
+      "href": "/ansiedad/gestion-de-la-ansiedad-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/ansiedad/gestion-de-la-ansiedad-3/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/11/soltar-lo-viejo-y-abrazar-lo-nuevo.jpg",
+      "alt": "soltar-lo-viejo-y-abrazar-lo-nuevo",
+      "href": "/taller-soltar-viejo-abrazar-nuevo/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Soltar lo viejo y abrazar lo nuevo",
+      "href": "/taller-soltar-viejo-abrazar-nuevo/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "«Soltar lo viejo y abrazar lo nuevo» es un taller práctico y experiencial que utiliza las técnicas terapéuticas gestálticas y corporales integrativas para hacer un trabajo de autoconocimiento en interacción grupal.",
+      "href": "/taller-soltar-viejo-abrazar-nuevo/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/taller-soltar-viejo-abrazar-nuevo/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/11/gestion-de-la-ansiedad.jpg",
+      "alt": "gestion-de-la-ansiedad",
+      "href": "/ansiedad-recursos-corporales/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Recursos Corporales para la Ansiedad",
+      "href": "/ansiedad-recursos-corporales/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Un taller 8 horas donde aprenderemos a manejar la ansiedad a través de prácticas como el Yoga, el Katsugen, o el Movimiento Espontáneo, así como de los últimos descubrimientos en la gestión de las emociones: los ‘Patrones Respiratorios Emocionales‘",
+      "href": "/ansiedad-recursos-corporales/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/ansiedad-recursos-corporales/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/11/Los-4-elementos-cuerpo-y-conciencia.jpg",
+      "alt": "Los-4-elementos-cuerpo-y-conciencia",
+      "href": "/taller-4-elementos-gestalt-kundalini-yoga/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Los 4 elementos: cuerpo y conciencia",
+      "href": "/taller-4-elementos-gestalt-kundalini-yoga/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La toma de contacto con el cuerpo, con los sentidos, las sensaciones, … la toma de conciencia de las emociones que nos invaden en cada momento, los estados de ánimo, me permiten entablar un diálogo permanente conmigo mismo, me permiten escucharme y aprender a reconocer y a respetar mis deseos y necesidades.",
+      "href": "/taller-4-elementos-gestalt-kundalini-yoga/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/taller-4-elementos-gestalt-kundalini-yoga/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/11/introduccion-a-la-terapia-gestalt.jpg",
+      "alt": "introduccion-a-la-terapia-gestalt",
+      "href": "/talleres-y-formaciones/introduccion-a-la-terapia-gestalt/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Introducción a la Terapia Gestalt",
+      "href": "/talleres-y-formaciones/introduccion-a-la-terapia-gestalt/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "En este taller te ofrecemos una aproximación a diferentes aspectos y principios de la Terapia Gestalt. A nivel general, los módulos serán de tipo experiencial, esto es, dinámicas y ejercicios prácticos vinculados a cada tema y también habrá un breve apoyo teórico cuando sea adecuado y según cual sea el tema a tratar.",
+      "href": "/talleres-y-formaciones/introduccion-a-la-terapia-gestalt/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/talleres-y-formaciones/introduccion-a-la-terapia-gestalt/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/11/librarse-de-pensamiento-negativos.jpg",
+      "alt": "librarse-de-pensamiento-negativos",
+      "href": "/curso-librarse-malos-pensamientos/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Librarse de creencias y patrones de pensamiento negativos",
+      "href": "/curso-librarse-malos-pensamientos/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Este curso muestra cómo puedes observar y darte cuenta de cuáles son estas creencias limitantes y permite saborear la libertad que es posible cuando sueltas estas creencias. Tus creencias te desconectan de tu propio ser y del mundo. El sufrimiento que sientes es una llamada de atención. Una llamada a investigar.",
+      "href": "/curso-librarse-malos-pensamientos/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/curso-librarse-malos-pensamientos/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/11/entre-la-esencia-y-la-turbulencia.jpg",
+      "alt": "entre-la-esencia-y-la-turbulencia",
+      "href": "/taller-entre-esencia-turbulencia/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Entre la esencia y la turbulencia",
+      "href": "/taller-entre-esencia-turbulencia/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Mediante herramientas de la terapia Gestalt nos adentramos en un taller orientado a potenciar la propia esencia, el autoconocimiento y el cambio personal.",
+      "href": "/taller-entre-esencia-turbulencia/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/taller-entre-esencia-turbulencia/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/11/Grupo-regular-de-mindfulness.jpg",
+      "alt": "Grupo-regular-de-mindfulness",
+      "href": "/talleres-y-formaciones/la-tribu-que-sana/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "La Tribu que Sana",
+      "href": "/talleres-y-formaciones/la-tribu-que-sana/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "El grupo, la tribu, se constituye como un espacio terapéutico que enriquece el propio proceso de crecimiento personal y sanación. El trabajo realizado por los demás participantes, ayuda a actualizar temas o problemas propios que no habíamos atendido, pero que se activan ante la presencia del grupo.",
+      "href": "/talleres-y-formaciones/la-tribu-que-sana/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/talleres-y-formaciones/la-tribu-que-sana/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/11/trabajo-psicoterapeutico-con-suenos.jpg",
+      "alt": "trabajo-psicoterapeutico-con-suenos",
+      "href": "/talleres-y-formaciones/trabajo-psicoterapeutico-con-suenos/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Trabajo Psicoterapéutico con Sueños",
+      "href": "/talleres-y-formaciones/trabajo-psicoterapeutico-con-suenos/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "El trabajo psicoterapéutico experiencial con sueños es una poderosa herramienta para el autoconocimiento que permite el acceso a pistas sobre cómo abordar cuestiones experienciales de la vida cotidiana.",
+      "href": "/talleres-y-formaciones/trabajo-psicoterapeutico-con-suenos/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/talleres-y-formaciones/trabajo-psicoterapeutico-con-suenos/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/11/sesiones-de-autoestima-compasion-y-empatia.jpg",
+      "alt": "sesiones-de-autoestima-compasion-y-empatia",
+      "href": "/talleres-y-formaciones/trabajo-psicoterapeutico-con-suenos/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Sesiones de autoestima, compasión y empatía.",
+      "href": "/talleres-y-formaciones/trabajo-psicoterapeutico-con-suenos/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La autocompasión es el comienzo de toda sanación emocional, mental y espiritual. Poder sentir compasión hacia todas y cada una de nuestras experiencias internas hace que aumente nuestra autoestima y la empatía hacia los demás.",
+      "href": "/talleres-y-formaciones/trabajo-psicoterapeutico-con-suenos/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/talleres-y-formaciones/trabajo-psicoterapeutico-con-suenos/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/11/como-me-olvido-de-mi.jpg",
+      "alt": "como-me-olvido-de-mi",
+      "href": "/como-me-olvido-de-mi/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿Cómo me olvido de mí?",
+      "href": "/como-me-olvido-de-mi/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Taller práctico y experiencial que utiliza las técnicas terapéuticas gestálticas y corporales integrativas para hacer un trabajo de autoconocimiento en interacción grupal.",
+      "href": "/como-me-olvido-de-mi/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/como-me-olvido-de-mi/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/11/comunicacion-conmigo-y-con-los-demas.jpg",
+      "alt": "comunicacion-conmigo-y-con-los-demas",
+      "href": "/comunicacion-conmigo-y-con-los-demas/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Comunicación conmigo y con los demás",
+      "href": "/comunicacion-conmigo-y-con-los-demas/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "El objetivo de este taller es reconocer las fantasías sobre mí que he creado y me he creído, así como los conflictos internos que crean una barrera con el mundo y condicionan la forma en que me comunico y relaciono con los demás.",
+      "href": "/comunicacion-conmigo-y-con-los-demas/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/comunicacion-conmigo-y-con-los-demas/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

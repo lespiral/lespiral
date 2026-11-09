@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% from "parts.html" import post_card, image with context %}
+{% block content %}
+{# Un article (entrada del WordPress) de data/articles/: títol (h1), imatge destacada, text i navegació #}
+{% set ca = article.lang == 'ca' %}
+{% if article.image %}{% set bgi = img_info(article.image) %}{% endif %}
+<article class="article">
+  <header class="pagehead pagehead--article{% if bgi %} pagehead--photo{% endif %}"{% if bgi %} style="background-image:url('{{ bgi.src }}')"{% endif %}>
+    <div class="wrap pagehead__in reveal">
+      <p class="pagehead__kicker"><a href="{{ '/category/articulos/'|u }}">{{ 'Articles' if ca else 'Artículos' }}</a> · <time datetime="{{ article.published }}">{{ article.date_text }}</time></p>
+      <h1 class="b-h b-h1">{{ article.title }}</h1>
+    </div>
+  </header>
+  <div class="band band--white">
+    <div class="wrap wrap--narrow">
+      <div class="entry">{{ article.html|fix|with_reviews }}</div>
+      {% if article.tags %}<p class="entry__tags">{% for t in article.tags %}{% if site.archives.tags[t] %}<a class="tag" href="{{ ('/tag/' ~ t ~ '/')|u }}">{{ site.archives.tags[t] }}</a>{% endif %}{% endfor %}</p>{% endif %}
+      <nav class="postnav" aria-label="{{ 'Altres articles' if ca else 'Otros artículos' }}">
+        {% if older %}<a class="postnav__prev" href="{{ older.url|u }}"><span>« {{ 'Anterior' }}</span>{{ older.title }}</a>{% else %}<span></span>{% endif %}
+        {% if newer %}<a class="postnav__next" href="{{ newer.url|u }}"><span>{{ 'Següent' if ca else 'Siguiente' }} »</span>{{ newer.title }}</a>{% endif %}
+      </nav>
+    </div>
+  </div>
+</article>
+{% set recent = articles|rejectattr('path', 'equalto', article.path)|list %}
+<section class="band band--soft" aria-labelledby="h-recents">
+  <div class="wrap">
+    <div class="band__head"><p class="band__title" id="h-recents">{{ 'Articles recents' if ca else 'Artículos recientes' }}</p></div>
+    <ul class="posts">{% for a in recent[:3] %}{{ post_card(a) }}{% endfor %}</ul>
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,32 @@
+{
+ "path": "articulos",
+ "wp_id": 20,
+ "title": "Artículos",
+ "published": "2023-05-21",
+ "modified": "2023-08-02",
+ "seo_title": "Artículos - Blog de l'Espiral.cat",
+ "description": "Artículos sobre psicología, mindfulness y mucho más en el blog de l'Espiral.cat",
+ "lang": "es",
+ "keyword": "Artículos - Blog de l'Espiral",
+ "h1_inventari": "Artículos",
+ "og_title": "Artículos - Blog de l'Espiral.cat",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "L´espiral"
+     },
+     {
+      "t": "articles",
+      "n": 9,
+      "paginated": true,
+      "excerpt": 13
+     }
+    ]
+   ]
+  }
+ ]
+}

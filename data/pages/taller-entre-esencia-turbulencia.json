@@ -1,0 +1,287 @@
+{
+ "path": "taller-entre-esencia-turbulencia",
+ "wp_id": 914,
+ "title": "Taller \"Entre la esencia y la turbulencia\"",
+ "published": "2023-05-25",
+ "modified": "2023-08-01",
+ "seo_title": "Taller \"Entre la esencia y la turbulencia\" - L'Espiral",
+ "description": "Entre la esencia y la turbulencia es un taller para desarrollar la autoestima, el autoconocimiento y tu propia esencia. Crecimiento personal en El Prat de Llobregat.",
+ "lang": "es",
+ "keyword": "esencia",
+ "h1_inventari": "Entre la esencia y la turbulencia",
+ "og_title": "Taller \"Entre la esencia y la turbulencia\" - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/Terapia-de-Parella-El-Melic-El-Prat-de-Llobregat.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en el Prat"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "Entre la esencia y la turbulencia"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/Terapia-de-Parella-El-Melic-El-Prat-de-Llobregat.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Entre la esencia y la turbulencia"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Mediante herramientas de la terapia Gestalt nos adentramos en un taller orientado a potenciar la propia esencia, el autoconocimiento y el cambio personal."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Terapia-de-Parella-El-Melic-El-Prat-de-Llobregat.jpg",
+      "alt": "Terapia-de-Parella-El-Melic-El-Prat-de-Llobregat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/introduccion-terapia-gestalt-2-psicologo-en-el-prat-1-1.jpg",
+      "alt": "introduccion-terapia-gestalt-2-psicologo-en-el-prat-1"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿En qué consiste el taller?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Entre la esencia y la turbulencia​"
+     },
+     {
+      "t": "text",
+      "html": "<p>Las bases de la Gestalt son el aquí y el ahora, lo obvio y la toma de conciencia, <b>darse cuenta de lo que hacemos realmente en nuestras vidas, como lo hacemos y qué es lo que queremos o necesitamos y cómo podemos conseguirlo</b>.</p>\n<p>Asimismo nos introduciremos de forma práctica y participativa en un proceso de Coaching para identificar nuestras motivaciones y mejorar nuestra situación personal.</p>\n<p>Aprovechando la energía y la sinergia que se crea en un grupo de trabajo que comparta conocimientos y experiencias que nos hagan crecer.</p>"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "Beneficios del taller"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Entre la esencia y la turbulencia​"
+       },
+       {
+        "t": "text",
+        "html": "<p>Mejora de la <b>autoestima y aceptación personal</b>, pasando por un proceso de autoconocimiento adquiriendo herramientas y recursos personales para desarrollar las propias habilidades, talentos y capacidades para ponerlos en práctica de una manera más consciente.</p>\n<p>Búsqueda de la propia motivación, <b>fuerza, seguridad y confianza para encarar un proceso de cambio</b> partir de la elaboración de objetivos tanto personales como profesionales que propicien este cambio.<br />Rotura de posibles bloqueos que impiden el propio desarrollo vital para encontrar caminos alternativos que aporten más luz y bienestar; <b>adaptación con éxito a la situación de incertidumbre propia de la sociedad y el mundo laboral actuales</b>.</p>"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/soltar-03-psicologo-el-prat-de-llobregat.jpg",
+      "alt": "soltar-03-psicologo-el-prat-de-llobregat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "El taller \"Entre la esencia y la turbulencia\" va dirigido a personas interesadas en el crecimiento personal que quieran aprender a afrontar procesos de autoconocimiento, mejorar su autoestima y gestionar su propio cambio."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Personas en situación de bloqueo o en un momento de desorientación personal o profesional o en un proceso de cambio o impasse."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Consúltanos para saber las fechas, horarios y precios del próximo taller."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Taller impartido por"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Anna Ortiz Termes: Psicóloga. Terapeuta Gestalt. Formadora en diversos talleres en relación con las competencias personales y la gestión emocional. Acompañante y tallerista en adicción a las pantallas en adolescentes y sus familias. Formada en Practitioner P.N.L y Coaching para terapeutas Gestalt. Profesora de Kundalini Yoga."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-pedir-cida/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

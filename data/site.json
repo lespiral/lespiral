@@ -1,0 +1,143 @@
+{
+  "name": "L'Espiral",
+  "tagline": "Psicólogos y terapeutas · El Prat de Llobregat",
+  "site_url": "https://lespiral.cat/",
+  "publish": {"url": "https://lespiral.github.io/lespiral/", "index": false},
+  "lang": "es",
+  "locale": "es_ES",
+  "verification": {"google": "[PENDENT]"},
+  "cta": {"text": "Pide una cita", "href": "/contacto-3/"},
+  "nav": [
+    {"title": "Inicio", "href": "/"},
+    {"title": "El Equipo de Profesionales", "href": "/el-equipo-de-profesionales/"},
+    {"title": "Psicoterapias", "href": "/psicoterapias/", "children": [
+      {"title": "Psicoterapias", "href": "/psicoterapias/"},
+      {"title": "Psicoterapia Adultos – Terapia para Adultos El Prat", "href": "/psicoterapias/psicoterapia-adultos/"},
+      {"title": "Terapia de Pareja El Prat de Llobregat", "href": "/psicoterapias/terapia-de-pareja-prat-llobregat/"},
+      {"title": "Psicólogo Infantil El Prat de Llobregat", "href": "/psicoterapias/psicoterapia-infanti/"},
+      {"title": "Asesoría en Crianza de 0 a 6 años", "href": "/psicoterapias/asesoria-crianza/"},
+      {"title": "Psicólogo Adolescentes en El Prat de Llobregat", "href": "/psicoterapias/psicoterapia-adolescentes/"},
+      {"title": "Psicoterapia Online", "href": "/psicoterapias/psicologo-online-psicoterapia/"},
+      {"title": "Psicoterapia Perinatal", "href": "/psicoterapias/psicoterapia-perinatal/"},
+      {"title": "Psicoterapeutas especialistas en Mindfulness El Prat", "href": "/psicoterapias/mindfulness-terapeutico/"}
+    ]},
+    {"title": "Talleres y formaciones", "href": "/talleres-y-formaciones/", "children": [
+      {"title": "Talleres y formaciones", "href": "/talleres-y-formaciones/"},
+      {"title": "Miedo, ansiedad y Mindfulness", "href": "/talleres-y-formaciones/taller-miedo-ansiedad-mindfulness/"},
+      {"title": "Sesiones en grupo de Yoga, Mindfulness, y Crecimento Personal", "href": "/sesiones-grupo-yoga-el-prat-llobregat/"},
+      {"title": "Curso «La Presencia Encarnada» – Curso en L´Espiral", "href": "/curso-mindfulness-la-presencia-encarnada/"},
+      {"title": "Grupo regular de Mindfulness", "href": "/talleres-y-formaciones/grupo-regular-de-mindfulness/"},
+      {"title": "Gestión de la Ansiedad", "href": "/ansiedad/gestion-de-la-ansiedad-3/"},
+      {"title": "Taller Soltar lo viejo y abrazar lo nuevo", "href": "/taller-soltar-viejo-abrazar-nuevo/"},
+      {"title": "Ansiedad, recursos corporales", "href": "/ansiedad-recursos-corporales/"},
+      {"title": "Taller «Los 4 Elementos: Cuerpo y Conciencia»", "href": "/taller-4-elementos-gestalt-kundalini-yoga/"},
+      {"title": "Introducción a la Terapia Gestalt", "href": "/talleres-y-formaciones/introduccion-a-la-terapia-gestalt/"},
+      {"title": "Curso Librarse de Pensamientos Negativos", "href": "/curso-librarse-malos-pensamientos/"},
+      {"title": "Taller «Entre la esencia y la turbulencia»", "href": "/taller-entre-esencia-turbulencia/"},
+      {"title": "La Tribu que Sana", "href": "/talleres-y-formaciones/la-tribu-que-sana/"},
+      {"title": "Trabajo psicoterapéutico con sueños", "href": "/talleres-y-formaciones/trabajo-psicoterapeutico-con-suenos/"},
+      {"title": "Sesiones de autoestima, compasión y empatía", "href": "/sesiones-autoestima-compasion-empatia/"},
+      {"title": "Cómo me olvido de mí", "href": "/como-me-olvido-de-mi/"},
+      {"title": "Comunicación conmigo y con los demás", "href": "/comunicacion-conmigo-y-con-los-demas/"}
+    ]},
+    {"title": "Artículos", "href": "/articulos/"},
+    {"title": "Contacto", "href": "/contacto-3/"}
+  ],
+  "contact": {
+    "name": "L'Espiral",
+    "address": "Carrer de Jaume Casanovas, 177, local 2",
+    "postal_code": "08820",
+    "city": "El Prat de Llobregat",
+    "region": "Barcelona",
+    "country": "ES",
+    "phone": "626 62 71 24",
+    "phone_tel": "+34626627124",
+    "whatsapp": "https://wa.me/34626627124",
+    "email": "lespiral@lespiral.cat",
+    "hours": [["Lunes a viernes", "8:00–21:00"], ["Sábado", "10:00–14:00"]]
+  },
+  "geo": {
+    "lat": "41.3218699",
+    "lng": "2.0949635",
+    "region": "ES-CT",
+    "placename": "el Prat de Llobregat",
+    "google_name": "L'Espiral. Psicòlegs i Terapeutes Gestalt al Prat de Llobregat",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Espiral.%20Psic%C3%B2legs%20i%20Terapeutes%20Gestalt%20al%20Prat%20de%20Llobregat%2C%20Carrer%20de%20Jaume%20Casanovas%2C%20177"
+  },
+  "organization": {
+    "name": "L'Espiral",
+    "telephone": "+34 626 627 124",
+    "email": "lespiral@lespiral.cat",
+    "logo": "wp-content/uploads/2023/05/Lespiral-terapia-gestalt-favicon.jpg",
+    "same_as": []
+  },
+  "author": {"name": "Aleix Boronat", "id": "aleix-boronat"},
+  "reviews": {
+    "button": "Lee nuestras opiniones en Google",
+    "label": "Opinión de Google",
+    "items": []
+  },
+  "footer": {
+    "text": "Psicólogos, terapeutas y mentores en Mindfulness en El Prat de Llobregat.",
+    "links": [
+      {"title": "Inicio", "href": "/"},
+      {"title": "El Equipo de Profesionales", "href": "/el-equipo-de-profesionales/"},
+      {"title": "Psicoterapias", "href": "/psicoterapias/"},
+      {"title": "Talleres y formaciones", "href": "/talleres-y-formaciones/"},
+      {"title": "Artículos", "href": "/articulos/"},
+      {"title": "Contacto", "href": "/contacto-3/"}
+    ],
+    "projects": [
+      {"title": "L'Espiral d'Osona", "href": "https://espiralosona.com/"},
+      {"title": "Elara Social", "href": "https://elarasocial.com/"},
+      {"title": "Mindfulness Sensible al Trauma", "href": "https://mindfulnesssensiblealtrauma.com/"}
+    ],
+    "legal": [
+      {"title": "Aviso Legal", "href": "/aviso-legal/"},
+      {"title": "Política de Privacidad", "href": "/politica-de-privacidad/"},
+      {"title": "Política de Cookies", "href": "/politica-de-cookies/"},
+      {"title": "Declaración de Accesibilidad", "href": "/declaracion-de-accesibilidad/"}
+    ],
+    "kit_digital": [
+      {"src": "2023/05/ES-Financiado-por-la-Union-Europea_POS.png", "alt": "Financiado por la Unión Europea – NextGenerationEU"},
+      {"src": "2023/05/plan.png", "alt": "Plan de Recuperación, Transformación y Resiliencia"}
+    ],
+    "copyright": "© L'Espiral · lespiral.cat"
+  },
+  "archives": {
+    "category": {"slug": "articulos", "name": "Artículos", "per_page": 10},
+    "tags": {"gestaltmindfulness": "Gestalt y Mindfulness"},
+    "tag_descriptions": {"gestaltmindfulness": "Aquí descubrirás una colección de artículos que exploran los beneficios que la Psicoterapia Humanista de la Gestalt y el Mindfulness pueden aportar a tu día a día.\n\nCada artículo incluye, al final, <strong>una hoja de trabajo</strong> (en formato PDF y descargable) diseñada para invitarte a una reflexión profunda sobre lo que has aprendido al leer, <a href=\"https://open.spotify.com/show/5ZsfNcg7liVS4wL11vsAWn?si=3ad2753afc434155\">escuchar el relato</a> y visualizar <a href=\"https://www.youtube.com/@atencioplena\">el video</a>.\n\nTe animamos a concederte un momento de pausa y reflexión que te ayude a integrar, paso a paso, estos valiosos aprendizajes.\n\n¡Muchas gracias por confiar en nosotros!"}
+  },
+  "redirects": {
+    "psicoterapias/terapia-de-pareja-3": "/psicoterapias/terapia-de-pareja-prat-llobregat/",
+    "category/otros": "/category/articulos/",
+    "otros/consigue-sosten-emocional-y-autoestima-gracias-a-la-terapia": "/soten-emocional-interno/",
+    "psicoterapias/psicologos-gestalt-prat-llobregat": "/psicoterapias/psicoterapia-adultos/",
+    "otros/has-sido-abusado": "/como-saber-si-has-sido-abusado/",
+    "soltar-lo-viejo-y-abrazar-lo-nuevo": "/taller-soltar-viejo-abrazar-nuevo/",
+    "mascaras-que-nos-ponemos-para-salir-al-mundo": "/taller-mascaras-que-nos-ponemos/",
+    "elementor-4733": "/taller-entre-esencia-turbulencia/",
+    "taller-los-4-elementos": "/taller-4-elementos-gestalt-kundalini-yoga/",
+    "psicoterapias/psicoterapia-adultos-2": "/psicoterapias/psicologo-online-psicoterapia/",
+    "que-actitud-debe-tener-un-psicologo-o-terapeuta-gestalt-ante-alguien-con-ansiedad": "/gestalt-combatir-ansiedad/",
+    "taller-4-elementos-gestalt-kundalini-yoga-2": "/sesiones-grupo-yoga-el-prat-llobregat/",
+    "las-creencias-pueden-llegar-a-controlar-tu-vida-y-hacerte-sentir-muy-solo-en-este-mundo": "/eliminar-creencias-pensamientos-no-saludables/",
+    "curso-mindfulness-la-presencia-encarnad": "/curso-mindfulness-la-presencia-encarnada/",
+    "es/ansiedad-2": "/servicios-mindfulness-el-prat/",
+    "preguntas-para-soltar-lastre-como-dejar-atras-las-creencias-que-nos-limitan": "/soltar-lastre/",
+    "category/uncategorized-es": "/category/articulos/",
+    "explorar-la-verguenza-psicoterapia": "/perder-la-verguenza-psicoterapia/",
+    "ca/elementor-5130": "/atencio-plena/",
+    "psicoterapias/psicoterapia-perinatal-2": "/psicoterapias/asesoria-crianza/",
+    "home-2": "/40-dies-de-mindfulness-atencio-plena/",
+    "elementor-5400": "/40-dies-de-mindfulness-atencio-plena/",
+    "atencion-plena-del-cuerpo": "/atencion-plena-del-cuerpo-apuntes-de-mindfulness-y-gestalt-9/",
+    "atencion-plena-del-cuerpo-apuntes-de-mindfulness-gestalt-9": "/atencion-plena-del-cuerpo-apuntes-de-mindfulness-y-gestalt-9/",
+    "atencion-plena-del-cupo-apuntes-de-mindfulness-y-gestalt-9": "/atencion-plena-del-cuerpo-apuntes-de-mindfulness-y-gestalt-9/",
+    "contar-la-respiracion-apuntes-mindfulness-y-gestalt-7": "/contar-la-respiracion-apuntes-de-mindfulness-y-gestalt-7/",
+    "curar-el-trauma-como-el-almacena-nuestras-experiencias-y-como-sanar-a-traves-de-la-compasion": "/curar-el-trauma-como-el-cuerpo-almacena-nuestras-experiencias-y-como-sanar-a-traves-de-la-compasion/",
+    "que-relacion-hay-entre-la-ansiedad-y-la-exitacion-emocional": "/que-relacion-hay-entre-la-ansiedad-y-la-excitacion-emocional/",
+    "una-actitud-amable-apuntes-mindfulness-gestalt-4": "/una-actitud-amable-apuntes-de-mindfulness-y-gestalt-4/"
+  }
+}

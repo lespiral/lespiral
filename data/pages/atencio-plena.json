@@ -1,0 +1,166 @@
+{
+ "path": "atencio-plena",
+ "wp_id": 1661,
+ "title": "Atenció Plena",
+ "published": "2023-06-08",
+ "modified": "2024-07-16",
+ "seo_title": "Atenció Plena - L'Espiral",
+ "description": "Mindfulness",
+ "lang": "es",
+ "h1_inventari": "ATENCIÓ PLENA",
+ "og_title": "Atenció Plena - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/06/serveis-atencio-plena-1.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Mindfulness"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "ATENCIÓ PLENA"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "DEMANAR UNA CITA",
+      "href": "/contacto-3/"
+     }
+    ]
+   ],
+   "bg": "2023/06/mindfulness-el-prat-llobregat.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "text",
+      "html": "<p>Hem creat un espai físic i virtual on podràs trobar tot allò relacionat amb les tècniques de l'<strong>Atenció Plena</strong> [Mindfulness].</p>\n<p>T'oferim<strong> recursos psicològics, físics i emocionals</strong> amb els quals podràs viure una vida més <strong>sana i equilibrada</strong>.</p>"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/06/serveis-atencio-plena-1.jpg",
+      "alt": "serveis-atencio-plena-1"
+     },
+     {
+      "t": "text",
+      "html": "<h3>Mindfulness, Ioga &amp; Psique</h3>\n<p>Sessions en grup, presencials i en línia, on mitjançant una Atenció Plena al Cos, a la respiració, a les postures i moviments que realitzem durant la pràctica del Ioga i el Moviment Autèntic, anirem descobrint i actualitzant la nostra psique, les nostres capacitats d'estar en el món.</p></p>"
+     },
+     {
+      "t": "btn",
+      "text": "MÉS INFORMACIÓ",
+      "href": "https://t.me/lespiral_cat"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/06/serveis-atencio-plena-2.jpg",
+      "alt": "serveis-atencio-plena-2"
+     },
+     {
+      "t": "text",
+      "html": "<h3>Grup regular de Mindfulness</h3>\n<p>Un grup presencial i/o en línia per a aquelles persones que volen començar en la pràctica del Mindfulness, així com per a aquelles persones que ja el practiquen habitualment.</p></p>"
+     },
+     {
+      "t": "btn",
+      "text": "MÉS INFORMACIÓ",
+      "href": "https://t.me/lespiral_cat"
+     }
+    ]
+   ],
+   "head": [
+    {
+     "t": "h",
+     "tag": "h2",
+     "html": "ELS NOSTRES SERVEIS D'ATENCIÓ PLENA"
+    }
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/06/serveis-atencio-plena-3.jpg",
+      "alt": "serveis-atencio-plena-3"
+     },
+     {
+      "t": "text",
+      "html": "<h3>Artículos de psicología</h3>\n<p>Cada semana subimos artículos que te permitirán conocer con mayor profundidad la psicoterapia humanista que practicamos en l'Espiral.</p>\n<p>Un adentrarse en los entresijos de un proceso psicoterapéutico, así como profundizar en temas claves de la salud psico-emocional.</p>"
+     },
+     {
+      "t": "btn",
+      "text": "MÉS INFORMACIÓ",
+      "href": "https://docs.google.com/forms/d/1axroBxQ-QCsHfUJQ_Zi8a2lPs0XxNsv7_5o2EY5W2KY/edit"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/06/serveis-atencio-plena-4.jpg",
+      "alt": "serveis-atencio-plena-4"
+     },
+     {
+      "t": "text",
+      "html": "<h3>Mindfulness Terapèutic​</h3>\n<p>Un espai on podem trobar solucions creatives per als problemes i les preocupacions tan aviat aquestes apareguin.</p>\n<p>T'oferim un acompanyament personalitzat en aquest viatge d'autoconeixement. Ja sigui per a abordar l'ansietat, la depressió, problemes de parella, d'autoestima, etc</p></p>"
+     },
+     {
+      "t": "btn",
+      "text": "MÉS INFORMACIÓ",
+      "href": "https://docs.google.com/forms/d/1axroBxQ-QCsHfUJQ_Zi8a2lPs0XxNsv7_5o2EY5W2KY/edit"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/06/serveis-atencio-plena-5.jpg",
+      "alt": "serveis-atencio-plena-5"
+     },
+     {
+      "t": "text",
+      "html": "<h3>Sessions d'autoestima, compassió i empatia amb Mindfulness</h3>\n<p>Mitjançant pràctiques formals i informals de Mindfulness afavorim el cultiu d'una actitud amorosa i de compassió cap a un mateix i cap als altres.</p>\n<p>Des de l'estudi i l'observació de les pròpies experiències, els participants aprofundiran i internalitzaran el coneixement i la comprensió de l'actitud meditativa i l'empatia.</p>"
+     },
+     {
+      "t": "btn",
+      "text": "MÉS INFORMACIÓ",
+      "href": "https://docs.google.com/forms/d/1axroBxQ-QCsHfUJQ_Zi8a2lPs0XxNsv7_5o2EY5W2KY/edit"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

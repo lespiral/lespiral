@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% from "parts.html" import post_card, pagination with context %}
+{% block content %}
+{# Arxiu de la categoria o d'una etiqueta: /category/articulos/, /tag/gestaltmindfulness/ (10 per pàgina) #}
+<section class="pagehead">
+  <div class="wrap pagehead__in reveal">
+    <h1 class="b-h b-h1">{{ name }}</h1>
+    {% if desc and k == 1 %}<div class="pagehead__lead">{{ desc|wpautop|fix }}</div>{% endif %}
+  </div>
+</section>
+<section class="band band--white">
+  <div class="wrap">
+    <ul class="posts">{% for a in items %}{{ post_card(a) }}{% endfor %}</ul>
+    {{ pagination(base_path, k, total) }}
+  </div>
+</section>
+{% endblock %}

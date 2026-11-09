@@ -1,0 +1,172 @@
+{
+ "path": "recursos",
+ "wp_id": 2632,
+ "title": "Recursos",
+ "published": "2024-03-15",
+ "modified": "2025-02-04",
+ "seo_title": "Recursos - Gestalt Mindfulness - L'Espiral",
+ "description": "Posem a la teva disposició els recursos necessaris perquè puguis incorporar el que t'ofereix la Gestalt i el Mindfulness a la teva vida.",
+ "lang": "ca",
+ "keyword": "recursos",
+ "h1_inventari": "RECURSOS",
+ "og_title": "Recursos - Gestalt Mindfulness - L'Espiral",
+ "og_image": "/wp-content/uploads/2025/01/15.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicoteràpia i Mindfulness"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "<span style=\"font-size: 52px; text-transform: none;\">RECURSOS</span>"
+     },
+     {
+      "t": "text",
+      "html": "<h4>Explora el teu creixement personal amb recursos dedicats al Mindfulness i la Psicologia Humanista de la Gestalt. Aprofundeix en la teva pràctica a través de contes inspiradors, vídeos enriquidors, articles detallats i materials descarregables dissenyats per fomentar la consciència i la transformació personal.</h4>"
+     }
+    ]
+   ],
+   "bg": "2025/01/recursos-lespiral-psicologo-el-prat.webp"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2025/01/15.jpg",
+      "alt": "15",
+      "href": "https://open.spotify.com/show/5ZsfNcg7liVS4wL11vsAWn?si=3ad2753afc434155"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Els contes, a Spotify i YouTube",
+      "href": "https://www.youtube.com/@atencioplena"
+     },
+     {
+      "t": "text",
+      "html": "<p>A través dels contes que <a href=\"https://open.spotify.com/show/5ZsfNcg7liVS4wL11vsAWn?si=3ad2753afc434155\">podeu escoltar Spotify</a>, o a <a href=\"https://www.youtube.com/@atencioplena\">YouTube</a> podreu veure com Hara va integrant el Mindfulness a la seva vida. Descobrireu com transforma les relacions que té amb els seus pares, amb la feina, amb el seu company... i com aquesta pràctica impacta profundament totes les àrees del seu dia a dia.</p>"
+     },
+     {
+      "t": "btn",
+      "text": "Anar a Spotify",
+      "href": "https://open.spotify.com/show/5ZsfNcg7liVS4wL11vsAWn?si=3ad2753afc434155"
+     },
+     {
+      "t": "btn",
+      "text": "YouTube",
+      "href": "https://www.youtube.com/@atencioplena"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2025/01/psicologo-el-prat-mindfulness-gestalt.jpg",
+      "alt": "psicologo el prat mindfulness gestalt",
+      "href": "https://www.youtube.com/@atencioplena"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Els videos, a Youtube",
+      "href": "https://www.youtube.com/@atencioplena"
+     },
+     {
+      "t": "text",
+      "html": "<p>En els <a href=\"https://www.youtube.com/@atencioplena\">nostres vídeos</a> trobareu una explicació detallada i pràctica sobre com aplicar els principis de la Psicologia Humanista de la Gestalt i el Mindfulness en la vostra vida personal i professional.</p>\n<p>A través d'exemples concrets i orientació teòrica, us mostrarem mètodes efectius per integrar aquestes disciplines en el dia a dia, millorant així les relacions personals, la gestió emocional i l'autoconeixement.</p>"
+     },
+     {
+      "t": "btn",
+      "text": "YouTube",
+      "href": "https://www.youtube.com/@atencioplena"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2025/01/17.jpg",
+      "alt": "17",
+      "href": "/articulos/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Els Articles i PDF per descarregar",
+      "href": "/articulos/"
+     },
+     {
+      "t": "text",
+      "html": "<p data-pm-slice=\"1 1 []\">Exploreu <a href=\"/articulos/\">els nostres articles</a> i <a href=\"/tag/gestaltmindfulness/\">fulls de treball en PDF</a> per aprendre com integrar la Psicologia Humanista de la Gestalt i el Mindfulness en la vostra vida diària.</p>\n<p data-pm-slice=\"1 1 []\">Aquests materials descarregables us ofereixen guies pràctiques i exercicis per millorar les relacions personals i la consciència emocional.</p>\n<p data-pm-slice=\"1 1 []\">Descobriu com aquestes tècniques poden enriquir tant la vostra vida personal com professional, facilitant un creixement continu i profund.</p>"
+     },
+     {
+      "t": "btn",
+      "text": "Artícles",
+      "href": "/articulos/"
+     },
+     {
+      "t": "btn",
+      "text": "Fulls de treball",
+      "href": "/tag/gestaltmindfulness/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2025/01/psicologo-el-prat-mindfulness.jpg",
+      "alt": "psicologo el prat mindfulness",
+      "href": "https://docs.google.com/forms/d/14jqOqy82IjtfojgNpTOAkocefpM38_n19DPEqhtAsI8/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Canal Privat de Telegram",
+      "href": "https://docs.google.com/forms/d/14jqOqy82IjtfojgNpTOAkocefpM38_n19DPEqhtAsI8/"
+     },
+     {
+      "t": "text",
+      "html": "<p data-pm-slice=\"1 1 []\">Subscriu-te al nostre Canal Privat de Telegram per accedir a recursos exclusius sobre la Psicologia Humanista de la Gestalt i el Mindfulness.</p>\n<p data-pm-slice=\"1 1 []\">En aquest canal oferim cursos online i masterclass gratuïtes que <strong>no trobaràs en cap altre lloc</strong>.</p>\n<p data-pm-slice=\"1 1 []\">Aquests materials exclusius estan dissenyats per ajudar-te a integrar efectivament aquestes tècniques en la teva vida diària, tant personal com professional.</p>"
+     },
+     {
+      "t": "btn",
+      "text": "Formulari d'accés",
+      "href": "https://docs.google.com/forms/d/14jqOqy82IjtfojgNpTOAkocefpM38_n19DPEqhtAsI8/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "text",
+      "html": "<p><strong>AVÍS</strong>:</p>\n<p>Cap de les pràctiques ni cap dels continguts dels nostres àudios, vídeos o pàgines web pretén diagnosticar, curar, prevenir ni tractar cap malaltia. Els serveis oferts no estan destinats a tractament mèdic, psicològic ni psiquiàtric. Els nostres serveis no estan facilitats per un professional mèdic. Si teniu una condició mèdica, psicològica o psiquiàtrica, o dubteu sobre la vostra capacitat per realitzar aquesta pràctica consulteu un professional sanitari autoritzat.</p>\n<p>Encara que aquestes sessions estan pensades per ser una pràctica segura, i en general la pràctica de l'Atenció Plena pot ser beneficiosa per a la majoria de les persones i es considera una tècnica segura, hi ha certes situacions en què pot no ser recomanable practicar mindfulness sense la supervisió adequada.</p>\n<p>En aquests casos sempre cal consultar al metge que estigui atenent al practicant i, si és possible, un metge psiquiatra familiaritzat amb el Mindfulness.</p>\n<p>Alguns exemples inclouen:</p>\n<ul>\n<li>Persones amb trastorns psicològics greus: La pràctica del mindfulness pot ser contraproduent per a persones amb trastorns psicològics greus, tals com trastorns psicòtics o trastorns de la personalitat.</li>\n<li>Persones que estan experimentant una crisi emocional aguda: En situacions de crisi emocional aguda, com després d'un trauma recent o una pèrdua important, pot ser millor esperar a que la persona s'estabilitzi emocionalment abans de començar la pràctica.</li>\n<li>Persones amb problemes de salut física: La pràctica pot ser contraindicada per a persones amb certs problemes de salut física com lesions cerebrals traumàtiques o malalties neurològiques avançades.</li>\n<li>Persones que estan prenent certs medicaments: Alguns medicaments poden interactuar amb la pràctica del Mindfulness i poden augmentar el risc d'efectes secundaris. Consulteu al vostre metge abans de començar la pràctica.</li>\n</ul>\n<p>Ho recalquem de nou. Encara que la pràctica de l'Atenció Plena és segura per a la majoria de les persones, sempre és recomanable parlar amb un professional de la salut abans de començar si teniu alguna preocupació específica.</p>\n<p>Si voleu podeu posar-vos en contacte amb nosaltres i us podrem derivar a personal mèdic psiquiàtric que podrà realitzar aquesta valoració.</p>"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

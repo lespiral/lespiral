@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="{{ lang or site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {# «js»: els blocs poden aparèixer suaument (src/site.js). Si site.js no arriba a carregar, al cap de 4 s es treu i tot es veu quiet. #}
+  <script>document.documentElement.classList.add("js");setTimeout(function(){if(!window.espiralMoviment)document.documentElement.classList.remove("js")},4000)</script>
+  <title>{{ page_title }}</title>
+  {% if description %}<meta name="description" content="{{ description }}">{% endif %}
+  {% if noindex %}<meta name="robots" content="noindex, nofollow">{% else %}<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">{% endif %}
+  {% if canonical %}<link rel="canonical" href="{{ canonical }}">{% endif %}
+  {% if path == "" and site.verification.google and "PENDENT" not in site.verification.google %}<meta name="google-site-verification" content="{{ site.verification.google }}">{% endif %}
+  <meta property="og:locale" content="{{ 'ca_ES' if lang == 'ca' else site.locale }}">
+  <meta property="og:type" content="{{ og_type or 'article' }}">
+  <meta property="og:title" content="{{ (page and page.og_title) or (article and article.og_title) or page_title }}">
+  {% if description %}<meta property="og:description" content="{{ description }}">{% endif %}
+  {% if canonical %}<meta property="og:url" content="{{ canonical }}">{% endif %}
+  <meta property="og:site_name" content="{{ site.name }}">
+  {% if og_image %}<meta property="og:image" content="{{ site.site_url.rstrip('/') ~ og_image }}">{% endif %}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ (page and page.og_title) or (article and article.og_title) or page_title }}">
+  {% if description %}<meta name="twitter:description" content="{{ description }}">{% endif %}
+  {% if og_image %}<meta name="twitter:image" content="{{ site.site_url.rstrip('/') ~ og_image }}">{% endif %}
+  {# Etiquetes de geolocalització (abans, del plugin de l'agència), amb el punt de la fitxa de Google (decisió 13) #}
+  <meta name="geo.region" content="{{ site.geo.region }}">
+  <meta name="geo.placename" content="{{ site.geo.placename }}">
+  <meta name="geo.position" content="{{ site.geo.lat }};{{ site.geo.lng }}">
+  <meta name="ICBM" content="{{ site.geo.lat }}, {{ site.geo.lng }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} &raquo; Feed" href="{{ '/feed/'|u }}">
+  <link rel="icon" type="image/png" sizes="48x48" href="{{ '/assets/img/favicon-48.png'|u }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/img/apple-touch-icon.png'|u }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+  <link rel="stylesheet" href="{{ '/assets/site.css'|u }}?v={{ version }}">
+  {% if ld %}<script type="application/ld+json">{{ ld }}</script>{% endif %}
+</head>
+<body>
+  <a class="skip" href="#contingut">Ir al contenido</a>
+
+  <header class="topbar">
+    <div class="wrap topbar__in">
+      <a class="brand" href="{{ '/'|u }}" aria-label="{{ site.name }}, inicio">
+        <img class="brand__logo" src="{{ '/assets/img/logo-espiral.png'|u }}" alt="" width="52" height="52">
+        <span class="brand__text"><span class="brand__name">{{ site.name }}</span><span class="brand__sub">{{ site.tagline }}</span></span>
+      </a>
+      <button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu" aria-label="Abrir el menú" data-label-open="Abrir el menú" data-label-close="Cerrar el menú">
+        <span class="menu-btn__open">{{ icon('menu') }}</span><span class="menu-btn__close">{{ icon('close') }}</span>
+      </button>
+      <nav id="menu" class="menu" aria-label="Menú principal">
+        <ul class="menu__list">
+          {% set here = '/' ~ path ~ ('/' if path else '') %}
+          {% for n in site.nav %}
+          {% set active = n.href == here or (n.children and here in (n.children|map(attribute='href')|list)) %}
+          <li class="menu__item{% if n.children %} has-sub{% endif %}">
+            <a href="{{ n.href|u }}"{% if active %} aria-current="page"{% endif %}>{{ n.title }}{% if n.children %}{{ icon('caret', 'menu__caret') }}{% endif %}</a>
+            {% if n.children %}
+            <ul class="menu__sub">
+              {% for c in n.children %}<li><a href="{{ c.href|u }}"{% if c.href == here %} aria-current="page"{% endif %}>{{ c.title }}</a></li>{% endfor %}
+            </ul>
+            {% endif %}
+          </li>
+          {% endfor %}
+          <li class="menu__cta"><a class="btn btn--primary btn--sm" href="{{ site.cta.href|u }}">{{ site.cta.text }}</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="contingut">
+{% block content %}{% endblock %}
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer__in">
+      <div class="footer__about">
+        <p class="footer__name"><img src="{{ '/assets/img/logo-espiral.png'|u }}" alt="" width="44" height="44"><span>{{ site.name }}</span></p>
+        <p class="footer__text">{{ site.footer.text }}</p>
+      </div>
+      <nav class="footer__col" aria-label="La web">
+        <p class="footer__h">La web</p>
+        <ul>{% for n in site.footer.links %}<li><a href="{{ n.href|u }}">{{ n.title }}</a></li>{% endfor %}</ul>
+      </nav>
+      <div class="footer__col">
+        <p class="footer__h">Contacto</p>
+        <ul class="footer__contact">
+          <li>{{ icon('pin') }}<span>{{ site.contact.address }}<br>{{ site.contact.postal_code }} {{ site.contact.city }}</span></li>
+          <li>{{ icon('phone') }}<a href="tel:{{ site.contact.phone_tel }}">{{ site.contact.phone }}</a></li>
+          <li>{{ icon('whatsapp') }}<a href="{{ site.contact.whatsapp }}" rel="noopener">WhatsApp</a></li>
+          <li>{{ icon('mail') }}<a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a></li>
+        </ul>
+      </div>
+      <nav class="footer__col" aria-label="Otros proyectos">
+        <p class="footer__h">Otros proyectos</p>
+        <ul>{% for n in site.footer.projects %}<li><a href="{{ n.href }}" rel="noopener">{{ n.title }}</a></li>{% endfor %}</ul>
+        <p class="footer__h footer__h--legal">Legal</p>
+        <ul>{% for l in site.footer.legal %}<li><a href="{{ l.href|u }}">{{ l.title }}</a></li>{% endfor %}</ul>
+      </nav>
+    </div>
+    <div class="wrap footer__kit">
+      <p class="footer__logos">{% for k in site.footer.kit_digital %}{% set im = img_info(k.src) %}<img src="{{ im.src }}"{% if im.srcset %} srcset="{{ im.srcset }}" sizes="360px"{% endif %} alt="{{ k.alt }}" width="{{ im.width }}" height="{{ im.height }}" loading="lazy" decoding="async">{% endfor %}</p>
+    </div>
+    <div class="wrap footer__bottom"><p>{{ site.footer.copyright }}</p></div>
+  </footer>
+
+  <a class="wa-float" href="{{ site.contact.whatsapp }}" rel="noopener" aria-label="Escríbenos por WhatsApp">{{ icon('whatsapp') }}</a>
+  <script src="{{ '/assets/site.js'|u }}?v={{ version }}" defer></script>
+</body>
+</html>

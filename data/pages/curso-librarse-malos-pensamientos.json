@@ -1,0 +1,293 @@
+{
+ "path": "curso-librarse-malos-pensamientos",
+ "wp_id": 486,
+ "title": "Curso Librarse de Pensamientos Negativos",
+ "published": "2023-05-24",
+ "modified": "2024-07-16",
+ "seo_title": "LÍBRATE DE LOS MALOS PENSAMIENTOS - Curso en L'Espiral",
+ "description": "¡LÍBRATE DE LOS MALOS PENSAMIENTOS! En L'Espiral te ayudamos a eliminar las creencias y patrones de pensamiento negativos con técnicas de Mindfulness.",
+ "lang": "es",
+ "keyword": "malos pensamientos",
+ "h1_inventari": "LIBRARSE DE CREENCIAS Y PATRONES DE PENSAMIENTO NEGAVITOS",
+ "og_title": "LÍBRATE DE LOS MALOS PENSAMIENTOS - Curso en L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/taller-pensamientos-negativos-el-prat-llobregat.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Curso en L'espiral"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "LIBRARSE DE CREENCIAS Y PATRONES DE PENSAMIENTO NEGAVITOS"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/taller-pensamientos-negativos-el-prat-llobregat.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "¿Por qué sufrimos?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "En esencia, si sufrimos, si nos quedamos atrapados en el dolor sin encontrar o encaminarnos hacia una resolución, es que estamos creyendo algo que es limitante y, seguramente, falso."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La gran mayoría de los seres humanos nos aferramos un conjunto de creencias fundamentales que nos atan al sufrimiento con miedo y sentimientos de deficiencia."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Estas creencias conducen a hábitos nocivos —comportamientos dañinos, conflictos, evitación de situaciones— que interfieren en nuestra productividad, en nuestra capacidad para disfrutar de la intimidad con los demás y de poder llevar una vida creativa y feliz."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/taller-pensamientos-negativos-el-prat-llobregat.jpg",
+      "alt": "taller-pensamientos-negativos-el-prat-llobregat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/taller-liberate-pensamientos-negativos.jpg",
+      "alt": "taller-liberate-pensamientos-negativos"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿En qué consiste el taller?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Taller Librarse de Patrones y Creencias Negativas"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Este curso muestra cómo puedes observar y darte cuenta de cuáles son estas creencias limitantes y permite saborear la libertad que es posible cuando sueltas estas creencias. <br><br> Tus creencias te desconectan de tu propio ser y del mundo. El sufrimiento que sientes es una llamada de atención. Una llamada a investigar. <br><br> Investigaremos los momentos en los que nos sentimos en peligro, separados, avergonzados o atrapados. <br><br> Mediante la Atención Plena, el Mindfulness, veremos cómo poder liberarnos de estas creencias y patrones de pensamiento negativo"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "Beneficios del taller"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Taller Librarse de Patrones y Creencias Negativas​"
+       },
+       {
+        "t": "text",
+        "html": "<ul>\n<li>Claridad mental y emocional.</li>\n<li>Reducción de los niveles de estrés y malestar.</li>\n<li>Descubrir las creencias negativas y disponer de la oportunidad para cuestionarlas y dejarlas ir.</li>\n<li>Mayor conciencia de los patrones negativos que generan nuestras creencias y oportunidades para encontrar alternativas a los mismos.</li>\n<li>Mayor capacidad de autoexploración y valoración de los propios recursos.</li>\n</ul>"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/taller-elimina-pensamientos-negativos-1.jpg",
+      "alt": "taller-elimina-pensamientos-negativos (1)"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "A las personas que se sienten angustiadas, ansiosas, estresadas, obsesionadas, autocríticas o que sufren en mayor o menor medida."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Consúltanos para saber las fechas, horarios y precios del próximo taller."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Taller impartido por"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Aleix Boronat Monfort Director y cofundador de l’Espiral. Terapeuta Gestalt, Mentor en Mindfulness y Miembro adherente de la AETG. Formación en Psicoterapia Integrativa (programa SAT). Formado en técnicas psicocorporales (Shiatsu y Movimiento, Seitai, Yoga, Bioenergetica)."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-pedir-cida/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

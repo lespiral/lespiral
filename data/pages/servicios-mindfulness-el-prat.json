@@ -1,0 +1,342 @@
+{
+ "path": "servicios-mindfulness-el-prat",
+ "wp_id": 336,
+ "title": "Mindfulness",
+ "published": "2023-05-23",
+ "modified": "2026-09-10",
+ "seo_title": "Servicios y Técnicas Mindfulness en El Prat - L'Espiral",
+ "description": "Servicios Mindfulness en El Prat de Llobregat. Sesiones, talleres, yoga ... grupo regular para técnicas Mindfulness en l'Espiral.",
+ "lang": "es",
+ "keyword": "mindfulness",
+ "h1_inventari": "MINDFULNESS",
+ "og_title": "Servicios y Técnicas Mindfulness en El Prat - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/mindfulness-el-prat-llobregat.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y terapeutas gestalt en el prat"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "MINDFULNESS"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/mindfulness-el-prat-llobregat.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626 62 71 24",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Mindfulness"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Hemos creado un espacio dónde podrás encontrar todo aquello relacionado con las técnicas Mindfulness."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Te ofrecemos recursos psicológicos, físicos y emocionales con los que podrás vivir una vida más sana y equilibrada."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/mindfulness-el-prat-llobregat.jpg",
+      "alt": "mindfulness-el-prat-llobregat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/10/casos-ansiedad-historias.jpg",
+      "alt": "Casos Ansiedad",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/atencio-plena-curs-introductori"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Mindfulness, curso introductorio de 40 sesiones",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/atencio-plena-curs-introductori"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Una entrada clara y progresiva al mindfulness <br><br> Empezarás por prácticas sencillas (hacer una pausa, relajar el cuerpo, volver a los sentidos y observar la respiración) e irás avanzando paso a paso hacia una presencia más estable y amable. <br><br>",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/atencio-plena-curs-introductori"
+     },
+     {
+      "t": "btn",
+      "text": "inscripción gratuita",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/atencio-plena-curs-introductori"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2024/08/miedo-ansiedad-mindfulness-taller.jpg",
+      "alt": "miedo-ansiedad-mindfulness-taller.jpg",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/por-ansietat-i-atencio-plena"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Miedo, ansiedad y Mindfulness",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/por-ansietat-i-atencio-plena"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Un curso para desarrollar recursos internos de seguridad, fuerza y ​​conexión. <br><br>Para mantenernos presentes cuando surge el miedo y la angustia. Y poder afrontar la situación con valentía, sabiduría, interés y cuidado. <br><br> Aprenderemos a responder, en lugar de reaccionar.<br><br>",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/por-ansietat-i-atencio-plena"
+     },
+     {
+      "t": "btn",
+      "text": "inscripción gratuita",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/por-ansietat-i-atencio-plena"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2024/08/sanar-la-ansiedad.jpg",
+      "alt": "sanar-la-ansiedad.jpg",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/deslliurar-se-de-creences-i-patrons-de-pensament-amb-atencio-plena"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Liberarse de creencias y patrones de pensamientos negativos",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/deslliurar-se-de-creences-i-patrons-de-pensament-amb-atencio-plena"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Con este ccurso podras hacer frente a las creencias y los pensamientos que te hacen sufrir.<br> <br>Este curso muestra como puedes observar y darte cuenta de cuáles son las creencias limitantes qu Realizar este curso permite saborear la libertad que es posible cuando sueltas estas creencias.<br><br>",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/deslliurar-se-de-creences-i-patrons-de-pensament-amb-atencio-plena"
+     },
+     {
+      "t": "btn",
+      "text": "inscripción gratuita",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/deslliurar-se-de-creences-i-patrons-de-pensament-amb-atencio-plena"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2024/08/grupo-terapeutico-psicologo-en-el-prat-1.jpg",
+      "alt": "grupo-terapeutico-psicologo-en-el-prat-1.jpg",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/transformar-el-patiement-amb-atencio-plena"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Transformar el sufrimiento con Mindfulness",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/transformar-el-patiement-amb-atencio-plena"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Con este curso tendrás la oportunidad de aprender a gestionar las situaciones difíciles con Mindfulness. <br><br> Profundizaremos en una de las técnicas más completas de Mindfulness y más efectivas para transitar las dificultades de la vida: La meditación R.A.I.N. <br><br>",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/transformar-el-patiement-amb-atencio-plena"
+     },
+     {
+      "t": "btn",
+      "text": "inscripción gratuita",
+      "href": "https://espiral-elara-social.thinkific.com/products/courses/transformar-el-patiement-amb-atencio-plena"
+     }
+    ]
+   ],
+   "head": [
+    {
+     "t": "h",
+     "tag": "h2",
+     "html": "Talleres de Mindfulness gratuitos y online (en catalán)"
+    }
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Mindfulness-psicologo-en-el-prat-1-1.jpg",
+      "alt": "Mindfulness-psicologo-en-el-prat-1",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Mindfulness Terapeutico",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Un espacio donde podemos encontrar soluciones creativas para los problemas y las preocupaciones tan pronto estas aparezcan. Te ofrecemos un acompañamiento personalizado en este viaje de autoconocimiento. Ya sea para abordar la ansiedad, la depresión, problemas de pareja, de autoestima, etc.",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/sesiones-autoestima-empatia-1536x1024-1.jpg",
+      "alt": "sesiones-autoestima-empatia-1536x1024",
+      "href": "/sesiones-autoestima-compasion-empatia/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Sesiones de autoestima, compasión y empatía con Mindfulness",
+      "href": "/sesiones-autoestima-compasion-empatia/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Mediante prácticas formales e informales de Mindfulness favorecemos el cultivo de una actitud amorosa y de compasión hacia uno mismo y hacia los demás. Desde el estudio y la observación de las propias experiencias, los participantes profundizarán e internalizarán el conocimiento y la comprensión de la actitud meditativa y la empatía.",
+      "href": "/sesiones-autoestima-compasion-empatia/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/sesiones-autoestima-compasion-empatia/"
+     }
+    ]
+   ],
+   "head": [
+    {
+     "t": "h",
+     "tag": "h2",
+     "html": "Talleres y sesiones individuales"
+    }
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

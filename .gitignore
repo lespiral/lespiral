@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+captures/
+# L'exportació del WordPress i l'inventari no es desen aquí (contenen comentaris i adreces de correu)
+*.xml.bak
+importacio/

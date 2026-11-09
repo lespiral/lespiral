@@ -1,0 +1,318 @@
+{
+ "path": "sesiones-grupo-yoga-el-prat-llobregat",
+ "wp_id": 483,
+ "title": "Sesiones en grupo de Yoga, Mindfulness, y Crecimento Personal",
+ "published": "2023-05-24",
+ "modified": "2024-07-16",
+ "seo_title": "Sesiones en Grupo de Yoga, Mindfulness y Psique - L'Espiral",
+ "description": "Yoga, mindfulness y psique, con sesiones en grupo, en El Prat de Llobregat. Crecimiento personal en grupo con l'Espiral.cat.",
+ "lang": "es",
+ "keyword": "sesiones en grupo,yoga,mindfulness",
+ "h1_inventari": "MINDFULNESS, YOGA & PSIQUE",
+ "og_title": "Sesiones en Grupo de Yoga, Mindfulness y Psique - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/yoga-mindfulness-el-prat-llobregat.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en el Prat de Llobregat"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "MINDFULNESS, YOGA & PSIQUE"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/yoga-mindfulness-el-prat-llobregat.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626627124",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Mindfulness, Yoga & Psique"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Nuestras sesiones en grupo de Yoga, mindfulness y crecimiento personal te ayudarán a controlar el estrés y la ansiedad, a concentrarte y relajarte y también a desarrollar la empatía."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Consúltanos para saber las fechas de las sesiones de grupo de Mindfulness, Yoga y Crecimiento Personal"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La psique es el conjunto de las capacidades humanas que abarca los procesos conscientes e inconscientes. La palabra psique es de origen griego ψυχή (psyché) y significa ‘alma humana’."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "El mindfulness es la capacidad de observar y reconocer la propia experiencia. Aunque creemos tener un control consciente de nuestra capacidad de atención, lo que realmente nos sucede es que estamos atendiendo a pensamientos acerca del pasado o del futuro o bien, reconociendo solo una pequeña porción de nuestra experiencia. La Atención Plena [Mindfulness] nos permite ser conscientes de este flujo de la experiencia."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "El Yoga es una disciplina tradicional, espiritual, física y mental originada en la India que combina el movimiento físico, la respiración y el mantenimiento en ciertas posturas que ayuda a integrar mente y cuerpo en una experiencia de autoconocimiento y crecimiento personal."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/yoga-mindfulness-el-prat-llobregat.jpg",
+      "alt": "yoga-mindfulness-el-prat-llobregat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/yoga-grupo-prat-llobregat.jpg",
+      "alt": "yoga-grupo-prat-llobregat"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿En qué consisten estas sesiones?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Sesiones en grupo de Yoga, Mindfulness y Crecimiento Personal"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Mediante una Atención Plena al cuerpo, a la respiración, a las posturas y movimientos que realizamos durante la práctica del Yoga, iremos descubriendo y actualizando nuestra psique, nuestras capacidades de estar en el mundo. <br><br> Habrá también un espacio para dar movimiento a nuestros pensamientos, fantasías y creencias. Descubrir nuestros patrones mentales y abordar nuevas “posturas” ante nosotros y ante la vida. <br><br> Son sesiones dónde combinamos el movimiento del cuerpo con el movimiento de la palabra. Un espacio dónde compartir y dejarse acompañar."
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "Beneficios de las sesiones"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Sesiones en grupo de Yoga, Mindfulness y Crecimiento Personal"
+       },
+       {
+        "t": "text",
+        "html": "<ul>\n<li>Aprender a controlar el estrés y la ansiedad</li>\n<li>Aprender a calmar y observar los patrones de pensamientos negativos. Reducir la reacción mental automática y aumentar los niveles conscientes de respuesta.</li>\n<li>Estar presente en el aquí y ahora y mejorar la concentración.</li>\n<li>Desarrollar la compasión hacia uno mismo y hacia los demás, sin juicios.</li>\n<li>Aprender técnicas de comunicación respetuosas y empáticas.</li>\n<li>Mejorar la estabilidad emocional y aprender a sostener las dificultades.</li>\n<li>Relajar la tensión muscular, mental y emocional.</li>\n</ul>"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/mindfulness-grupo-prat-llobregat-1.jpg",
+      "alt": "mindfulness-grupo-prat-llobregat (1)"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Cualquier persona interesada en profundizar en el autoconocimiento."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Personas con ansiedad, estrés, depresión o cualquier otro tipo de sufrimiento."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Cualquier persona interesada en profundizar en el autoconocimiento."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Consúltanos para saber las fechas, horarios y precios actualizados de las sesiones en grupo de Yoga, Mindfulness y Crecimiento Personal."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Taller impartido por"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Aleix Boronat Monfort"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Director y cofundador de l’Espiral. Terapeuta Gestalt, Mentor en Mindfulness y Miembro adherente de la AETG. Formación en Psicoterapia Integrativa (programa SAT). Formado en técnicas psicocorporales (Shiatsu y Movimiento, Seitai, Yoga, Bioenergetica). <br><br>"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": null
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

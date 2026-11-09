@@ -1,0 +1,302 @@
+{
+ "path": "midfulness-sensible-al-trauma",
+ "wp_id": 3377,
+ "title": "Midfulness Sensible al Trauma",
+ "published": "2026-10-29",
+ "modified": "2026-10-29",
+ "seo_title": "Midfulness Sensible al Trauma - L'Espiral",
+ "description": "MINDFULNESS SENSIBLE AL TRAUMA",
+ "lang": "es",
+ "h1_inventari": "Midfulness Sensible al Trauma",
+ "og_title": "Midfulness Sensible al Trauma - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/mindfulness-el-prat-llobregat.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y terapeutas expertos en trauma"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "MINDFULNESS SENSIBLE AL TRAUMA"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt expertos en Mindfulness Sensible al Trauma"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/mindfulness-el-prat-llobregat.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626 62 71 24",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Mindfulness"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Hemos creado un espacio dónde podrás encontrar todo aquello relacionado con las técnicas Mindfulness."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Te ofrecemos recursos psicológicos, físicos y emocionales con los que podrás vivir una vida más sana y equilibrada."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/mindfulness-el-prat-llobregat.jpg",
+      "alt": "mindfulness-el-prat-llobregat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Mindfulness-Yoga-Psique.jpg",
+      "alt": "Mindfulness, Yoga & Psique",
+      "href": "/sesiones-grupo-yoga-el-prat-llobregat/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Mindfulness, Yoga & Psique",
+      "href": "/sesiones-grupo-yoga-el-prat-llobregat/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Sesiones en grupo dónde mediante una Atención Plena al cuerpo, a la respiración, a las posturas y movimientos que realizamos durante la práctica del Yoga, iremos descubriendo y actualizando nuestra psique, nuestras capacidades de estar en el mundo.",
+      "href": "/sesiones-grupo-yoga-el-prat-llobregat/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/sesiones-grupo-yoga-el-prat-llobregat/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/taller-elimina-pensamientos-negativos.jpg",
+      "alt": "taller-elimina-pensamientos-negativos",
+      "href": "/curso-librarse-malos-pensamientos/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Liberarse de Creencias y Patrones de Pensamiento Negativos",
+      "href": "/curso-librarse-malos-pensamientos/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Curso presecial y/o online dónde aprenderás a observar y darte cuenta de cuáles son tus creencias limitantes y que te permitirá saborear la libertad que es posible cuando sueltas estas creencias.",
+      "href": "/curso-librarse-malos-pensamientos/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/curso-librarse-malos-pensamientos/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/mindfulness-grupo-prat-llobregat.jpg",
+      "alt": "mindfulness-grupo-prat-llobregat",
+      "href": "/talleres-y-formaciones/grupo-regular-de-mindfulness/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Grupo regular de Mindfulness",
+      "href": "/talleres-y-formaciones/grupo-regular-de-mindfulness/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Un grupo presencial y/o online para aquellas personas que quieren comenzar en la práctica del Mindfulness, así como para aquellas personas que ya lo practican habitualmente.",
+      "href": "/talleres-y-formaciones/grupo-regular-de-mindfulness/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/talleres-y-formaciones/grupo-regular-de-mindfulness/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Mindfulness-psicologo-en-el-prat-1-1.jpg",
+      "alt": "Mindfulness-psicologo-en-el-prat-1",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Mindfulness Terapeutico",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Un espacio donde podemos encontrar soluciones creativas para los problemas y las preocupaciones tan pronto estas aparezcan. Te ofrecemos un acompañamiento personalizado en este viaje de autoconocimiento. Ya sea para abordar la ansiedad, la depresión, problemas de pareja, de autoestima, etc.",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/sesiones-autoestima-empatia-1536x1024-1.jpg",
+      "alt": "sesiones-autoestima-empatia-1536x1024",
+      "href": "/sesiones-autoestima-compasion-empatia/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Sesiones de autoestima, compasión y empatía con Mindfulness",
+      "href": "/sesiones-autoestima-compasion-empatia/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Mediante prácticas formales e informales de Mindfulness favorecemos el cultivo de una actitud amorosa y de compasión hacia uno mismo y hacia los demás. Desde el estudio y la observación de las propias experiencias, los participantes profundizarán e internalizarán el conocimiento y la comprensión de la actitud meditativa y la empatía.",
+      "href": "/sesiones-autoestima-compasion-empatia/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/sesiones-autoestima-compasion-empatia/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

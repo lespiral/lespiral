@@ -1,0 +1,113 @@
+{
+ "path": "eltqr",
+ "wp_id": 3158,
+ "title": "elTqR",
+ "published": "2025-08-27",
+ "modified": "2026-04-24",
+ "seo_title": "elTqR - L'Espiral",
+ "description": "Transformar el dolor en...",
+ "lang": "es",
+ "og_title": "elTqR - L'Espiral",
+ "og_image": "/wp-content/uploads/2025/08/eltrebajoquereconecta-lespiral.png",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "<h4 class=\"elementor-heading-title elementor-size-default elementor-inline-editing pen\" data-elementor-setting-key=\"title\" data-pen-placeholder=\"Type Here...\" style=\"border: 0px; font-size: 117px; font-weight: 400; vertical-align: baseline; clear: both; line-height: 1.2em; font-family: Forum, display; letter-spacing: -3px; text-align: center;\">El trabajo que reconecta</h4>"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Transformar el dolor en..."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "<span style=\"font-family: &quot;Work Sans&quot;, sans-serif; font-size: 50px; letter-spacing: -3px; text-align: center;\"> Esperanza Activa.</span><span style=\"font-family: &quot;Work Sans&quot;, sans-serif; font-size: 50px; letter-spacing: -3px; text-align: center;\"></span>"
+     }
+    ]
+   ],
+   "bg": "2025/08/el-trabajo-que-reconecta-002.png"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "text",
+        "html": "<h2>Cuando el dolor personal y el del mundo se entrelazan</h2>"
+       },
+       {
+        "t": "text",
+        "html": "<h4>Hay momentos en los que todo parece demasiado.</h4>\n<h4>Nos duele lo que sucede en el mundo: el clima que cambia, las especies que desaparecen, las desigualdades que se agrandan.</h4>\n<h4>Y, al mismo tiempo, nos pesa nuestra propia vida: la inestabilidad laboral, la dificultad para sostener un hogar, el cansancio de intentar mantenernos a flote.</h4>\n<h4>Este malestar no es sólo individual ni sólo colectivo: es una herida compartida. Sentirnos perdidos, tristes o desbordados no es una debilidad, sino una respuesta humana ante un tiempo que nos exige demasiado.</h4>\n<h4>El Trabajo que Reconecta nace para sostenernos en medio de esa complejidad. Es un espacio donde podemos reconocer nuestro dolor, tanto personal como colectivo, y transformarlo en claridad, fuerza y sentido.</h4>\n<h4>Nos invita a redescubrir que no estamos solos, que formamos parte de algo más grande, y que incluso en la incertidumbre, todavía hay caminos para avanzar.</h4>"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "El Trabajo que Reconecta es un proceso vivencial para recuperar el sentido,"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "fortalecer tu resiliencia y caminar hacia un futuro más justo y sostenible."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "El Trabajo que Reconecta sigue una espiral: <strong>un recorrido en cuatro etapas</strong> que nos permite pasar del dolor a la acción transformadora."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Si quieres conocer más sobre El Trabajo que Reconecta, participar en los próximos talleres y aprender a cultivar una Esperanza Activa, vista nuestra web. <br><br> Te esperamos para dar juntas, juntos, los pasos necesarios para el cambio que quieres ver, en ti, y en el mundo. <br><br>"
+     },
+     {
+      "t": "btn",
+      "text": "www.elTqR.org",
+      "href": "https://eltqr.org/"
+     }
+    ]
+   ],
+   "bg": "2025/08/el-trabajo-que-reconecta-6b.png"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2025/08/eltrebajoquereconecta-lespiral.png",
+      "alt": "eltrebajoquereconecta lespiral",
+      "href": "https://eltqr.org/"
+     },
+     {
+      "t": "btn",
+      "text": "www.elTqR.org",
+      "href": "https://eltqr.org/"
+     }
+    ]
+   ]
+  }
+ ]
+}

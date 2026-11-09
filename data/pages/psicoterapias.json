@@ -1,0 +1,408 @@
+{
+ "path": "psicoterapias",
+ "wp_id": 16,
+ "title": "Psicoterapias",
+ "published": "2023-05-21",
+ "modified": "2026-04-24",
+ "seo_title": "Psicoterapia en El Prat de Llobregat - L'Espiral",
+ "description": "Psicoterapia en El Prat de Llobregat. Consulta todas nuestras especialidades.",
+ "lang": "es",
+ "keyword": "psicoterapias",
+ "h1_inventari": "PSICOTERAPIAS",
+ "og_title": "Psicoterapia en El Prat de Llobregat - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/Terapia-individual-1.png",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "PSICOTERAPIAS"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/psicoterapia.png"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Terapia-individual-1.png",
+      "alt": "Terapia individual 1",
+      "href": "/psicoterapias/psicoterapia-adultos/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Terapia individual",
+      "href": "/psicoterapias/psicoterapia-adultos/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Trabajamos para ayudarte a encontrar soluciones a tus problemas de pareja, familia, trabajo, emocionales, relación,",
+      "href": "/psicoterapias/psicoterapia-adultos/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/psicoterapias/psicoterapia-adultos/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Terapia-de-pareja.png",
+      "alt": "Terapia de pareja",
+      "href": "/psicoterapias/terapia-de-pareja-prat-llobregat/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Terapia de pareja",
+      "href": "/psicoterapias/terapia-de-pareja-prat-llobregat/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Un espacio donde las parejas, con la ayuda del psicólogo y/o Terapeuta Gestalt, pueden explorar sus patrones de relación",
+      "href": "/psicoterapias/terapia-de-pareja-prat-llobregat/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/psicoterapias/terapia-de-pareja-prat-llobregat/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Terapia-infantil.png",
+      "alt": "Terapia infantil",
+      "href": "/psicoterapias/psicoterapia-infanti/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Terapia infantil",
+      "href": "/psicoterapias/psicoterapia-infanti/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Nuestra psicóloga infantil, crea un espacio de relación dirigido a construir un vínculo seguro con el niño para poder averiguar problemáticas",
+      "href": "/psicoterapias/psicoterapia-infanti/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/psicoterapias/psicoterapia-infanti/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Terapia-para-adolescentes.png",
+      "alt": "Terapia para adolescentes",
+      "href": "/psicoterapias/psicoterapia-adolescentes/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Terapia para adolescentes",
+      "href": "/psicoterapias/psicoterapia-adolescentes/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Un espacio de relación y de experimentación que parte de los intereses y de la capacidad de expresión del mismo joven, con el fin de",
+      "href": "/psicoterapias/psicoterapia-adolescentes/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/psicoterapias/psicoterapia-adolescentes/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Terapia-perinatal.png",
+      "alt": "Terapia perinatal",
+      "href": "/psicoterapias/psicoterapia-perinatal/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Terapia perinatal",
+      "href": "/psicoterapias/psicoterapia-perinatal/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La terapia perinatal responde a la exigencia de encontrar un espacio de vinculación y contención emocional tanto en cuanto",
+      "href": "/psicoterapias/psicoterapia-perinatal/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/psicoterapias/psicoterapia-perinatal/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Mindfulness-terapeuticos.png",
+      "alt": "Mindfulness terapéuticos",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Mindfulness terapéuticos",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La Atención o Conciencia Plena [Mindfulness] nos permite optar a una mejor capacidad de reacción ante los problemas que la vida",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/psicoterapias/mindfulness-terapeutico/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La Psicoterapia"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "«Conozca todas las teorías. Domine todas las técnicas, pero al tocar un alma humana sea apenas otra alma humana»"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Carls Gustav Jung"
+     }
+    ]
+   ],
+   "bg": "2023/05/La-Psicoterapia.png"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Ansiedad.png",
+      "alt": "Ansiedad",
+      "href": "/ansiedad/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Ansiedad",
+      "href": "/ansiedad/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Te acompañamos, porque la ansiedad no te limite y puedas volver a confiar en ti. Te ayudamos a desarrollar recursos psicológicos, emocionales y corporales para sanar la ansiedad.",
+      "href": "/ansiedad/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/ansiedad/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Terapia-de-pareja.png",
+      "alt": "Terapia de pareja",
+      "href": "http://www.elmelic.com/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Maternidad y crianza",
+      "href": "http://www.elmelic.com/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "El Melic es el espacio que hemos creado dónde poder atender los problemas que durante la gestación y la crianza pueden aparecer. Psicología Infantil, Psicoterapia Perinatal, etc.",
+      "href": "http://www.elmelic.com/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "http://www.elmelic.com/"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Terapia-infantil.png",
+      "alt": "Terapia infantil",
+      "href": "/servicios-mindfulness-el-prat/"
+     },
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Mindfulness",
+      "href": "/servicios-mindfulness-el-prat/"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Somos especialistas en Atención Plena [Mindfulness] para el crecimiento personal. Ofrecemos talleres en grupo, presenciales y online, como acompañamiento individualizado...",
+      "href": "/servicios-mindfulness-el-prat/"
+     },
+     {
+      "t": "btn",
+      "text": "Más información",
+      "href": "/servicios-mindfulness-el-prat/"
+     }
+    ]
+   ],
+   "head": [
+    {
+     "t": "h",
+     "tag": "p",
+     "html": "Somos especialistas en :"
+    }
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

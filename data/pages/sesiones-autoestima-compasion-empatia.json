@@ -1,0 +1,298 @@
+{
+ "path": "sesiones-autoestima-compasion-empatia",
+ "wp_id": 512,
+ "title": "Sesiones de autoestima, compasión y empatía",
+ "published": "2023-05-24",
+ "modified": "2023-08-01",
+ "seo_title": "Sesiones de autoestima, compasión y empatía - L'Espiral",
+ "description": "Sesiones de autoestima, compasión y empatía en L'Espiral. Mejora la actitud hacia ti mismo y hacia los demás con nuestras Sesiones en El Prat de Llobregat.",
+ "lang": "es",
+ "keyword": "autoestima,empatía",
+ "h1_inventari": "SESIONES DE AUTOESTIMA, COMPASIÓN Y EMPATÍA.",
+ "og_title": "Sesiones de autoestima, compasión y empatía - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/sesiones-autoestima-empatia.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Curso en L'espiral"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "SESIONES DE AUTOESTIMA, COMPASIÓN Y EMPATÍA."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/sesiones-autoestima-empatia.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Sesiones de autoestima, compasión y empatía."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La autocompasión es el comienzo de toda sanación emocional, mental y espiritual."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Poder sentir compasión hacia todas y cada una de nuestras experiencias internas hace que aumente nuestra autoestima y la empatía hacia los demás."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "En estas sesiones reconoceremos, aceptaremos, investigaremos y cuidaremos nuestras vivencias para poder vivir una vida más amorosa con nosotros mismos y con el mundo que nos rodea."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Si bien cada uno de nosotros tiene la capacidad para el amor y la compasión, es mediante la práctica intencional que desarrollamos un corazón verdaderamente sabio y afectuoso."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/sesiones-autoestima-empatia.jpg",
+      "alt": "sesiones-autoestima-empatia"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/sesiones-compasion.jpg",
+      "alt": "sesiones-compasion"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿En qué consisten las sesiones?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Sesiones de autoestima, compasión y empatía.​"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Mediante prácticas formales e informales de Mindfulness favorecemos el cultivo de una actitud amorosa y de compasión hacia uno mismo y hacia los demás. <br><br> Desde el estudio y la observación de las propias experiencias, los participantes profundizarán e internalizarán el conocimiento y la comprensión de la actitud meditativa y la empatía. <br><br> Las sesiones permiten familiarizarse con la experiencia de la compasión y establecer el hábito de la compasión en la vida."
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "Beneficios de las sesiones"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Sesiones de autoestima, compasión y empatía.​"
+       },
+       {
+        "t": "text",
+        "html": "<ul>\n<li>Desarrollar <strong>actitud amorosa </strong>(hacia nosotros y hacia nuestro entorno, capacidad de empatía).</li>\n<li>Fomentar las <strong>prácticas compasivas </strong>(generar hábitos compasivos hacia nosotros y hacia nuestro entorno, acción activa y consciente).</li>\n<li><strong>Mejora de relaciones intra y extrapersonal </strong>(capacidad de escucha interna y externa, de valoración sin juicios y mejora de habilidades de inteligencia emocional y social).</li>\n<li>Aflojar el control de la autocrítica crónica.</li>\n<li>Aliviar el sufrimiento de emociones como el miedo, la vergüenza o la ira.</li>\n<li>Curar patrones nocivos y reactivos</li>\n</ul>"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/sesiones-autoestima-el-prat.jpg",
+      "alt": "sesiones-autoestima-el-prat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Se pueden beneficiar todas aquellas personas que consideren que una actitud más amorosa hacia sí mismos y hacia los demás mejoraría su vida. Personas que quieran mejorar su autoestima y autoconocimiento."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Consúltanos para saber las fechas, horarios y precios actualizados."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Taller impartido por"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Aleix Boronat Monfort Director y cofundador de l’Espiral. Terapeuta Gestalt, Mentor en Mindfulness y Miembro adherente de la AETG. Formación en Psicoterapia Integrativa (programa SAT). Formado en técnicas psicocorporales (Shiatsu y Movimiento, Seitai, Yoga, Bioenergetica)."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-pedir-cida/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

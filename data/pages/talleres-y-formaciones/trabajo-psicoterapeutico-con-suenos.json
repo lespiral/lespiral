@@ -1,0 +1,285 @@
+{
+ "path": "talleres-y-formaciones/trabajo-psicoterapeutico-con-suenos",
+ "wp_id": 607,
+ "title": "Trabajo psicoterapéutico con sueños",
+ "published": "2023-05-24",
+ "modified": "2023-08-01",
+ "seo_title": "Trabajo psicoterapéutico con sueños - L'Espiral",
+ "description": "Psicólogos y Terapeutas Gestalt en el Prat",
+ "lang": "es",
+ "h1_inventari": "Trabajo Psicoterapéutico con Sueños",
+ "og_title": "Trabajo psicoterapéutico con sueños - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/grupo-terapeutico-psicologo-en-el-prat-1.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en el Prat"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "Trabajo Psicoterapéutico con Sueños"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/grupo-terapeutico-psicologo-en-el-prat-1.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Trabajo Psicoterapéutico con Sueños"
+     },
+     {
+      "t": "text",
+      "html": "<p>El trabajo psicoterapéutico experiencial con sueños es una <strong>poderosa herramienta para el <span class=\"hiddenSpellError\">autoconocimiento</span></strong> que <strong>permite el acceso a pistas sobre cómo abordar cuestiones experienciales de la vida cotidiana</strong>.</p>\n<p>Este tipo de propuesta utiliza herramientas de terapia <span class=\"hiddenSpellError\">Gestalt</span>, que fueron especialmente sintonizadas por Fritz <span class=\"hiddenSpellError\">Perls</span> en su trabajo «Sueños y Existencia» y por su alumna Adriana <span class=\"hiddenSpellError\">Shnake</span>.</p>"
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/grupo-terapeutico-psicologo-en-el-prat-1.jpg",
+      "alt": "grupo-terapeutico-psicologo-en-el-prat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/ansiedad-4-psicologo-en-el-prat.jpg",
+      "alt": "ansiedad-4-psicologo-en-el-prat"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿En qué consiste el taller?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat"
+     },
+     {
+      "t": "text",
+      "html": "<p>En este enfoque, no trabajamos sueños para interpretarlos: <b>ofrecemos un espacio de exploración para que la persona pueda encontrar por sí misma el significado de su sueño</b>.</p>\n<p>Creemos que en nuestro sueño estamos convirtiendo partes de nosotros, experiencias, sentimientos y emociones en escenas, objetos, historias. Tratamos de <b>guiar a la persona a seguir la pista del sueño</b> para ver «donde nos lleva».</p>\n<p>También trabajaremos en temas como «no recordar sueños», ofreciendo técnicas de incubación de sueños, «pesadillas» (técnicas para abordar la angustia del sueño) y «sueños recurrentes».</p>"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "Beneficios"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Psicólogos y Terapeutas Gestalt en El Prat"
+       },
+       {
+        "t": "text",
+        "html": "<p>El sueño puede representar un <b>material simbólico muy poderoso,útil para conectar con temas importantes de nuestra vida</b> y obtener alguna pista sobre qué elegir y qué dirección seguir.</p>\n<p>Al trabajar en grupo, <b>ofrecemos un espacio de resonancia donde trabajar con el sueño</b> de alguien enriquece a todos los demás.</p>"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/trabajo-psicoterapeutico-con-suenos-psicologo-en-el-prat.jpg",
+      "alt": "trabajo-psicoterapeutico-con-sueños-psicologo-en-el-prat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Cualquier persona interesada en acercarse o profundizar en el tema de los sueños."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Pedimos el compromiso de llevar al menos un sueño personal, reciente o pasado, que se pueda compartir en grupo: nos comprometemos a respetar los límites de profundidad de trabajo decididos por el participante, en un ambiente respetuoso y no juzgante."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Consúltanos para saber las fechas, horarios y precios del próximo taller."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Impartido por"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Chiara Leoni: Psicóloga gestaltista infantil, familiar y perinatal. Formada en Terapia Gestalt (Escuela del Taller de Gestalt, Barcelona), Psicoterapia Humanista Integradora Infantil (Centro Besa, Barcelona) y Psicología Perinatal y de la crianza. Mediadora familiar sistémica. Graduada en Trabajo Social. Instructora de yoga perinatal. Formada en meditación con Xavier Puigdevall Oliver."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-pedir-cida/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

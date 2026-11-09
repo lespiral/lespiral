@@ -1,0 +1,170 @@
+{
+ "path": "sobre-nosotros",
+ "wp_id": 68,
+ "title": "Sobre nosotros",
+ "published": "2023-05-23",
+ "modified": "2026-04-24",
+ "seo_title": "Sobre nosotros - L'Espiral",
+ "description": "L´espiral",
+ "lang": "es",
+ "keyword": "sobre nosotros",
+ "h1_inventari": "SOBRE NOSOTROS",
+ "og_title": "Sobre nosotros - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/LESPIRAL-10-1024x683.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "L´espiral"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "SOBRE NOSOTROS"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     }
+    ]
+   ],
+   "bg": "2023/05/LESPIRAL-9.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Si necesitas ayuda estamos a tu lado."
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626 62 71 24",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "L´espiral"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Los psicólogos y terapeutas Gestalt que trabajamos en l’Espiral estamos adscritos a la corriente de la Psicología Humanista. Nuestro objetivo principal es promover el bienestar de las personas, los grupos y la sociedad en general dentro de la relación terapéutica."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Lo hacemos a través de las actitudes, principios y técnicas que son propias de nuestra manera de trabajar. Con ellas, te ayudamos a amplia la consciencia de tus dificultades y tus recursos. Para que tu mismo puedas llegar a proponerte tus propias metas y a dar libre, creativa y responsablemente respuesta a tus conflictos contigo mismo y con el entorno."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Nuestros psicólogos y Terapeutas Gestalt te atenderán en nuestro centro de psicoterapia de El Prat de Llobregat."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/LESPIRAL-10-scaled.jpg",
+      "alt": "LESPIRAL 10"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

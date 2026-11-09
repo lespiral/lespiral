@@ -1,0 +1,298 @@
+{
+ "path": "psicoterapias/psicologo-online-psicoterapia",
+ "wp_id": 824,
+ "title": "Psicoterapia Online",
+ "published": "2023-05-25",
+ "modified": "2024-07-16",
+ "seo_title": "Psicoterapia online por videoconsulta 【Psicólogo online】",
+ "description": "Psicólogo especializado en terapia online. Psicólogo online desde tu móvil u ordenador por videollamada con Skype-Meet etc. ✆ 626-627-124 ✆ ¡Llámanos!",
+ "lang": "es",
+ "keyword": "psicoterapia online",
+ "h1_inventari": "Psicoterapia online",
+ "og_title": "Psicoterapia online por videoconsulta 【Psicólogo online】",
+ "og_image": "/wp-content/uploads/2023/05/psicologo-online-1.jpeg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogo online"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "Psicoterapia online"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/psicologo-online-1.jpeg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Psicoterapia Online"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La psicoterapia es un espacio donde encontrar soluciones a tus problemas de pareja, familia, trabajo, emocionales, relación, autovaloración, duelos, angustia, hijos…"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Es un espacio íntimo y seguro donde puedes descubrir nuevas formas de relacionarte contigo mismo y con los que te rodean."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/psicologo-online-1.jpeg",
+      "alt": "Psychologist working with patient online while sitting in office"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/psicoterapia-online.jpeg",
+      "alt": "psicoterapia-online"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿Como funciona la psicoterapia online?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogo Online"
+     },
+     {
+      "t": "text",
+      "html": "<p>La terapia online es fundamentalmente la versión a distancia de la psicoterapia de siempre, utilizando las ventajas y los recursos de Internet.</p>\n<p>La psicoterapia online se suele basar en la videollamada, la experiencia es muy similar a la de las sesiones presenciales, y su eficacia es la misma.</p>\n<p>La Terapia con Psicólogos y/o Terapeutas Gestalt Online, sigue la misma técnica que la terapia presencial, esto es, evaluar y tratar las dificultades que nos hacen sufrir, en relación con el entorno y con nosotros mismos.</p>\n<p>Para ello se emplean las distintas técnicas y conocimientos que nos brinda la psicología humanista. Todas ellas dirigidas a trabajar los síntomas desde la raíz, construyendo desde tus propias capacidades. Un soporte para iniciar el aprendizaje de estrategias desde el autoconocimiento.</p>\n<p>De este modo se consigue emprender, sin juzgarte, el camino que te ayudará no sólo a resolver tu dificultad principal, sino también a relacionarte con el mundo y con los demás de forma más eficaz. Favoreciendo así un desarrollo pleno y feliz.</p>"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "Beneficios de la psicoterapia online"
+       },
+       {
+        "t": "text",
+        "html": "<p>Muchas personas sienten que la intimidad de su casa o lugar de trabajo les permite abrirse mejor al proceso terapéutico. La seguridad de un espacio conocido favorece la apertura emocional que la terapia necesita.</p>\n<p>Facilita el seguimiento de las sesiones, ya que los imprevistos que pueden dificultar los desplazamientos a la consulta se reducen. La constancia es esencial en cualquier proceso de cambio.</p>\n<p>Permite compaginar las necesidades propias con las de nuestros seres queridos. Poder atender nuestro malestar sin dejar de atender a quienes nos necesitan (hijos, familiares, etc)</p>"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/terapeuta-online.jpeg",
+      "alt": "terapeuta-online"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/psicologo-videoconferencia.jpeg",
+      "alt": "psicologo-videoconferencia"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿Cómo se establecen las sesiones con el terapeuta o psicólogo online?"
+     },
+     {
+      "t": "text",
+      "html": "<ul>\n<li>Tenemos un primer contacto telefónico o por email para acordar una primera cita.</li>\n<li>Acordamos la plataforma para la videollamada (<a href=\"https://meet.google.com/\" target=\"_blank\" rel=\"noopener\">Google Meet</a>, VideoWhatsApp, <a href=\"https://web.telegram.org/\" target=\"_blank\" rel=\"noopener\">Telegram</a>, <a href=\"https://www.skype.com/es/\" target=\"_blank\" rel=\"noopener\">Skype</a>, etc) y la forma de pago (por transferencia bancaria o Bizum)</li>\n<li>Empezamos la terapia.</li>\n</ul>"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "A todos los adultos que sienten que un apoyo profesional puede traer cambios en sus vidas y que no pueden o no desean desplazarse a un centro psicológico y prefieren la psicoterapia online."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La duración, frecuencia, horarios y precio de las sesiones online se acuerdan con el psicólogo o terapeuta al comienzo de la terapia."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Ponte en contacto con nosotros para saber qué terapeutas pueden acompañarte y sus condiciones de trabajo."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-pedir-cida/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% from "parts.html" import section with context %}
+{% block content %}
+{# La portada (data/pages/index.json): la primera secció és la capçalera gran #}
+{% for s in page.sections %}{{ section(s, page, none, loop.first) }}{% endfor %}
+{% endblock %}

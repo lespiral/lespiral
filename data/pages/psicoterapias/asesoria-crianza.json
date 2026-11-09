@@ -1,0 +1,237 @@
+{
+ "path": "psicoterapias/asesoria-crianza",
+ "wp_id": 813,
+ "title": "Asesoría en Crianza de 0 a 6 años",
+ "published": "2023-05-25",
+ "modified": "2023-06-13",
+ "seo_title": "Asesoría en Crianza de 0 a 6 años - L'Espiral",
+ "description": "Asesoría en crianza en niñas y niños de 0 a 6 años. Asesoría de crianza para familias con niños con problemas de ensueño, alimentación, celos, agresividad...",
+ "lang": "es",
+ "keyword": "asesoría en crianza",
+ "h1_inventari": "ASESORÍA DE CRIANZA",
+ "og_title": "Asesoría en Crianza de 0 a 6 años - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/asesoria-crianza-psicologos.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "De 0 a 6 años"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "ASESORÍA DE CRIANZA"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/asesoria-crianza-psicologos.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Asesoría de Crianza"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Los niños hasta los 6 años necesitan un trabajo conjunto del terapeuta con sus padres para descartar problemas de desarrollo y revisar pautas familiares."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Debido a que es importantísimo el trabajo de recogida de informaciones sobre salud, desarrollo e historia infantil y familiar, previamente a la recomendación de pautas o alguna sesión de observación, la primera sesión tendrá una duración de 1 hora y 30 minutos."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Eventuales sesiones posteriores de seguimiento tendrán duración de 1 hora."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/asesoria-crianza-psicologos.jpg",
+      "alt": "Asesoria Crianza"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/asesoria-crianza-0-6.jpg",
+      "alt": "Psicologo Asesoria Crianza"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿Qué incluye este servicio?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Asesoría de crianza"
+     },
+     {
+      "t": "text",
+      "html": "<ul>\n<li>Envío de bibliografía para trabajar pautas en casa.</li>\n<li>Envío de hojas de registro de conducta para la observación del niño entre sesiones.</li>\n<li>Recogida y estudio de vídeos (eventuales) sobre interacciones familiares diarias que se puede acordar enviar entre sesiones.</li>\n<li>Envío de vídeos con ejercicios que los padres podrían necesitar practicar en casa con el niño.</li>\n</ul>"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "¿A quién va dirigida la asesoría?"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Asesoría de crianza"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Asesoría de crianza para familias con niños con problemas de ensueño, alimentación, celos, agresividad, regresiones infantiles, malestar emocional y relacional, adaptación etc."
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/psicologo-crianza.jpg",
+      "alt": "Psicologo Asesoria Crianza"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

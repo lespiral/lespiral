@@ -1,0 +1,322 @@
+{
+ "path": "ansiedad/gestion-de-la-ansiedad-3",
+ "wp_id": 456,
+ "title": "Gestión de la Ansiedad",
+ "published": "2023-05-24",
+ "modified": "2024-07-16",
+ "seo_title": "Gestión de la Ansiedad en Prat de Llobregat",
+ "description": "Terapeutas especializados en gestión de la ansiedad en El Prat de Llobregat.",
+ "lang": "es",
+ "keyword": "gestión ansiedad",
+ "h1_inventari": "GESTIÓN DE LA ANSIEDAD",
+ "og_title": "Gestión de la Ansiedad en Prat de Llobregat",
+ "og_image": "/wp-content/uploads/2023/05/ansiedad-psicologo-en-el-prat.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y terapeutas gestalt en el prat"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "GESTIÓN DE LA ANSIEDAD"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/ansiedad-psicologo-en-el-prat.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Gestión de la Ansiedad"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Un taller dónde aprender a identificar claramente que nos pasa cuando nos ponemos ansiosos."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "10 sesiones para poder encontrar alternativas más saludables en nuestro día a día."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/ansiedad-psicologo-en-el-prat.jpg",
+      "alt": "ansiedad-psicologo-en-el-prat"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/ansiedad-4-psicologo-en-el-prat.jpg",
+      "alt": "ansiedad-4-psicologo-en-el-prat"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿Qué es la ansiedad?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La Ansiedad no es un monstruo que nos viene a ver. Es una respuesta que generamos ante lo que la vida nos propone. <br><br> Es una forma determinada de pensar, de respirar, de colocar el cuerpo, de emocionarnos, que nos angustia. <br><br> Los pensamientos o creencias perturbadoras que generan ansiedad captan toda nuestra atención, nos hacen perder la calma y la serenidad y nos impiden ver claramente las opciones de bienestar que nos ofrecen nuestros propios recursos y el mundo que nos rodea."
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "¿En qué consiste este taller?"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Psicólogos y Terapeutas Gestalt en El Prat"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Aprenderemos a identificar claramente que nos pasa cuando nos ponemos ansiosos; para poder encontrar alternativas más saludables en nuestro día a día. <br><br> Aprenderemos como generamos nuestra ansiedad y cómo podemos dejar de ponernos ansiosos. <br><br> Realizaremos dinámicas y practicaremos técnicas que nos pueden ayudar a gestionar mejor nuestro día a día. <br><br> Mediante varias dinámicas de autoexploración como visualizaciones, meditaciones, trabajo corporal, respiraciones, el Mindfulness y el acompañamiento de la Psicoterapia Gestalt, generaremos un espacio donde poder encontrar soluciones creativas para gestionar y mejorar nuestro estado de ansiedad."
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Mindfulness-psicologo-en-el-prat-1.jpg",
+      "alt": "Mindfulness-psicologo-en-el-prat-1"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/sanar-la-ansiedad.jpg",
+      "alt": "sanar la ansiedad"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Beneficios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat"
+     },
+     {
+      "t": "text",
+      "html": "<ul>\n<li>Reducir los niveles de estrés.</li>\n<li>Descubrir los tipos de respuestas que generan ansiedad existencial, ansiedad fisiológica, ansiedad disfuncional, situaciones de incertidumbre, autoexigencia y la gestión de las emociones.</li>\n<li>Ampliación de la confianza y la seguridad en uno mismo y en el entorno.</li>\n<li>Adquisición de nuevos patrones respiratorios y corporales para prevenir la angustia o los ataques de pánico.</li>\n<li>Capacidad de autoexploración y valoración de los propios recursos.</li>\n</ul>"
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "A las personas que se sientan angustiadas, ansiosas, estresadas o autoexigidas con mayor o menor medida."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "A familiares y amigos de personas que sufran algún trastorno ansioso y quieran comprender un poco mejor que pueden estar viviendo sus seres queridos."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Consúltanos para saber las fechas, horarios y precios del próximo taller."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Impartido por"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Aleix Boronat Monfort: Director y cofundador de l’Espiral. Terapeuta Gestalt, Mentor en Mindfulness y Miembro adherente de la AETG. Formación en Psicoterapia Integrativa (programa SAT). Formado en técnicas psicocorporales (Shiatsu y Movimiento, Seitai, Yoga, Bioenergetica)."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": null
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

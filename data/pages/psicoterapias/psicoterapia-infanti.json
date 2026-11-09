@@ -1,0 +1,292 @@
+{
+ "path": "psicoterapias/psicoterapia-infanti",
+ "wp_id": 284,
+ "title": "Psicólogo Infantil El Prat de Llobregat",
+ "published": "2023-05-23",
+ "modified": "2023-06-13",
+ "seo_title": "Psicólogo Infantil El Prat de Llobregat - L'Espiral",
+ "description": "Los mejores psicólogos infantiles del Prat de Llobregat. Problemas de conducta, emocionales, escolares, de personalidad ✓ Psicoterapia infantil con RESULTADOS.",
+ "lang": "es",
+ "keyword": "psicologo infantil",
+ "h1_inventari": "PSICOTERAPIA INFANTIL",
+ "og_title": "Psicólogo Infantil El Prat de Llobregat - L'Espiral",
+ "og_image": "/wp-content/uploads/2023/05/Psicoterapia-Infantil.jpg",
+ "sections": [
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas para"
+     },
+     {
+      "t": "h",
+      "tag": "h1",
+      "html": "PSICOTERAPIA INFANTIL"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicólogos y Terapeutas Gestalt en El Prat de Llobregat"
+     },
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-3/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ],
+   "bg": "2023/05/Com-parlar-als-fills-b-El-Melic-El-Prat-de-Llobregat.jpg"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "white",
+      "blocks": [
+       {
+        "t": "row",
+        "cols": [
+         [
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Si necesitas ayuda estamos a tu lado."
+          },
+          {
+           "t": "h",
+           "tag": "p",
+           "html": "Llámanos, cientos de pacientes nos avalan."
+          }
+         ],
+         [
+          {
+           "t": "list",
+           "items": [
+            {
+             "html": "Psicoterapia para adultos"
+            },
+            {
+             "html": "Terapia de pareja"
+            },
+            {
+             "html": "Psicoterapia infantil"
+            },
+            {
+             "html": "Psicoterapia online"
+            },
+            {
+             "html": "Mindfulness terapéutico"
+            }
+           ]
+          }
+         ]
+        ]
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Llámanos o envíanos un WhatsApp sin compromiso"
+       },
+       {
+        "t": "list",
+        "items": [
+         {
+          "html": "626 62 71 24",
+          "href": "tel:626627124",
+          "icon": "phone"
+         }
+        ]
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "Experimentarás un cambio, no únicamente en el área de conflicto que te traiga a nosotros, sino en todas las esferas de tu vida."
+       }
+      ]
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Psicoterapia Infantil"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La terapia infantil es un espacio de relación destinado a construir un vínculo seguro con el fin de averiguar los problemas emocionales del niño y repararlos, tanto con la relación con el terapeuta como con las pautas compartidas con los padres."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Es una ocasión para que la criatura entre en relación con un adulto que puede acompañarlo para dar voz a sus miedos y ansiedades, así como para compensar experiencias que pueden ser desagradables o traumáticas (duelos, cambios, problemas de desarrollo, separaciones, eventos estresantes de cualquier naturaleza)."
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Psicoterapia-Infantil.jpg",
+      "alt": "Psicoterapia Infantil"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "img",
+      "src": "2023/05/psicologa-infantil-el-prat.jpg",
+      "alt": "psicologa-infantil-el-prat"
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿Cómo funciona la terapia infantil?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Psicóloga Infantil y Psicopedagoga en El Prat de Llobregat"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Trabajamos dentro de un marco de psicoterapia infantil humanista. <br><br> La Terapia Infantil propone una mirada hacia la criatura como persona integral, que es capaz de ser autorregulada en su desarrollo si tiene un entorno que pueda facilitarlo. <br><br> La terapia es, por lo tanto, un espacio de relación que se basa en el lenguaje propio del niño o la niña: El juego, el dibujo y la expresión plástica, el movimiento, la experimentación con diferentes materiales y con la misma persona del terapeuta. <br><br> En terapia infantil, siempre trabajamos con la familia, a través de una dinámica conjunta con la criatura y/o con sesiones periódicas específicas para ellos con un psicólogo infantil experto en psicoterapia. <br><br> El objetivo es acompañar a toda la familia a experimentarse en una relación respetuosa y enriquecedora."
+     }
+    ]
+   ],
+   "tone": "dark"
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "panel",
+      "tone": "dark",
+      "blocks": [
+       {
+        "t": "h",
+        "tag": "h3",
+        "html": "Beneficios de un psicólogo infantil"
+       },
+       {
+        "t": "h",
+        "tag": "h2",
+        "html": "Psicóloga y Psicopedagoga Infantil en El Prat de Llobregat"
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "El primer beneficio para el niño es tener un espacio de expresión y relación con una persona (el terapeuta) dedicada a escucharlo y acompañarlo con una presencia plena."
+       },
+       {
+        "t": "h",
+        "tag": "p",
+        "html": "El objetivo del proceso es que el niño haga experiencias que luego se puedan trasladar a su entorno cada día, abandonando gradualmente patrones relacionales defensivos."
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "img",
+      "src": "2023/05/Com-parlar-als-fills-b-El-Melic-El-Prat-de-Llobregat.jpg",
+      "alt": "terapia infantil"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "¿A quién va dirigido?"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Las criaturas a menudo lanzan una llamada de atención con algún comportamiento considerado problemático en el hogar y/o en la escuela (problemas de sueño, comida, control de los esfínteres, rabia, problemas académicos, agresividad….)."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Adoptamos una mirada desculpabilizadora hacia la familia y hacia la misma criatura y nos podemos a escuchar el síntoma, interpretándolo como el lenguaje con el que el niño quiere comunicar algo para ser ayudado a superar algún bloqueo durante su crecimiento."
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "Nuestros psicólogos infantiles están especializados en psicoterapia infantil y el rango de edad al que nos dirigimos es el preescolar y la escolar (3-14 años)."
+     }
+    ],
+    [
+     {
+      "t": "h",
+      "tag": "h3",
+      "html": "Precios, duración y horarios"
+     },
+     {
+      "t": "h",
+      "tag": "p",
+      "html": "La duración, frecuencia, horarios y precio de las sesiones de psicoterapia infantil se acuerdan con el terapeuta al comienzo de la terapia. <br><br> Ponte en contacto con nosotros para saber qué terapeutas pueden acompañarte y sus condiciones de trabajo."
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "btn",
+      "text": "Pide una cita",
+      "href": "/contacto-pedir-cida/"
+     },
+     {
+      "t": "btn",
+      "text": "Sobre nosotros",
+      "href": "/sobre-nosotros/"
+     }
+    ]
+   ]
+  },
+  {
+   "cols": [
+    [
+     {
+      "t": "h",
+      "tag": "h2",
+      "html": "Opiniones de Google de Psicólogos L´Espiral.cat"
+     },
+     {
+      "t": "ressenyes"
+     }
+    ]
+   ],
+   "tone": "light"
+  }
+ ]
+}

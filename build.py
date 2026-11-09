@@ -101,11 +101,29 @@ def media_by_url(src):
 
 IMG_TAG = re.compile(r"<img\b[^>]*>", re.I)
 
+# Vídeos de YouTube que el WordPress mostrava a partir d'una adreça sola (bloc «embed» o paràgraf amb només l'adreça).
+# A la web nova: un requadre que carrega el vídeo (youtube-nocookie.com) només quan es clica (site.js).
+YT_EMBED = re.compile(
+    r'<figure class="wp-block-embed[^"]*youtube[^"]*">\s*<div class="wp-block-embed__wrapper">\s*(https?://\S+?)\s*</div>\s*</figure>'
+    r'|<p>\s*(https?://(?:www\.)?(?:youtu\.be/|youtube\.com/watch\?v=)[^\s<]+)\s*</p>')
+
+
+def yt_box(m):
+    url = m.group(1) or m.group(2)
+    vid = re.search(r"(?:youtu\.be/|[?&]v=)([A-Za-z0-9_-]{11})", url)
+    if not vid:
+        return m.group(0)
+    v = vid.group(1)
+    return (f'<figure class="video"><a class="video__box" href="https://www.youtube.com/watch?v={v}" data-yt="{v}" '
+            f'aria-label="Ver el vídeo">{icon("play")}<span>Ver el vídeo</span></a>'
+            f'<figcaption class="video__note">El vídeo se carga desde YouTube al pulsar.</figcaption></figure>')
+
 
 def fix_html(h):
     """HTML de les dades → HTML de la web: adreces amb l'arrel, i les imatges amb mides i càrrega diferida."""
     if not h:
         return Markup("")
+    h = YT_EMBED.sub(yt_box, h)
     h = re.sub(r'(href|src|poster)="(/[^"/][^"]*|/)"', lambda m: f'{m.group(1)}="{u(m.group(2))}"', h)
     h = re.sub(r'srcset="([^"]*)"', lambda m: 'srcset="' + re.sub(r"(^|,\s*)(/)(?!/)", lambda x: x.group(1) + BASE, m.group(1)) + '"', h)
 

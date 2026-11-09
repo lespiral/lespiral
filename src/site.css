@@ -571,6 +571,12 @@ main{padding-top:var(--topbar)}
 .mapbox__addr .i,.mapbox__link .i{width:18px;height:18px}
 .mapbox__link{margin-top:12px}
 .mapbox__link a{display:inline-flex;gap:8px;align-items:center;font-weight:600}
+.video{margin:28px 0}
+.video a.video__box,.video a.video__box:hover{aspect-ratio:16/9;border-radius:var(--radius-lg);background:linear-gradient(135deg,var(--c800),var(--c600));display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;color:#fff;text-decoration:none;font:600 16px/1.2 var(--sans)}
+.video__box .i{width:72px;height:72px;padding:18px;background:rgba(255,255,255,.16);border-radius:50%}
+.video__box:hover{filter:brightness(1.08)}
+.video iframe{display:block;width:100%;aspect-ratio:16/9;border:0;border-radius:var(--radius-lg)}
+.video__note{font-size:13px;color:var(--muted);margin-top:8px;text-align:center}
 .btn .i{width:1.1em;height:1.1em}
 
 /* Peu: logos del Kit Digital i altres projectes */

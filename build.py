@@ -170,7 +170,7 @@ articles = [a for a in (load_json(f) for f in sorted((DATA / "articles").glob("*
 articles.sort(key=lambda a: (a["published"], a.get("wp_id", 0)), reverse=True)
 for a in articles:
     a["date_text"] = fecha(a["published"], a.get("lang", "es"))
-    a["summary"] = plain(a["html"], 55)
+    a["summary"] = plain(a["html"], 28)
     a["url"] = "/" + a["path"] + "/"
 paths = {p["path"] for p in pages} | {a["path"] for a in articles}
 by_path = {p["path"]: p for p in pages}

@@ -102,7 +102,8 @@ def media_by_url(src):
 IMG_TAG = re.compile(r"<img\b[^>]*>", re.I)
 
 # Vídeos de YouTube que el WordPress mostrava a partir d'una adreça sola (bloc «embed» o paràgraf amb només l'adreça).
-# A la web nova: un requadre que carrega el vídeo (youtube-nocookie.com) només quan es clica (site.js).
+# A la web nova: un requadre que obre el vídeo a YouTube (el canal no deixa inserir-los en altres webs; l'Aleix
+# ho revisarà quan els passi a un altre canal). La pàgina no carrega res de YouTube.
 YT_EMBED = re.compile(
     r'<figure class="wp-block-embed[^"]*youtube[^"]*">\s*<div class="wp-block-embed__wrapper">\s*(https?://\S+?)\s*</div>\s*</figure>'
     r'|<p>\s*(https?://(?:www\.)?(?:youtu\.be/|youtube\.com/watch\?v=)[^\s<]+)\s*</p>')
@@ -114,9 +115,8 @@ def yt_box(m):
     if not vid:
         return m.group(0)
     v = vid.group(1)
-    return (f'<figure class="video"><a class="video__box" href="https://www.youtube.com/watch?v={v}" data-yt="{v}" '
-            f'aria-label="Ver el vídeo">{icon("play")}<span>Ver el vídeo</span></a>'
-            f'<figcaption class="video__note">El vídeo se carga desde YouTube al pulsar.</figcaption></figure>')
+    return (f'<figure class="video"><a class="video__box" href="https://www.youtube.com/watch?v={v}" rel="noopener">'
+            f'{icon("play")}<span>Ver el vídeo en YouTube</span></a></figure>')
 
 
 def fix_html(h):

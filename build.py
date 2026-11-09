@@ -421,7 +421,7 @@ for old, to in site.get("redirects", {}).items():
     if not to.startswith("http") and target.split("#")[0] not in paths and target.split("/page/")[0] not in {g[0] for g in groups}:
         errors.append(f"data/site.json (redirects): /{old}/ porta a {to}, que no existeix")
         continue
-    if ONLY is not None:
+    if ONLY is not None and target.split("#")[0] not in ONLY:
         continue
     dest = OUT / old / "index.html"
     dest.parent.mkdir(parents=True, exist_ok=True)

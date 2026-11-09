@@ -71,15 +71,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://lespiral.cat/personalizar-cookies/</loc>
-		<lastmod>2023-05-23</lastmod>
-	</url>
-	<url>
 		<loc>https://lespiral.cat/aviso-legal/</loc>
-		<lastmod>2023-06-02</lastmod>
-	</url>
-	<url>
-		<loc>https://lespiral.cat/politica-de-cookies/</loc>
 		<lastmod>2023-06-02</lastmod>
 	</url>
 	<url>
@@ -859,5 +851,13 @@
 		<image:image>
 			<image:loc>https://lespiral.cat/wp-content/uploads/2023/05/sesiones-autoestima-empatia-1536x1024-1.jpg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://lespiral.cat/personalizar-cookies/</loc>
+		<lastmod>2026-11-09</lastmod>
+	</url>
+	<url>
+		<loc>https://lespiral.cat/politica-de-cookies/</loc>
+		<lastmod>2026-11-09</lastmod>
 	</url>
 </urlset>

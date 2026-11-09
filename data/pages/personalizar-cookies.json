@@ -3,12 +3,12 @@
  "wp_id": 60,
  "title": "Personalizar Cookies",
  "published": "2023-05-23",
- "modified": "2023-05-23",
+ "modified": "2026-11-09",
  "seo_title": "Personalizar Cookies - L'Espiral",
  "description": "",
  "lang": "es",
  "h1_inventari": "Personalizar Cookies",
  "og_title": "Personalizar Cookies - L'Espiral",
- "html": "<p>[PENDENT] Text senzill per a aquesta pàgina (decisió 8: ja no hi ha galetes per configurar). L'aprova l'Aleix.</p>",
+ "html": "<p>Este Sitio Web <strong>no instala cookies propias</strong> ni utiliza cookies de análisis o de publicidad. Por eso no hay ningún aviso de cookies ni nada que configurar.</p>\n<p>Solo se pueden instalar cookies de Google si usted decide cargar el mapa de Google (página de contacto). Si no lo carga, no se instala ninguna.</p>\n<p>Si ya lo ha cargado y quiere borrar esas cookies, puede hacerlo desde la configuración de su navegador. Encontrará más información en la <a href=\"/politica-de-cookies/\">Política de Cookies</a>.</p>",
  "robots": "noindex, follow"
 }

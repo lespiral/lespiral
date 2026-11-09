@@ -504,10 +504,22 @@ shutil.copy(SRC / "site.css", OUT / "assets" / "site.css")
 shutil.copy(SRC / "site.js", OUT / "assets" / "site.js")
 shutil.copytree(SRC / "img", OUT / "assets" / "img", dirs_exist_ok=True)
 (OUT / ".nojekyll").write_text("")
+# robots.txt. En proves: no hi entra ningú. Amb el domini: hi entren els cercadors i els robots de cerca de les IA
+# (OAI-SearchBot, ChatGPT-User, Claude-SearchBot, PerplexityBot...: calen perquè les IA puguin citar la web).
+# Els robots que entrenen les IA, segons la decisió 21 (data/site.json, "ai_training": "permet" o "bloqueja").
+AI_TRAINING_BOTS = ["GPTBot", "ClaudeBot", "Google-Extended", "CCBot", "Applebot-Extended", "Meta-ExternalAgent", "Bytespider"]
 if NOINDEX:
     (OUT / "robots.txt").write_text("User-agent: *\nDisallow: /\n")
 else:
-    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}sitemap_index.xml\n")
+    decision = site.get("ai_training")
+    if decision not in ("permet", "bloqueja"):
+        print("ATENCIÓ: falta la decisió 21 (data/site.json, \"ai_training\": \"permet\" o \"bloqueja\"). No es publica amb el domini sense decidir-ho.")
+        sys.exit(1)
+    rb = "User-agent: *\nAllow: /\n"
+    if decision == "bloqueja":
+        rb += "\n# Robots que entrenen models d'IA (decisió 21): no\n" + "".join(f"User-agent: {b}\n" for b in AI_TRAINING_BOTS) + "Disallow: /\n"
+    rb += f"\nSitemap: {SITE_URL}sitemap_index.xml\n"
+    (OUT / "robots.txt").write_text(rb)
 if (ROOT / "CNAME").exists():
     shutil.copy(ROOT / "CNAME", OUT / "CNAME")
 

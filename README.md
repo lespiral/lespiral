@@ -5,9 +5,10 @@ Web estàtica de L'Espiral, el centre de psicoteràpia del Prat de Llobregat. Su
 `lespiral/espiralosona` i `lespiral/elarasocial`): dades en JSON, plantilles i un sol full d'estils.
 Es publica amb GitHub Pages des de la carpeta `docs/` de la branca `main`.
 
-Estat (9/11/2026, fase 3): web sencera generada a l'adreça de proves (226 pàgines, 35 adreces antigues
-redirigides). Pendents, marcats amb `[PENDENT]`: les ressenyes (decisió 7) i els textos de les pàgines de galetes
-(decisió 8). Les decisions de la fase 2 (D1–D20) són al pla de treball del projecte de Claude i a l'inventari.
+Estat (9/11/2026, fase 4 tancada): web sencera i comprovada a l'adreça de proves (226 pàgines, 35 adreces antigues
+redirigides), amb les ressenyes (decisió 7) i els textos de galetes (decisió 8) aprovats per l'Aleix. Cap marca
+`[PENDENT]`. Les decisions (D1–D21) són al pla de treball del projecte de Claude i a l'inventari. Següent pas: el canvi
+de DNS (fase 5), només amb l'OK de l'Aleix.
 
 ## On és cada cosa
 
@@ -18,9 +19,11 @@ redirigides). Pendents, marcats amb `[PENDENT]`: les ressenyes (decisió 7) i el
   `/psicoterapias/psicoterapia-adultos/`; la portada és `data/pages/index.json`.
 - `data/articles/<adreça>.json`: les 143 entrades (articles), amb el seu HTML.
 - `data/media.json`: la biblioteca de mitjans del WordPress (mides i text alternatiu de cada imatge).
-- `data/legal/`: l'Avís legal i la Política de privacitat. Els feia el plugin Adapta RGPD (no eren a l'exportació):
-  és la plantilla del plugin amb les dades del WordPress, comprovada paraula per paraula amb el text de la web
-  d'ara. Aquestes pàgines i les de galetes porten `noindex, follow`, com abans.
+- `data/legal/`: l'Avís legal i la Política de privacitat tal com els va reproduir la importació (els feia el plugin
+  Adapta RGPD i no eren a l'exportació; comprovats paraula per paraula amb la web d'ara). El text que es publica és
+  el de `data/pages/aviso-legal.json` i `data/pages/politica-de-privacidad.json`: un canvi s'hi ha de fer allà (i,
+  per tenir-ho igual, també aquí). Des del 9/11/2026 la Política de privacitat té el paràgraf de galetes adaptat a la
+  web nova (OK de l'Aleix). Aquestes pàgines i les de galetes porten `noindex, follow`, com abans.
 - `static/`: es copia tal qual. `static/wp-content/uploads/` són les imatges i els PDF **originals** a la mateixa
   ruta que al WordPress (decisió 19; no s'han de recomprimir: 121 porten coordenades GPS); `google8d37b0a77b34efe5.html`
   i `googlebb28148fcce2edc7.html` (verificació de Search Console, decisió 12) i `llms.txt`.
@@ -61,13 +64,16 @@ El títol i la descripció per a Google (`seo_title`, `description`) són els qu
 - Títol, descripció, H1, H2, textos i text alternatiu de les imatges, com ara.
 - Dades estructurades com les de Rank Math (Organization, Place, WebSite, WebPage, Person, Article/BlogPosting),
   amb l'adreça i el punt de la fitxa de Google, i les etiquetes geo (decisió 13).
-- Mapes del web amb els mateixos noms: `sitemap_index.xml`, `post-sitemap.xml`, `page-sitemap.xml`. `robots.txt`.
+- Mapes del web amb els mateixos noms: `sitemap_index.xml`, `post-sitemap.xml`, `page-sitemap.xml`.
+- `robots.txt`: en proves no hi entra ningú. Amb el domini hi entren els cercadors i les IA (decisió 21), i es
+  bloquegen les mateixes eines de SEO, robots agressius i cercadors estrangers que bloquejava el WordPress.
 - Feeds: `/feed/` i `/category/articulos/feed/` (decisió 20).
 - Arxius i paginacions: `/category/articulos/` (10 per pàgina), `/tag/gestaltmindfulness/` i `/articulos/page/N/` (9 per pàgina) (decisió 9).
 - Adreces antigues (22 del 2023 i 7 variants mal escrites): porten a la bona a l'instant (meta refresh i canònic;
   GitHub Pages no fa redireccions 301) (decisions 10 i 11). Les adreces que no existeixen porten a `404.html`.
 - Sense Tag Manager, sense avís de galetes, sense GTranslate ni Trustindex (decisions 1, 7 i 8). El mapa de Google
-  i els vídeos de YouTube només es carreguen quan es cliquen.
+  només es carrega quan es clica. Els 3 vídeos de YouTube dels articles són un enllaç que els obre a YouTube (el canal
+  no deixa inserir-los; l'Aleix ho revisarà quan els passi a un altre canal).
 
 ## Publicació
 
